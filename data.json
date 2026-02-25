@@ -6,7 +6,9 @@
       "emoji": "🏃‍♀️",
       "description": "20 Minuten zusammen spazieren gehen!",
       "points": 15,
-      "style": "adventure"
+      "style": "adventure",
+      "condition": null
+
     },
     {
       "code": "bbbbbbb",
@@ -14,7 +16,9 @@
       "emoji": "📸",
       "description": "Ein gemeinsames Selfie machen!",
       "points": 10,
-      "style": "creative"
+      "style": "creative",
+      "condition": null
+
     },
     {
       "code": "ccccccc",
@@ -22,7 +26,9 @@
       "emoji": "☕️",
       "description": "Zusammen einen Kaffee trinken und quatschen!",
       "points": 10,
-      "style": "cozy"
+      "style": "cozy",
+      "condition": null
+
     },
     {
       "code": "ddddddd",
@@ -30,7 +36,9 @@
       "emoji": "✉️",
       "description": "Einen handgeschriebenen Brief verfassen!",
       "points": 20,
-      "style": "romantic"
+      "style": "romantic",
+      "condition": null
+
     },
     {
       "code": "eeeeeee",
@@ -38,7 +46,9 @@
       "emoji": "🎬",
       "description": "Einen Lieblingsfilm zusammen schauen!",
       "points": 15,
-      "style": "cozy"
+      "style": "cozy",
+      "condition": null
+
     },
     {
       "code": "fffffff",
@@ -46,7 +56,9 @@
       "emoji": "💃",
       "description": "3 Minuten zusammen tanzen — egal wie peinlich!",
       "points": 10,
-      "style": "funny"
+      "style": "funny",
+     "condition": null
+
     },
     {
       "code": "ggggggg",
@@ -54,7 +66,9 @@
       "emoji": "🌸",
       "description": "Drei Dinge nennen, für die du dankbar bist.",
       "points": 20,
-      "style": "romantic"
+      "style": "romantic",
+      "condition": null
+
     },
     {
       "code": "hhhhhhh",
@@ -62,7 +76,9 @@
       "emoji": "⭐️",
       "description": "Abends 10 Minuten Sterne beobachten.",
       "points": 25,
-      "style": "mystery"
+      "style": "mystery",
+      "condition": null
+
     },
     {
       "code": "iiiiiii",
@@ -70,7 +86,9 @@
       "emoji": "🥞",
       "description": "Jemanden mit Frühstück im Bett überraschen!",
       "points": 30,
-      "style": "romantic"
+      "style": "romantic",
+      "condition": null
+
     },
     {
       "code": "jjjjjjj",
@@ -78,7 +96,9 @@
       "emoji": "🍕",
       "description": "Zusammen ein neues Rezept ausprobieren.",
       "points": 20,
-      "style": "adventure"
+      "style": "adventure",
+      "condition": null,
+
     }
   ],
   "shopItems": [
@@ -88,7 +108,9 @@
       "description": "Dein Lieblingsessen zum Abendessen!",
       "emoji": "🍣",
       "cost": 30,
-      "isRepeatable": true
+      "isRepeatable": true,
+      "condition": null
+
     },
     {
       "id": "shop-002",
@@ -96,7 +118,9 @@
       "description": "Ein Abend im Kino deiner Wahl!",
       "emoji": "🎟️",
       "cost": 50,
-      "isRepeatable": false
+      "isRepeatable": false,
+        "condition": null
+
     },
     {
       "id": "shop-003",
@@ -104,7 +128,9 @@
       "description": "Frühstück ans Bett gebracht bekommen!",
       "emoji": "🥐",
       "cost": 40,
-      "isRepeatable": true
+      "isRepeatable": true,
+      "condition": null
+
     },
     {
       "id": "shop-004",
@@ -112,7 +138,9 @@
       "description": "Entspannungsabend mit Maske & Massagen!",
       "emoji": "🧖‍♀️",
       "cost": 60,
-      "isRepeatable": false
+      "isRepeatable": false,
+      "condition": null
+
     },
     {
       "id": "shop-005",
@@ -120,7 +148,9 @@
       "description": "Ein beliebiger kleiner Wunsch wird erfüllt!",
       "emoji": "⭐️",
       "cost": 80,
-      "isRepeatable": false
+      "isRepeatable": false,
+      "condition": null
+
     },
     {
       "id": "shop-006",
@@ -128,7 +158,9 @@
       "description": "Zusammen irgendwo Neues entdecken!",
       "emoji": "🗺️",
       "cost": 100,
-      "isRepeatable": false
+      "isRepeatable": false,
+        "condition": null
+
     }
   ]
 }
