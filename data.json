@@ -27,7 +27,9 @@
       "description": "Zusammen einen Kaffee trinken und quatschen!",
       "points": 10,
       "style": "cozy",
-      "condition": null
+      "condition": null,
+      "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/LillyL2.png"
+
 
     },
     {
