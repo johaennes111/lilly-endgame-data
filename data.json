@@ -47,9 +47,7 @@
       "description": "Einen Lieblingsfilm zusammen schauen!",
       "points": 15,
       "style": "cozy",
-      "condition": null,
-        "totalSteps": 10
-
+      "condition": null
 
     },
     {
@@ -59,7 +57,9 @@
       "description": "3 Minuten zusammen tanzen — egal wie peinlich!",
       "points": 10,
       "style": "funny",
-     "condition": null
+     "condition": null,
+              "totalSteps": 10
+
 
     },
     {
