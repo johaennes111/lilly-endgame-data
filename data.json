@@ -158,8 +158,8 @@
       "id": "shop-006",
       "name": "Ausflug",
       "description": "Zusammen irgendwo Neues entdecken!",
+      "emoji": "🎟️",
       "cost": 100,
-            "emoji": "🎟️",
       "isRepeatable": false,
       "condition": null
     }
