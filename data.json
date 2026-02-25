@@ -18,7 +18,6 @@
   "description": "Einen handgeschriebenen Brief verfassen!",
   "points": 20,
   "style": "mystery",
-  "condition": "Test1111",
   "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/LillyL2.png"
   "unlockAnimation": "burst",
   "unlockColor": "#FF69B4",
