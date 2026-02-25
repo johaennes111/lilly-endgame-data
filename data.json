@@ -134,34 +134,6 @@
       "condition": null
 
     },
-    {
-      "id": "shop-004",
-      "name": "Wellness-Abend",
-      "description": "Entspannungsabend mit Maske & Massagen!",
-      "emoji": "🧖‍♀️",
-      "cost": 60,
-      "isRepeatable": false,
-      "condition": null
-
-    },
-    {
-      "id": "shop-005",
-      "name": "Wunsch frei",
-      "description": "Ein beliebiger kleiner Wunsch wird erfüllt!",
-      "emoji": "⭐️",
-      "cost": 80,
-      "isRepeatable": false,
-      "condition": null
-
-    },
-    {
-      "id": "shop-006",
-      "name": "Ausflug",
-      "description": "Zusammen irgendwo Neues entdecken!",
-      "emoji": "🎟️",
-      "cost": 100,
-      "isRepeatable": false,
-      "condition": null
-    }
+   
   ]
 }
