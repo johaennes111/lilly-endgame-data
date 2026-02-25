@@ -7,7 +7,20 @@
       "description": "20 Minuten zusammen spazieren gehen!",
       "points": 15,
       "style": "adventure",
-      "condition":  "Test?"
+      "condition":  "Test?",
+      "unlockAnimation": "burst"
+
+    },
+       {
+      "code": "12as",
+      "title": "Test",
+      "emoji": "🏃‍♀️",
+      "description": "20 Minuten zusammen spazieren gehen!",
+      "points": 15,
+      "style": "adventure",
+      "condition":  "hühner?",
+      "unlockAnimation": "burst"
+
 
     },
     {
@@ -133,6 +146,14 @@
       "isRepeatable": true,
       "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/LillyL2.png"
 
+    },
+    {
+      "id": "shop-004",
+      "name": "Kinoabend",
+      "description": "Ein Abend im Kino deiner Wahl!",
+      "emoji": "🔱",
+      "cost": 50,
+      "isRepeatable": false
     },
    
   ]
