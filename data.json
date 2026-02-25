@@ -99,7 +99,7 @@
       "description": "Zusammen ein neues Rezept ausprobieren.",
       "points": 20,
       "style": "adventure",
-      "condition": null,
+      "condition": null
 
     }
   ],
@@ -151,7 +151,7 @@
       "emoji": "⭐️",
       "cost": 80,
       "isRepeatable": false,
-      "condition": null,
+      "condition": null
 
     },
     {
@@ -159,6 +159,7 @@
       "name": "Ausflug",
       "description": "Zusammen irgendwo Neues entdecken!",
       "cost": 100,
+            "emoji": "🎟️",
       "isRepeatable": false,
       "condition": null
     }
