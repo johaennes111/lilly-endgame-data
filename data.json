@@ -47,7 +47,9 @@
       "description": "Einen Lieblingsfilm zusammen schauen!",
       "points": 15,
       "style": "cozy",
-      "condition": null
+      "condition": null,
+        "totalSteps": 10
+
 
     },
     {
