@@ -158,11 +158,10 @@
       "id": "shop-006",
       "name": "Ausflug",
       "description": "Zusammen irgendwo Neues entdecken!",
-      "emoji": "🗺️",
       "cost": 100,
       "isRepeatable": false,
-        "condition": null,
-"imageUrl": "      https://github.com/johaennes111/lilly-endgame-data/blob/main/LillyLöe2.png"
+      "condition": null,
+      "imageUrl": "https://github.com/johaennes111/lilly-endgame-data/blob/main/LillyLöe2.png"
     }
   ]
 }
