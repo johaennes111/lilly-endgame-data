@@ -22,6 +22,7 @@
   "unlockAnimation": "burst",
   "unlockColor": "#FF69B4",
   "unlockConfettiColors": "#FF1493,#FF69B4,#FFB6C1",
+  "condition": null,
   "activeDays": 30
 },
 
