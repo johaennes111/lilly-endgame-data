@@ -151,7 +151,7 @@
       "emoji": "⭐️",
       "cost": 80,
       "isRepeatable": false,
-      "condition": null
+      "condition": null,
 
     },
     {
@@ -162,7 +162,7 @@
       "cost": 100,
       "isRepeatable": false,
         "condition": null
-
+"imageUrl": "      https://github.com/johaennes111/lilly-endgame-data/blob/main/LillyLöe2.png"
     }
   ]
 }
