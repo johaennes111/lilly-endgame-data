@@ -7,7 +7,7 @@
       "description": "20 Minuten zusammen spazieren gehen!",
       "points": 15,
       "style": "adventure",
-      "condition": null
+      "condition":  "Test?"
 
     },
     {
