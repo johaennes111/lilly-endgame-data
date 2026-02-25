@@ -37,7 +37,7 @@
       "description": "Einen handgeschriebenen Brief verfassen!",
       "points": 20,
       "style": "romantic",
-      "condition": null
+      "condition": "Test1111"
 
     },
     {
