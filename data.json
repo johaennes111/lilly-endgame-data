@@ -17,7 +17,9 @@
       "description": "Ein gemeinsames Selfie machen!",
       "points": 10,
       "style": "creative",
-      "condition": null
+      "condition": null,
+      "activeDays": 90
+
 
     },
     {
