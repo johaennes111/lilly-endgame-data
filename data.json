@@ -1,0 +1,134 @@
+{
+  "challenges": [
+    {
+      "code": "aaaaaaa",
+      "title": "Spaziergang",
+      "emoji": "🏃‍♀️",
+      "description": "20 Minuten zusammen spazieren gehen!",
+      "points": 15,
+      "style": "adventure"
+    },
+    {
+      "code": "bbbbbbb",
+      "title": "Foto-Moment",
+      "emoji": "📸",
+      "description": "Ein gemeinsames Selfie machen!",
+      "points": 10,
+      "style": "creative"
+    },
+    {
+      "code": "ccccccc",
+      "title": "Kaffee-Pause",
+      "emoji": "☕️",
+      "description": "Zusammen einen Kaffee trinken und quatschen!",
+      "points": 10,
+      "style": "cozy"
+    },
+    {
+      "code": "ddddddd",
+      "title": "Brief schreiben",
+      "emoji": "✉️",
+      "description": "Einen handgeschriebenen Brief verfassen!",
+      "points": 20,
+      "style": "romantic"
+    },
+    {
+      "code": "eeeeeee",
+      "title": "Filmabend",
+      "emoji": "🎬",
+      "description": "Einen Lieblingsfilm zusammen schauen!",
+      "points": 15,
+      "style": "cozy"
+    },
+    {
+      "code": "fffffff",
+      "title": "Tanzen",
+      "emoji": "💃",
+      "description": "3 Minuten zusammen tanzen — egal wie peinlich!",
+      "points": 10,
+      "style": "funny"
+    },
+    {
+      "code": "ggggggg",
+      "title": "Dankbarkeit",
+      "emoji": "🌸",
+      "description": "Drei Dinge nennen, für die du dankbar bist.",
+      "points": 20,
+      "style": "romantic"
+    },
+    {
+      "code": "hhhhhhh",
+      "title": "Sternegucken",
+      "emoji": "⭐️",
+      "description": "Abends 10 Minuten Sterne beobachten.",
+      "points": 25,
+      "style": "mystery"
+    },
+    {
+      "code": "iiiiiii",
+      "title": "Frühstück im Bett",
+      "emoji": "🥞",
+      "description": "Jemanden mit Frühstück im Bett überraschen!",
+      "points": 30,
+      "style": "romantic"
+    },
+    {
+      "code": "jjjjjjj",
+      "title": "Geheimrezept",
+      "emoji": "🍕",
+      "description": "Zusammen ein neues Rezept ausprobieren.",
+      "points": 20,
+      "style": "adventure"
+    }
+  ],
+  "shopItems": [
+    {
+      "id": "shop-001",
+      "name": "Lieblingsessen",
+      "description": "Dein Lieblingsessen zum Abendessen!",
+      "emoji": "🍣",
+      "cost": 30,
+      "isRepeatable": true
+    },
+    {
+      "id": "shop-002",
+      "name": "Kinoabend",
+      "description": "Ein Abend im Kino deiner Wahl!",
+      "emoji": "🎟️",
+      "cost": 50,
+      "isRepeatable": false
+    },
+    {
+      "id": "shop-003",
+      "name": "Frühstück im Bett",
+      "description": "Frühstück ans Bett gebracht bekommen!",
+      "emoji": "🥐",
+      "cost": 40,
+      "isRepeatable": true
+    },
+    {
+      "id": "shop-004",
+      "name": "Wellness-Abend",
+      "description": "Entspannungsabend mit Maske & Massagen!",
+      "emoji": "🧖‍♀️",
+      "cost": 60,
+      "isRepeatable": false
+    },
+    {
+      "id": "shop-005",
+      "name": "Wunsch frei",
+      "description": "Ein beliebiger kleiner Wunsch wird erfüllt!",
+      "emoji": "⭐️",
+      "cost": 80,
+      "isRepeatable": false
+    },
+    {
+      "id": "shop-006",
+      "name": "Ausflug",
+      "description": "Zusammen irgendwo Neues entdecken!",
+      "emoji": "🗺️",
+      "cost": 100,
+      "isRepeatable": false
+    }
+  ]
+}
