@@ -126,7 +126,7 @@
       "description": "Frühstück ans Bett gebracht bekommen!",
       "emoji": "🥐",
       "cost": 40,
-      "isRepeatable": true
+      "isRepeatable": true,
       "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/LillyL2.png"
 
     },
