@@ -110,9 +110,7 @@
       "description": "Dein Lieblingsessen zum Abendessen!",
       "emoji": "🍣",
       "cost": 30,
-      "isRepeatable": true,
-      "condition": null
-
+      "isRepeatable": true
     },
     {
       "id": "shop-002",
@@ -120,9 +118,7 @@
       "description": "Ein Abend im Kino deiner Wahl!",
       "emoji": "🎟️",
       "cost": 50,
-      "isRepeatable": false,
-        "condition": null
-
+      "isRepeatable": false
     },
     {
       "id": "shop-003",
@@ -130,8 +126,8 @@
       "description": "Frühstück ans Bett gebracht bekommen!",
       "emoji": "🥐",
       "cost": 40,
-      "isRepeatable": true,
-      "condition": null
+      "isRepeatable": true
+      "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/images/sushi.png"
 
     },
    
