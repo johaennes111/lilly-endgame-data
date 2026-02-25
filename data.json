@@ -11,18 +11,6 @@
       "unlockAnimation": "burst"
 
     },
-    {
-  "code": "ddddddd",
-  "title": "Brief schreiben",
-  "emoji": "✉️",
-  "description": "Einen handgeschriebenen Brief verfassen!",
-  "points": 20,
-  "style": "mystery",
-  "condition": null,
-  "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/LillyL2.png",
-  "unlockAnimation": "burst",
-  "activeDays": 30
-},
 
        {
       "code": "12as",
