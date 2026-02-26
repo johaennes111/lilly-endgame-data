@@ -24,6 +24,17 @@
 
 
     },
+    {    {
+      "activeDays" : 10,
+      "code" : "bhycxq7",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "points" : 10,
+      "style" : "progress",
+      "title" : "Test",
+      "unlockAnimation" : "curtain"
+    },
     {
       "code": "bbbbbbb",
       "title": "Foto-Moment",
