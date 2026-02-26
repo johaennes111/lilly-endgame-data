@@ -9,9 +9,48 @@
       "style": "adventure",
       "condition":  "Test?",
       "unlockAnimation": "burst"
-
     },
-
+    {
+      "activeDays" : 10,
+      "code" : "bhycxq7",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "points" : 10,
+      "style" : "progress",
+      "title" : "Test",
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "code" : "ncbzn17",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🇨🇭",
+      "points" : 10,
+      "style" : "standard",
+      "title" : "",
+      "unlockAnimation" : "flip"
+    },
+    {
+      "code" : "ulbzh1y",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "❤️‍🔥",
+      "points" : 10,
+      "style" : "mystery",
+      "title" : "",
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "2b3ze9b",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "points" : 10,
+      "style" : "standard",
+      "title" : "",
+      "unlockAnimation" : "burst"
+    },
        {
       "code": "12as",
       "title": "Test",
@@ -21,10 +60,8 @@
       "style": "adventure",
       "condition":  "hühner?",
       "unlockAnimation": "burst"
-
-
     },
-    {    {
+    { 
       "activeDays" : 10,
       "code" : "bhycxq7",
       "condition" : null,
@@ -44,7 +81,6 @@
       "style": "creative",
       "condition": null,
       "activeDays": 90
-
 
     },
     {
