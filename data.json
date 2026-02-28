@@ -13,12 +13,102 @@
   {
     "code" : "w8njaft",
     "condition" : "Ist Johannes da?",
-    "description" : "Langer Kuss!",
+    "description" : "Langer Kuss für dich - und für mich, hehe!",
     "emoji" : "💋",
     "points" : 5,
     "style" : "standard",
     "title" : "kiss me baby",
     "unlockAnimation" : "burst"
+  },
+    {
+    "code" : "zr65y2r",
+    "condition" : null,
+    "description" : "Ich erzähle dir, warum ich stolz auf dich bin. Sprich mich einfach drauf an, ich weiß Bescheid🫶🏼",
+    "emoji" : "🦀",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "so proud of you",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "j0emrxe",
+    "condition" : null,
+    "description" : "Wir machen ein „Was liebe ich an dir“-Voice-Memo füreinander. Das können wir dann bei Bedarf immer wieder abrufen",
+    "emoji" : "🎤",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Voice of Love",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "code" : "7c5kywn",
+    "condition" : null,
+    "description" : "Wir schreiben uns einen Brief für den jeweilig andern und öffenen ihn in einem Jahr einem Jahr. (Punkte gibts, sobald beide Briefe geschrieben sind)",
+    "emoji" : "⏱️",
+    "points" : 10,
+    "style" : "creative",
+    "title" : "Zeitkäpsle",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "uhfx1nt",
+    "condition" : null,
+    "description" : "15 Minuten Massage für dich\nTipp: ZEITNAH Einlösen, sonst wird das vergessen ;)",
+    "emoji" : "🤓",
+    "points" : 5,
+    "style" : "cozy",
+    "title" : "Massage !",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "1eczkd2",
+    "condition" : "Hat Joe gerade wenig Stress?",
+    "description" : "Ich koche dein Lieblingsessen!\n(oder was anders was du dir wünscht)",
+    "emoji" : "👨🏻‍🍳",
+    "points" : 5,
+    "style" : "cozy",
+    "title" : "Chef Joe",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "code" : "qfpy5ls",
+    "condition" : null,
+    "description" : "Du kriegst einen Brief „Für einen schlechten Tag“. Lies ihn einfach, wenn du ein bisschen was Positives brauchst\n↳ Gegenstand mit „5ls“ Kennzeichnung",
+    "emoji" : "💌",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "bad days",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "0s1opa0",
+    "condition" : null,
+    "description" : "Ich organisiere einen (Sneack)Filmabend inkl. Snacks für uns!",
+    "emoji" : "🍿",
+    "points" : 5,
+    "style" : "cozy",
+    "title" : "Home-Kino",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "code" : "uowc9c1",
+    "condition" : null,
+    "description" : "Frühstück ans Bett - ein Gutschein (der eingelöst werden will!!)",
+    "emoji" : "🍳",
+    "points" : 5,
+    "style" : "cozy",
+    "title" : "Frühstück ans Bett",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "lufkguq",
+    "condition" : null,
+    "description" : "Du darfst einen Abend komplett bestimmen",
+    "emoji" : "😼",
+    "points" : 5,
+    "style" : "adventure",
+    "title" : "Lilly sagt",
+    "unlockAnimation" : "flip"
   }
 
   ],
