@@ -176,6 +176,108 @@
     "style" : "standard",
     "title" : "Portrait-Tausch",
     "unlockAnimation" : "burst"
+  },
+    {
+    "activeDays" : 40,
+    "code" : "cvhiwoz",
+    "condition" : null,
+    "description" : "Ganz klassisch: Wir müssen unsere Initialen in einen Baum oder eine Bank (unsere Bank?!) schnitzen ",
+    "emoji" : "💌",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/l&j+final+logos-12.png",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Schnitzen?",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "activeDays" : 14,
+    "code" : "4zi89bt",
+    "condition" : null,
+    "description" : "Heute geht es um Ringe: \n- Was ist dein Ringgröße?\n- Welches Ringdesign gefällt dir?\n- Was sollte man noch bei Ringen beachten?\n\nWichtig: Alles schriftlich festhalten!",
+    "emoji" : "💍",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Herr Der Ringe",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 7,
+    "code" : "q6jxnyb",
+    "condition" : null,
+    "description" : "Sammel fünf Insider zwischen dir und Johannes",
+    "emoji" : "🪥",
+    "points" : 5,
+    "style" : "standard",
+    "title" : "Kollegen!",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 50,
+    "code" : "k27lv4f",
+    "condition" : null,
+    "description" : "Starte eine kleine Zeitkapsel: \nWas wollen wir unseren Kindern sagen?\n\nHalte das alles auf Video fast!",
+    "emoji" : "📹",
+    "points" : 5,
+    "style" : "creative",
+    "title" : "Zeitkapsel",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "activeDays" : 3,
+    "code" : "s0w1z8l",
+    "condition" : null,
+    "description" : "Erstelle eine Liste mit deinen Top5 Lieblingsessen Und gib sie Johannes",
+    "emoji" : "🤤",
+    "points" : 5,
+    "style" : "creative",
+    "title" : "Lieblingsessen",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "activeDays" : 40,
+    "code" : "x4wnwzt",
+    "condition" : null,
+    "description" : "Unsere gemeinsame Spotify-Playlist muss erweitert werden!\nDaher:\n- Addet (du und ich )jeden tag 1 Lied \n- Ein 1 Monat lang, jeden Tag",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Spotify.png",
+    "points" : 10,
+    "style" : "progress",
+    "title" : "Music baby",
+    "totalSteps" : 30,
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "dgukxmw",
+    "condition" : null,
+    "description" : "Ich tue dir was gutes!\nGibt es eine Kleinigkeit, die dir den Alltag versüßen kann? Gib Bescheid!",
+    "emoji" : "🎯",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "😘",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 40,
+    "code" : "5j0qrhm",
+    "condition" : null,
+    "description" : "Wir schreiben jeweis für den anderen ein Gedicht und tragen es uns dann vor ",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Goethe_(Stieler_1828).jpg\nGoethe_(Stieler_1828).jpg\nGoethe_(Stieler_1828).jpgWir s",
+    "points" : 5,
+    "style" : "creative",
+    "title" : "Germanistikqueen",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "m91sgkm",
+    "condition" : null,
+    "description" : "",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Goethe_(Stieler_1828).jpg",
+    "points" : 10,
+    "style" : "standard",
+    "title" : "test11",
+    "unlockAnimation" : "burst"
   }
 
   ],
