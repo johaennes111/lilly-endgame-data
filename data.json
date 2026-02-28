@@ -10,6 +10,17 @@
       "condition":  "Test?",
       "unlockAnimation": "burst"
     },
+      {
+    "code" : "drx5xon",
+    "condition" : null,
+    "description" : "asndjknd",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/IMG_9865.JPG",
+    "points" : 5,
+    "style" : "standard",
+    "title" : "Test111",
+    "unlockAnimation" : "burst"
+  },
         {
       "code" : "gocjfqn",
       "condition" : null,
@@ -214,6 +225,15 @@
       "cost": 50,
       "isRepeatable": false
     },
+      {
+    "cost" : 30,
+    "description" : "",
+    "emoji" : "🎁",
+    "id" : "shop-009",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/IMG_9865.JPG",
+    "isRepeatable" : false,
+    "name" : "siegel"
+  }
    
   ]
 }
