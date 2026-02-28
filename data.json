@@ -109,6 +109,84 @@
     "style" : "adventure",
     "title" : "Lilly sagt",
     "unlockAnimation" : "flip"
+  },
+    {
+    "activeDays" : 90,
+    "code" : "iytxfc1",
+    "condition" : null,
+    "description" : "Du und Johannes müssen eine Woche lang, gemeinsam ein neues Spaß-Getränk pro Tag testen und bewerten.",
+    "emoji" : "🧉",
+    "points" : 5,
+    "style" : "progress",
+    "title" : "yummy",
+    "totalSteps" : 7,
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 90,
+    "code" : "yxjuthu",
+    "condition" : null,
+    "description" : "Du und Johannes geht auf ein Date - und am Ende musst du blind über die Nachtische schweben, tippen, dann gehst du kurz weg und Johanens bestellt und du isst es dann :) ",
+    "emoji" : "🍰",
+    "points" : 5,
+    "style" : "adventure",
+    "title" : "Blind-Nachtisch",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "activeDays" : 20,
+    "code" : "tq9nn91",
+    "condition" : null,
+    "description" : "Schnapp der Johannes und sprech mit ihm ein kleines Zukunftsszenario durch:\n- Wie wohnen wir ideal\n- Wo? Was ist wichtig? \n- Wie sieht der Garten aus?\n- Wie viele Zimmer?\n- Wohnzimmer und Küche?",
+    "emoji" : "🏡",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Lage, Lage, Lage",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 17,
+    "code" : "ph7wgy1",
+    "condition" : null,
+    "description" : "Zeig mir ein Kindheitsfoto von dir, dass du magst, und erzähle mir die Geschichte dahinter. \nI will go first!",
+    "emoji" : "🎠",
+    "points" : 10,
+    "style" : "standard",
+    "title" : "Mei das war nett",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 21,
+    "code" : "nt02sqj",
+    "condition" : "Ist gerade NICHT Winter oder ekliges Wetter?",
+    "description" : "Hol dir Johannes, such dir einen Baum aus…\n… und kletter drauf 😎\n aber so richtig",
+    "emoji" : "🌳",
+    "points" : 5,
+    "style" : "adventure",
+    "title" : "Monkey",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "code" : "vxvsvl0",
+    "condition" : null,
+    "description" : "Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+    "points" : 10,
+    "style" : "standard",
+    "title" : "TEST",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "6lqt83s",
+    "condition" : null,
+    "description" : "1. Du und Johannes malt euch jeweils gegenseitig\n2. Ihr erklärt euch Gegenseitig, was euch wichtig war, was ihr betonen wolltet\n3. Beide Bilder Chat vorlegen und er muss sagen, welches das größere Kunstwerk ist\n4. der Gewinner kriegt ein Bussi vom Verlierer!",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+    "points" : 10,
+    "style" : "standard",
+    "title" : "Portrait-Tausch",
+    "unlockAnimation" : "burst"
   }
 
   ],
