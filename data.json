@@ -9,7 +9,17 @@
     "style" : "romantic",
     "title" : "I can see u",
     "unlockAnimation" : "burst"
-  } 
+  },
+  {
+    "code" : "w8njaft",
+    "condition" : "Ist Johannes da?",
+    "description" : "Langer Kuss!",
+    "emoji" : "💋",
+    "points" : 5,
+    "style" : "standard",
+    "title" : "kiss me baby",
+    "unlockAnimation" : "burst"
+  }
 
   ],
 
