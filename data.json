@@ -1,195 +1,23 @@
 {
   "challenges": [
-    {
-      "code": "aaaaaaa",
-      "title": "Spaziergang",
-      "emoji": "🏃‍♀️",
-      "description": "20 Minuten zusammen spazieren gehen!",
-      "points": 15,
-      "style": "adventure",
-      "condition":  "Test?",
-      "unlockAnimation": "burst"
-    },
-      {
-    "code" : "drx5xon",
-    "condition" : null,
-    "description" : "asndjknd",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/IMG_9865.JPG",
+  {
+    "code" : "3fzi5gs",
+    "condition" : "Ist Johannes da?",
+    "description" : "Wir schauen uns in die Augen, und wer zuerst lacht oder LÄCHELT hat verloren.\nSollte ich gewinnen, krieg ich 5 Bussis 😎",
+    "emoji" : "👀",
     "points" : 5,
-    "style" : "standard",
-    "title" : "Test111",
+    "style" : "romantic",
+    "title" : "I can see u",
     "unlockAnimation" : "burst"
-  },
-        {
-      "code" : "gocjfqn",
-      "condition" : null,
-      "description" : "hahsssijisjs",
-      "emoji" : "🎯",
-      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LillyL2.png",
-      "points" : 10,
-      "style" : "standard",
-      "title" : "Test",
-      "unlockAnimation" : "flip"
-    },
-    {
-      "activeDays" : 10,
-      "code" : "bhycxq7",
-      "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
-      "points" : 10,
-      "style" : "progress",
-      "title" : "Test",
-      "unlockAnimation" : "curtain"
-    },
-    {
-      "code" : "ncbzn17",
-      "condition" : null,
-      "description" : "",
-      "emoji" : "🇨🇭",
-      "points" : 10,
-      "style" : "standard",
-      "title" : "",
-      "unlockAnimation" : "flip"
-    },
-    {
-      "code" : "ulbzh1y",
-      "condition" : null,
-      "description" : "",
-      "emoji" : "❤️‍🔥",
-      "points" : 10,
-      "style" : "mystery",
-      "title" : "",
-      "unlockAnimation" : "burst"
-    },
-    {
-      "code" : "2b3ze9b",
-      "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
-      "points" : 10,
-      "style" : "standard",
-      "title" : "",
-      "unlockAnimation" : "burst"
-    },
-       {
-      "code": "12as",
-      "title": "Test",
-      "emoji": "🏃‍♀️",
-      "description": "20 Minuten zusammen spazieren gehen!",
-      "points": 15,
-      "style": "adventure",
-      "condition":  "hühner?",
-      "unlockAnimation": "burst"
-    },
-    { 
-      "activeDays" : 10,
-      "code" : "bhycxq7",
-      "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
-      "points" : 10,
-      "style" : "progress",
-      "title" : "Test",
-      "unlockAnimation" : "curtain"
-    },
-    {
-      "code": "bbbbbbb",
-      "title": "Foto-Moment",
-      "emoji": "📸",
-      "description": "Ein gemeinsames Selfie machen!",
-      "points": 10,
-      "style": "creative",
-      "condition": null,
-      "activeDays": 90
+  }
 
-    },
-    {
-      "code": "ccccccc",
-      "title": "Kaffee-Pause",
-      "emoji": "☕️",
-      "description": "Zusammen einen Kaffee trinken und quatschen!",
-      "points": 10,
-      "style": "cozy",
-      "condition": null,
-      "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/LillyL2.png"
+]   
 
-
-    },
-    {
-      "code": "ddddddd",
-      "title": "Brief schreiben",
-      "emoji": "✉️",
-      "description": "Einen handgeschriebenen Brief verfassen!",
-      "points": 20,
-      "style": "romantic",
-      "condition": "Test1111"
-
-    },
-    {
-      "code": "eeeeeee",
-      "title": "Filmabend",
-      "emoji": "🎬",
-      "description": "Einen Lieblingsfilm zusammen schauen!",
-      "points": 15,
-      "style": "cozy",
-      "condition": null
-
-    },
-    {
-      "code": "fffffff",
-      "title": "Tanzen",
-      "emoji": "💃",
-      "description": "3 Minuten zusammen tanzen — egal wie peinlich!",
-      "points": 10,
-      "style": "progress",
-     "condition": null,
-              "totalSteps": 10
-
-
-    },
-    {
-      "code": "ggggggg",
-      "title": "Dankbarkeit",
-      "emoji": "🌸",
-      "description": "Drei Dinge nennen, für die du dankbar bist.",
-      "points": 20,
-      "style": "romantic",
-      "condition": null
-
-    },
-    {
-      "code": "hhhhhhh",
-      "title": "Sternegucken",
-      "emoji": "⭐️",
-      "description": "Abends 10 Minuten Sterne beobachten.",
-      "points": 25,
-      "style": "mystery",
-      "condition": null
-
-    },
-    {
-      "code": "iiiiiii",
-      "title": "Frühstück im Bett",
-      "emoji": "🥞",
-      "description": "Jemanden mit Frühstück im Bett überraschen!",
-      "points": 30,
-      "style": "romantic",
-      "condition": null
-
-    },
-    {
-      "code": "jjjjjjj",
-      "title": "Geheimrezept",
-      "emoji": "🍕",
-      "description": "Zusammen ein neues Rezept ausprobieren.",
-      "points": 20,
-      "style": "adventure",
-      "condition": null
-
-    }
   ],
+
+
+
+  
   "shopItems": [
     {
       "id": "shop-001",
