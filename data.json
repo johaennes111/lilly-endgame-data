@@ -277,6 +277,64 @@
     "style" : "standard",
     "title" : "tell me",
     "unlockAnimation" : "flip"
+  },
+    {
+    "activeDays" : 4,
+    "code" : "upupup",
+    "condition" : null,
+    "description" : "Was würdest du in unserem Alltag optimieren?\nSchreib 3 Dinge auf!",
+    "emoji" : "⤴",
+    "points" : 5,
+    "style" : "standard",
+    "title" : "level up",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 132,
+    "code" : "n2x6qct",
+    "condition" : null,
+    "description" : "Gib dem nächsten Bedürftigen 5 Euro (hier 5€)",
+    "emoji" : "😇",
+    "points" : 5,
+    "style" : "standard",
+    "title" : "Almosen",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 12,
+    "code" : "oscar",
+    "condition" : null,
+    "description" : "Challange: \nDu spielst mich 2min & 2min ich dich 🤓\n(nur spaß!!!)",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/oscar.jpeg",
+    "points" : 5,
+    "style" : "creative",
+    "title" : "and the oscar goes to...",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 11,
+    "code" : "dscryln",
+    "condition" : null,
+    "description" : "Such dir ein trendiges TickTock \/ Reel-Dance aus und übe es ein. Spiele es mir vor 😍",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/tiktok-logo_1131634-487.jpg",
+    "points" : 5,
+    "style" : "funny",
+    "title" : "Lisa & Lena",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 43,
+    "code" : "v61qf7x",
+    "condition" : null,
+    "description" : "1. Jeder beschreibt den anderen in 3 Emojis.\n2. Chat (oder eine andere KI) erstellt dann random noch 3 verschiedene Emojisund der \n3. alle Emojis werden dem anderen präsentiert ",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/logo_dixit_2.png",
+    "points" : 5,
+    "style" : "creative",
+    "title" : "Emojis-Dixit",
+    "unlockAnimation" : "burst"
   }
 
   ],
