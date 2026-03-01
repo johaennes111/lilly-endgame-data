@@ -573,6 +573,63 @@
     "style" : "mystery",
     "title" : "SUPRISE DATE",
     "unlockAnimation" : "burst"
+  },
+    {
+    "activeDays" : 120,
+    "code" : "typ55w7",
+    "condition" : null,
+    "description" : "Besuche eine Höhle!\n(Richtige Höhle)",
+    "emoji" : "⟡",
+    "points" : 20,
+    "style" : "adventure",
+    "title" : "Neathertahler",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 120,
+    "code" : "nkb7b4c",
+    "condition" : null,
+    "description" : "Besuch eine Burgruine",
+    "emoji" : "🎯",
+    "points" : 20,
+    "style" : "adventure",
+    "title" : "Burgruine",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "activeDays" : 90,
+    "code" : "8nt5p1t",
+    "condition" : null,
+    "description" : "Tagestriple nach Calw!\nENDLICH!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Wappen-Calw.svg.png",
+    "points" : 20,
+    "style" : "adventure",
+    "title" : "Tagestriple!",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "activeDays" : 90,
+    "code" : "tg4fah8",
+    "condition" : null,
+    "description" : "Tagestriple nach München!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/DEU_München_COA.svg.png",
+    "points" : 20,
+    "style" : "adventure",
+    "title" : "Tagestriple",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "activeDays" : 160,
+    "code" : "yul9o82",
+    "condition" : null,
+    "description" : "Sonnenuntergang am Pfänder gemeinsam erleben!",
+    "emoji" : "🌅",
+    "points" : 20,
+    "style" : "adventure",
+    "title" : "Austrain sunset",
+    "unlockAnimation" : "burst"
   }
 
   ],
