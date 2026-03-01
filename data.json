@@ -1081,6 +1081,23 @@
     "style" : "romantic",
     "title" : "Willkommen im Spiel Lilly!",
     "unlockAnimation" : "curtain"
+  },
+     {
+    "code" : "test1111",
+    "condition" : "Bist du bereit für dein... Endgame?",
+    "description" : "Hallo Lilly, ich habe dich Lieb!",
+    "emoji" : "❤️",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LioheartIcon.png",
+    "points" : 5,
+    "style" : "romantic",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Test"
+      }
+    ],
+    "title" : "Willkommen im Spiel Lilly!",
+    "unlockAnimation" : "curtain"
   }
 
   ],
