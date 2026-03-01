@@ -172,7 +172,7 @@
     "description" : "1. Du und Johannes malt euch jeweils gegenseitig\n2. Ihr erklärt euch Gegenseitig, was euch wichtig war, was ihr betonen wolltet\n3. Beide Bilder Chat vorlegen und er muss sagen, welches das größere Kunstwerk ist\n4. der Gewinner kriegt ein Bussi vom Verlierer!",
     "emoji" : "🎯",
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
-    "points" : 10,
+    "points" : 5,
     "style" : "standard",
     "title" : "Portrait-Tausch",
     "unlockAnimation" : "burst"
@@ -273,7 +273,7 @@
     "condition" : null,
     "description" : "Erzähl mir einen (bis jetzt) unerfüllten Kindheitstraum von dir",
     "emoji" : "🤫",
-    "points" : 10,
+    "points" : 5,
     "style" : "standard",
     "title" : "tell me",
     "unlockAnimation" : "flip"
