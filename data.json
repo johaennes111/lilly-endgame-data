@@ -854,6 +854,233 @@
     "style" : "adventure",
     "title" : "Tagestriple!",
     "unlockAnimation" : "burst"
+  },
+    {
+    "activeDays" : 1000,
+    "code" : "xpv1igd",
+    "condition" : null,
+    "description" : "nach Berlin!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/coat-of-arms-of-berlin-1935-logo-png_seeklogo-32798.png",
+    "points" : 50,
+    "style" : "adventure",
+    "title" : "Tagestriple",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 1200,
+    "code" : "s0lbokh",
+    "condition" : null,
+    "description" : "nach Paris!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/da3ba41a6c4fef68253912aae7fad9c2-bastille-day-eiffelturm-silhouette.png",
+    "points" : 60,
+    "style" : "adventure",
+    "title" : "Tagestriple",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 1200,
+    "code" : "00frerk",
+    "condition" : null,
+    "description" : "nach Köln!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/koln-logo-black-and-white.png\n",
+    "points" : 50,
+    "style" : "adventure",
+    "title" : "Tagestriple",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 700,
+    "code" : "qo4l5of",
+    "condition" : null,
+    "description" : "Gemeinsam Kiffen und Hash-Cookies ausprobieren!",
+    "emoji" : "🥦",
+    "points" : 50,
+    "style" : "cozy",
+    "title" : "BUMBAZ",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "39b0haq",
+    "condition" : null,
+    "description" : "Gemeinsam einen echten Tanzkurs besuchen!",
+    "emoji" : "💃",
+    "points" : 60,
+    "style" : "romantic",
+    "title" : "Lets Dance baby",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "7vf2wix",
+    "condition" : null,
+    "description" : "Nächste Winterolympischen Spiele:“French Alps, from 1 to 17 February 2030“\n\nAufgabe: Buchen uns früh ein Zimmer, Anreise etc. pp. und schauen uns Live an!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Olympic_rings_without_rims.svg.png",
+    "points" : 60,
+    "style" : "adventure",
+    "title" : "Olympische Spiele",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 600,
+    "code" : "sbohy1g",
+    "condition" : null,
+    "description" : "Familien Regeln - Beziehungsregeln:\nWir kaufen uns ein edels Buch, \nund schreiben Regeln für unsere Beziehung und unsere spätere Familie nieder.\nNicht allgemein, sondern konkret.",
+    "emoji" : "📓",
+    "points" : 50,
+    "style" : "creative",
+    "title" : "Familien-Verfassung",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "ao4amxc",
+    "condition" : null,
+    "description" : "Aufgabe: Es gibt 6 Kontinete. Geht min. mit mir Essen, dass du eine klasssiche Speise und Getränk von jedem Kontinet probiert hast!",
+    "emoji" : "🏴‍☠️",
+    "points" : 40,
+    "style" : "standard",
+    "title" : "7 Weltmeere",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "w78ybf4",
+    "condition" : null,
+    "description" : "Idee:\nman geht in verschiedene Fast-Food-Ketten und bewertet die Cheesburger und ChickenMcNuggets auf einer vorgefertigeten Karte, wobei der McDonadls Burger der Standard ist: 5 ist\n\nKategorieren:\nGeschmack (Overall Taste) – Gesamtgeschmack inkl. Würzung\nCrunch \/ Knusprigkeit – Panade, Textur außen\nSaftigkeit – Fleisch innen (trocken vs. juicy)\nWürzung – Salz, Pfeffer, Gewürzintensität\nKäsequalität (Cheeseburger) – Schmelz, Geschmack, Menge\nBrötchenqualität (Cheeseburger) – Frische, Konsistenz\nMundgefühl – Gesamttextur beim Biss\nVerhältnis Zutaten – Fleisch-Bun-Sauce-Balance\nAussehen\nPreis-Leistungs-Verhältnis\n\nWo:\nMcDonalds ❤️‍🔥\nBurger King ❤️‍🔥\nFive Guys ❤️‍🔥\nKFC ❤️‍🔥\nSubway ❤️‍🔥\nCarl's Jr. 🇨🇭\nHoly Cow! 🇨🇭\n(Hans im Glück)\n(Peter Pane)",
+    "emoji" : "🍔",
+    "points" : 50,
+    "style" : "cozy",
+    "title" : "CCC XXL – Super-Challenge",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 2000,
+    "code" : "avqzp0x",
+    "condition" : null,
+    "description" : "Größeren Welt-Urlaub: \nPlanen wann und wo.\nAußerhalb von Europa!",
+    "emoji" : "🌏",
+    "points" : 50,
+    "style" : "adventure",
+    "title" : "Welt-Urlaub",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 120,
+    "code" : "x72u2qo",
+    "condition" : null,
+    "description" : "Krimi-Dinner mit Freunden veranstaltten! \n(Welches genau müssen wir noch dann konrket schauen)",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/kochen.png",
+    "points" : 40,
+    "style" : "cozy",
+    "title" : "Krimi Dinner",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "47mtzzz",
+    "condition" : null,
+    "description" : "Relativ simpel: Sehe mit mir Nord-Lichter an.",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/light-whirl-effect-free-png.png",
+    "points" : 70,
+    "style" : "adventure",
+    "title" : "Nord Lichter",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "i4yx0r3",
+    "condition" : null,
+    "description" : "Ein Weltwunder besuchen. Simpel",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/pngtree-the-great-pyramid-of-giza-in-miniature-form-ancient-egypt-model-png-image_13079949.png",
+    "points" : 70,
+    "style" : "standard",
+    "title" : "Weltwunder",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "r8w73lc",
+    "condition" : null,
+    "description" : "Steh auf dem Equator.",
+    "emoji" : "🌍",
+    "points" : 70,
+    "style" : "adventure",
+    "title" : "Equator",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "i24r1eq",
+    "condition" : null,
+    "description" : "Neues Sport-Hobby gemeinsam anfagen:\n2–8 Termine \/ Monate: \nz.B. Klettern \/ Gym\nHalbes Jahr durchziehen",
+    "emoji" : "💪🏿",
+    "points" : 50,
+    "style" : "progress",
+    "title" : "Lets get fit!",
+    "totalSteps" : 50,
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 600,
+    "code" : "oxzlxl9",
+    "condition" : null,
+    "description" : "Konzert von einem coolen Künstler buchen und gemeinsam hingehen!",
+    "emoji" : "🎶",
+    "points" : 40,
+    "style" : "cozy",
+    "title" : "music",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "6xl2uv4",
+    "condition" : null,
+    "description" : "Gemeinsam ein Tattoo stechen lassen.\n\nNicht selbes Motiv, aber dennoch gemeinsam",
+    "emoji" : "⚓️",
+    "points" : 120,
+    "style" : "mystery",
+    "title" : "Opa Heskes Erbin",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "code" : "8efnexn",
+    "condition" : null,
+    "description" : "Rauch gemeinsam mit Johannes eine Ziggarette",
+    "emoji" : "🚬",
+    "points" : 100,
+    "style" : "mystery",
+    "title" : "Rauchen.",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "code" : "s84mpg6",
+    "condition" : null,
+    "description" : "Geht mir mir zusammen Fallschirmspringen.",
+    "emoji" : "🪂",
+    "points" : 100,
+    "style" : "mystery",
+    "title" : "Fallschirmspringen",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "code" : "jd6live",
+    "condition" : null,
+    "description" : "LSD zusammen ausprobieren!",
+    "emoji" : "🦛",
+    "points" : 120,
+    "style" : "mystery",
+    "title" : "LSD",
+    "unlockAnimation" : "curtain"
+  },
+  {
+    "code" : "letsgo1!",
+    "condition" : "Bist du bereit für dein... Endgame?",
+    "description" : "Hallo Lilly, ich habe dich Lieb!",
+    "emoji" : "❤️",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LioheartIcon.png",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Willkommen im Spiel Lilly!",
+    "unlockAnimation" : "curtain"
   }
 
   ],
