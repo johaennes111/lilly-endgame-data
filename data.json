@@ -747,8 +747,9 @@
     "description" : "Wir suchen uns gemeinsam ein Kochbuch aus (muss ja nicht ein neues sein, gibt ja z.B. Zuhause genug davon) und kochen dann 1\/Monat für ein Jahr zusammen daraus! ",
     "emoji" : "🥘",
     "points" : 20,
-    "style" : "cozy",
+    "style" : "progress",
     "title" : "Kochen nach Zahlen",
+    "totalSteps" : 12,
     "unlockAnimation" : "burst"
   },
   {
