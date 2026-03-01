@@ -335,6 +335,86 @@
     "style" : "creative",
     "title" : "Emojis-Dixit",
     "unlockAnimation" : "burst"
+  },
+    {
+    "activeDays" : 7,
+    "code" : "fq3toh4",
+    "condition" : null,
+    "description" : "3 Ziele in der Nähe, \n3 Ziele in der Ferne",
+    "emoji" : "🚗",
+    "points" : 5,
+    "style" : "creative",
+    "title" : "Gemeinsame Reiseziele",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 37,
+    "code" : "q1oihul",
+    "condition" : null,
+    "description" : "Wir dürfen 3 Tage lang nur die Top100-Jahres Playlist des anderen hören. Da müssen wir ehrlich sein 😼",
+    "emoji" : "🎯",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Spotify.png",
+    "points" : 10,
+    "style" : "progress",
+    "title" : "Spotify-Switch",
+    "totalSteps" : 3,
+    "unlockAnimation" : "flip"
+  },
+  {
+    "activeDays" : 10,
+    "code" : "rcjux8p",
+    "condition" : null,
+    "description" : "ein best of you!\nDu zeigst mir deine 3x Lieblingsbilder von mir und ich dir meine 3x Lieblingsbilder von dir!",
+    "emoji" : "😍",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "best of",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "activeDays" : 50,
+    "code" : "01c7hc4",
+    "condition" : null,
+    "description" : "Mach jeden Tag eine Woche lang ein gemeinsames Bild mit mir (Johannes) machen.",
+    "emoji" : "📸",
+    "points" : 10,
+    "style" : "progress",
+    "title" : "sweet",
+    "totalSteps" : 7,
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 21,
+    "code" : "9qv98g7",
+    "condition" : null,
+    "description" : "Was sind deine Top 3x Lieblingserinnerung in unserer gemeinsamen Zeit?",
+    "emoji" : "🥰",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Lieblingserinnerung",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 30,
+    "code" : "ny2tlqb",
+    "condition" : null,
+    "description" : "Gib Johannes 5x Bussis! (😇)",
+    "emoji" : "😘",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Bussi-Time",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 50,
+    "code" : "hthaeji",
+    "condition" : null,
+    "description" : "Umarme Johannes 1 Minute lang (😇)",
+    "emoji" : "🎯",
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "🫂",
+    "unlockAnimation" : "curtain"
   }
 
   ],
