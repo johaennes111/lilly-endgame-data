@@ -1490,7 +1490,7 @@
     "title" : "Umarme",
     "unlockAnimation" : "burst"
   }
-]
+
 
   ],
 
@@ -1499,7 +1499,7 @@
   
   "shopItems": [
 
-  [
+  
   {
     "cost" : 30,
     "description" : "Dein Lieblingsessen zum Abendessen!",
@@ -1545,5 +1545,5 @@
     "name" : "Krabben Chips"
   }
 ]
-  ]
+
 }
