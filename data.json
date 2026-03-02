@@ -20,7 +20,7 @@
     "title" : "kiss me baby",
     "unlockAnimation" : "burst"
   },
-    {
+  {
     "code" : "zr65y2r",
     "condition" : null,
     "description" : "Ich erzähle dir, warum ich stolz auf dich bin. Sprich mich einfach drauf an, ich weiß Bescheid🫶🏼",
@@ -67,6 +67,12 @@
     "emoji" : "👨🏻‍🍳",
     "points" : 5,
     "style" : "cozy",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Ein kochbares Essen wünschen"
+      }
+    ],
     "title" : "Chef Joe",
     "unlockAnimation" : "flip"
   },
@@ -110,7 +116,7 @@
     "title" : "Lilly sagt",
     "unlockAnimation" : "flip"
   },
-    {
+  {
     "activeDays" : 90,
     "code" : "iytxfc1",
     "condition" : null,
@@ -177,7 +183,7 @@
     "title" : "Portrait-Tausch",
     "unlockAnimation" : "burst"
   },
-    {
+  {
     "activeDays" : 40,
     "code" : "cvhiwoz",
     "condition" : null,
@@ -278,7 +284,7 @@
     "title" : "tell me",
     "unlockAnimation" : "flip"
   },
-    {
+  {
     "activeDays" : 4,
     "code" : "upupup",
     "condition" : null,
@@ -336,7 +342,7 @@
     "title" : "Emojis-Dixit",
     "unlockAnimation" : "burst"
   },
-    {
+  {
     "activeDays" : 7,
     "code" : "fq3toh4",
     "condition" : null,
@@ -416,7 +422,7 @@
     "title" : "🫂",
     "unlockAnimation" : "curtain"
   },
-    {
+  {
     "activeDays" : 70,
     "code" : "jsxpi6p",
     "condition" : null,
@@ -448,6 +454,12 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/illegal-red-stamp.png",
     "points" : 20,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Nicht erwischt werden"
+      }
+    ],
     "title" : "pss 🤫",
     "unlockAnimation" : "curtain"
   },
@@ -459,6 +471,12 @@
     "emoji" : "🧺",
     "points" : 10,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Mach viele schöne Bilder"
+      }
+    ],
     "title" : "ach nett",
     "unlockAnimation" : "burst"
   },
@@ -515,6 +533,12 @@
     "emoji" : "🧸",
     "points" : 10,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Finde raus, was der Titel meint und erzähle es Johannes"
+      }
+    ],
     "title" : "Its the economy stupid",
     "unlockAnimation" : "curtain"
   },
@@ -574,7 +598,7 @@
     "title" : "SUPRISE DATE",
     "unlockAnimation" : "burst"
   },
-    {
+  {
     "activeDays" : 120,
     "code" : "typ55w7",
     "condition" : null,
@@ -605,6 +629,12 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Wappen-Calw.svg.png",
     "points" : 20,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Edeln Vlog drehen"
+      }
+    ],
     "title" : "Tagestriple!",
     "unlockAnimation" : "flip"
   },
@@ -631,7 +661,7 @@
     "title" : "Austrain sunset",
     "unlockAnimation" : "burst"
   },
-    {
+  {
     "activeDays" : 120,
     "code" : "8gu8rlo",
     "condition" : "Ist gerade eine Jahreszeit, in der man länger gut draußen sein kann?",
@@ -639,6 +669,16 @@
     "emoji" : "🏕️",
     "points" : 20,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "2x Nächte zelten!"
+      },
+      {
+        "points" : 5,
+        "title" : "3x Nächte zelten"
+      }
+    ],
     "title" : "Abenteuer Zeit!",
     "unlockAnimation" : "burst"
   },
@@ -672,6 +712,12 @@
     "emoji" : "🎭",
     "points" : 20,
     "style" : "cozy",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Bleibe den ganzen Abend in der Rolle"
+      }
+    ],
     "title" : "Clair & Phil",
     "unlockAnimation" : "burst"
   },
@@ -737,6 +783,12 @@
     "emoji" : "🤬",
     "points" : 20,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Sprich mit Personen mit GRÜNEN, BLAUEN und ROTEN Haarem"
+      }
+    ],
     "title" : "FFFF",
     "unlockAnimation" : "burst"
   },
@@ -784,6 +836,12 @@
     "emoji" : "🍰",
     "points" : 40,
     "style" : "progress",
+    "subTasks" : [
+      {
+        "points" : 10,
+        "title" : "Einen Kuchen für Madleine"
+      }
+    ],
     "title" : "happy cake challange",
     "totalSteps" : 12,
     "unlockAnimation" : "burst"
@@ -796,6 +854,12 @@
     "emoji" : "🧖🏻‍♀️",
     "points" : 20,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Mach 5x  Bilder von der Aktion"
+      }
+    ],
     "title" : "skinnydipping",
     "unlockAnimation" : "burst"
   },
@@ -852,10 +916,20 @@
     "emoji" : "🌊",
     "points" : 50,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Edeln Vlog drehen"
+      },
+      {
+        "points" : 5,
+        "title" : "Fotobuch (?)"
+      }
+    ],
     "title" : "Tagestriple!",
     "unlockAnimation" : "burst"
   },
-    {
+  {
     "activeDays" : 1000,
     "code" : "xpv1igd",
     "condition" : null,
@@ -864,6 +938,12 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/coat-of-arms-of-berlin-1935-logo-png_seeklogo-32798.png",
     "points" : 50,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Edeln Vlog drehen"
+      }
+    ],
     "title" : "Tagestriple",
     "unlockAnimation" : "burst"
   },
@@ -876,6 +956,16 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/da3ba41a6c4fef68253912aae7fad9c2-bastille-day-eiffelturm-silhouette.png",
     "points" : 60,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Edeln Vlog drehen"
+      },
+      {
+        "points" : 5,
+        "title" : "Fotobuch"
+      }
+    ],
     "title" : "Tagestriple",
     "unlockAnimation" : "burst"
   },
@@ -888,6 +978,12 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/koln-logo-black-and-white.png\n",
     "points" : 50,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Edeln Vlog drehen"
+      }
+    ],
     "title" : "Tagestriple",
     "unlockAnimation" : "burst"
   },
@@ -962,6 +1058,20 @@
     "emoji" : "🌏",
     "points" : 50,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Planung angefangen"
+      },
+      {
+        "points" : 5,
+        "title" : "Planung abgeschlossen!"
+      },
+      {
+        "points" : 10,
+        "title" : "Edeln Vlog drehen"
+      }
+    ],
     "title" : "Welt-Urlaub",
     "unlockAnimation" : "burst"
   },
@@ -985,6 +1095,20 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/light-whirl-effect-free-png.png",
     "points" : 70,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Planung"
+      },
+      {
+        "points" : 10,
+        "title" : "Edeln Vlog drehen"
+      },
+      {
+        "points" : 5,
+        "title" : "Fotobuch machen"
+      }
+    ],
     "title" : "Nord Lichter",
     "unlockAnimation" : "burst"
   },
@@ -996,6 +1120,20 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/pngtree-the-great-pyramid-of-giza-in-miniature-form-ancient-egypt-model-png-image_13079949.png",
     "points" : 70,
     "style" : "standard",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Planung"
+      },
+      {
+        "points" : 10,
+        "title" : "Edeln Vlog drehen"
+      },
+      {
+        "points" : 5,
+        "title" : "Fotobuch machen"
+      }
+    ],
     "title" : "Weltwunder",
     "unlockAnimation" : "burst"
   },
@@ -1006,6 +1144,20 @@
     "emoji" : "🌍",
     "points" : 70,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Planung"
+      },
+      {
+        "points" : 10,
+        "title" : "Edeln Vlog drehen"
+      },
+      {
+        "points" : 5,
+        "title" : "Fotobuch machen"
+      }
+    ],
     "title" : "Equator",
     "unlockAnimation" : "burst"
   },
@@ -1028,6 +1180,12 @@
     "emoji" : "🎶",
     "points" : 40,
     "style" : "cozy",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Buchen"
+      }
+    ],
     "title" : "music",
     "unlockAnimation" : "burst"
   },
@@ -1079,25 +1237,225 @@
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LioheartIcon.png",
     "points" : 5,
     "style" : "romantic",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Johannes ein Bussi geben"
+      }
+    ],
     "title" : "Willkommen im Spiel Lilly!",
     "unlockAnimation" : "curtain"
   },
-     {
-    "code" : "test1111",
-    "condition" : "Bist du bereit für dein... Endgame?",
-    "description" : "Hallo Lilly, ich habe dich Lieb!",
-    "emoji" : "❤️",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LioheartIcon.png",
+  {
+    "activeDays" : 700,
+    "code" : "bna2tts",
+    "condition" : null,
+    "description" : "Triff eine 100 jährige Person!",
+    "emoji" : "💯",
+    "points" : 20,
+    "style" : "cozy",
+    "title" : "ENDgame",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 365,
+    "code" : "1955c3o",
+    "condition" : null,
+    "description" : "Berühre etwas menschlichen Ursprungs das…\n\n(kann nur einmal benutzt werden) ",
+    "emoji" : "🫵🏿",
+    "points" : 10,
+    "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "min. 50 Jahre alt ist"
+      },
+      {
+        "points" : 5,
+        "title" : "min. 100 Jahre alt ist"
+      },
+      {
+        "points" : 5,
+        "title" : "min. 200 Jahre alt ist"
+      },
+      {
+        "points" : 5,
+        "title" : "min. 300 Jahre alt ist"
+      },
+      {
+        "points" : 5,
+        "title" : "min. 500 Jahre alt ist"
+      },
+      {
+        "points" : 5,
+        "title" : "min. 1000 Jahre alt ist"
+      },
+      {
+        "points" : 5,
+        "title" : "min. 2000 Jahre alt ist"
+      }
+    ],
+    "title" : "touch me",
+    "unlockAnimation" : "flip"
+  },
+  {
+    "activeDays" : 20,
+    "code" : "knfth5a",
+    "condition" : null,
+    "description" : "Stelle Johannes eine historische Person vor, die du cool findest!, und sag warum sie so spannend ist. (Chat darf dir helfen)",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/tiziano_vecellio_genannt_tizian_kaiser_karl_v._im_harnisch_mitte_16._jahrhundert_special.jpg.png",
     "points" : 5,
     "style" : "romantic",
     "subTasks" : [
       {
         "points" : 5,
-        "title" : "Test"
+        "title" : "Wer ist auf dem CoverBild dargestellt?"
       }
     ],
-    "title" : "Willkommen im Spiel Lilly!",
-    "unlockAnimation" : "curtain"
+    "title" : "history time",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 699,
+    "code" : "rdocyad",
+    "condition" : null,
+    "description" : "Schau (und höre) einem echten Kampfchat beim Start zu!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Eurofighter_Typhoon.svg.png",
+    "points" : 20,
+    "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Wenn es ein Eurofighter ist 😍"
+      }
+    ],
+    "title" : "topgun",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "wuffel",
+    "condition" : "Lebt Wuffel noch? (bitte ja :( )",
+    "description" : "Streichel Wuffel!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/wuffel.png",
+    "points" : 20,
+    "style" : "mystery",
+    "title" : "Eisbärbaby",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 89,
+    "code" : "4k0jwj9",
+    "condition" : null,
+    "description" : "Pflanze etwas an und esse es zusammen mit Johannes",
+    "emoji" : "🪏",
+    "points" : 10,
+    "style" : "cozy",
+    "title" : "Farmer!",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "frzzuu2",
+    "condition" : null,
+    "description" : "Mc besuche alle McDonald’s im Umkreis von 70km von Kluftern und knabber was!",
+    "emoji" : "",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/mcs.png",
+    "points" : 50,
+    "style" : "cozy",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Korrekte Liste aller anzusteuerden Mcs erstellen"
+      }
+    ],
+    "title" : "Dein Lieblingsladen!",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 70,
+    "code" : "lw88zc9",
+    "condition" : null,
+    "description" : "Nimm ein Bad in einer Badewanne \n",
+    "emoji" : "🛁",
+    "points" : 5,
+    "style" : "cozy",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "mach ein Selfi 😎"
+      }
+    ],
+    "title" : "schon lange nicht mehr gemacht",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 365,
+    "code" : "cgcu8a4",
+    "condition" : null,
+    "description" : "Geh in einen Gottesdienst!",
+    "emoji" : "✝️",
+    "points" : 5,
+    "style" : "cozy",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "mit Johannes"
+      }
+    ],
+    "title" : "Amen",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 60,
+    "code" : "utz9do2",
+    "condition" : "Ist gerade eine Jahreszeit mit Rausgehwetter?",
+    "description" : "Nachts raus gehen und sich gegenseitig jeweils drei Sternbilder erklären ",
+    "emoji" : "🌃",
+    "points" : 5,
+    "style" : "romantic",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "hört music dazu"
+      }
+    ],
+    "title" : "Star Gazing",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "activeDays" : 600,
+    "code" : "daq8hld",
+    "condition" : null,
+    "description" : "Simpel: \nGeh min. -1m unter den Meeresspiegel.",
+    "emoji" : "⇣",
+    "points" : 20,
+    "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "tiefer als -100 Meter"
+      }
+    ],
+    "title" : "deeper",
+    "unlockAnimation" : "burst"
+  },
+  {
+    "code" : "tq6icjw",
+    "condition" : null,
+    "description" : "Umarme mich (Johannes) ganz fest",
+    "emoji" : "🧢",
+    "points" : 5,
+    "style" : "romantic",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "gib mir ein Bussi"
+      }
+    ],
+    "title" : "Umarme",
+    "unlockAnimation" : "burst"
   }
 
   ],
