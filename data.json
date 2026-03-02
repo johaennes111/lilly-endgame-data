@@ -278,11 +278,11 @@
     {
       "code" : "dgukxmw",
       "condition" : null,
-      "description" : "Ich tue dir was gutes!\nGibt es eine Kleinigkeit, die dir den Alltag versüßen kann? Gib Bescheid!",
-      "emoji" : "😘",
+      "description" : "Sag an einem 300 Menschen in persona Hallo",
+      "emoji" : "👋🏼",
       "points" : 5,
-      "style" : "romantic",
-      "title" : "😘",
+      "style" : "adventure",
+      "title" : "Hej",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
     },
@@ -661,7 +661,7 @@
       "description" : "Überraschungs-Date!\nWir müssen uns ein gutes Datum aussuchen!",
       "emoji" : "👗",
       "points" : 20,
-      "style" : "mystery",
+      "style" : "romantic",
       "title" : "SUPRISE DATE",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -1628,8 +1628,8 @@
       "id" : "shop-999",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/osiander.png",
       "isRepeatable" : false,
-      "name" : "Willkommen!",
-      "revealText" : "du hast dein Endgame gestartet!\n\nEIn Osiandergutschein für dich:\n\nKartennummer: 63940215078654675\nPIN: PIN 0806 \n"
+      "name" : "Willkommen in deinem Endgame!",
+      "revealText" : "Osiandergutschein für dich:\nKartennummer: 63940215078654675\nPIN: PIN 0806 \n"
     },
     {
       "cost" : 60,
