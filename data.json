@@ -1464,49 +1464,41 @@
 
   
   "shopItems": [
-    {
-      "id": "shop-001",
-      "name": "Lieblingsessen",
-      "description": "Dein Lieblingsessen zum Abendessen!",
-      "emoji": "🍣",
-      "cost": 30,
-      "isRepeatable": true
-    },
-    {
-      "id": "shop-002",
-      "name": "Kinoabend",
-      "description": "Ein Abend im Kino deiner Wahl!",
-      "emoji": "🎟️",
-      "cost": 50,
-      "isRepeatable": false
-    },
-    {
-      "id": "shop-003",
-      "name": "Frühstück im Bett",
-      "description": "Frühstück ans Bett gebracht bekommen!",
-      "emoji": "🥐",
-      "cost": 40,
-      "isRepeatable": true,
-      "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/LillyL2.png"
 
-    },
-    {
-      "id": "shop-004",
-      "name": "Kinoabend",
-      "description": "Ein Abend im Kino deiner Wahl!",
-      "emoji": "🔱",
-      "cost": 50,
-      "isRepeatable": false
-    },
-      {
+  {
     "cost" : 30,
-    "description" : "",
+    "description" : "Dein Lieblingsessen zum Abendessen!",
+    "emoji" : "",
+    "id" : "shop-001",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/8-2-coca-cola-png-picture.png",
+    "isRepeatable" : true,
+    "name" : "Cola!"
+  },
+  {
+    "cost" : 60,
+    "description" : "Frühstück ans Bett gebracht bekommen!",
+    "emoji" : "🥐",
+    "id" : "shop-002",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LillyL2.png",
+    "isRepeatable" : true,
+    "name" : "Frühstück im Bett"
+  },
+  {
+    "cost" : 5,
+    "description" : "du hast dein Endgame gestartet!\n\nEIn Osiandergutschein für dich:\n\nKartennummer: 63940215078654675\nPIN: PIN 0806 \n",
     "emoji" : "🎁",
-    "id" : "shop-009",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/IMG_9865.JPG",
+    "id" : "shop-999",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/osiander.png",
     "isRepeatable" : false,
-    "name" : "siegel"
-  }
-   
+    "name" : "Willkommen!"
+  },
+  {
+    "cost" : 60,
+    "description" : "Du darfst dir 10€ von deinem Geld für Quatsch ausgeben",
+    "emoji" : "💸",
+    "id" : "shop-004",
+    "isRepeatable" : true,
+    "name" : "EIgen Budget"
+  }   
   ]
 }
