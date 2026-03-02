@@ -904,7 +904,7 @@
     "description" : "Sprich Johannes auf das Dunkeldate an,\nwenn es erledigt ist, gibts die Punkte",
     "emoji" : "🎯",
     "points" : 20,
-    "style" : "mystery",
+    "style" : "creative",
     "title" : "DunkelDate",
     "unlockAnimation" : "burst"
   },
@@ -1195,7 +1195,7 @@
     "description" : "Gemeinsam ein Tattoo stechen lassen.\n\nNicht selbes Motiv, aber dennoch gemeinsam",
     "emoji" : "⚓️",
     "points" : 120,
-    "style" : "mystery",
+    "style" : "adventure",
     "title" : "Opa Heskes Erbin",
     "unlockAnimation" : "curtain"
   },
@@ -1205,7 +1205,7 @@
     "description" : "Rauch gemeinsam mit Johannes eine Ziggarette",
     "emoji" : "🚬",
     "points" : 100,
-    "style" : "mystery",
+    "style" : "funny",
     "title" : "Rauchen.",
     "unlockAnimation" : "curtain"
   },
@@ -1215,7 +1215,7 @@
     "description" : "Geht mir mir zusammen Fallschirmspringen.",
     "emoji" : "🪂",
     "points" : 100,
-    "style" : "mystery",
+    "style" : "cozy",
     "title" : "Fallschirmspringen",
     "unlockAnimation" : "curtain"
   },
@@ -1225,7 +1225,7 @@
     "description" : "LSD zusammen ausprobieren!",
     "emoji" : "🦛",
     "points" : 120,
-    "style" : "mystery",
+    "style" : "cozy",
     "title" : "LSD",
     "unlockAnimation" : "curtain"
   },
@@ -1341,7 +1341,7 @@
     "emoji" : "",
     "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/wuffel.png",
     "points" : 20,
-    "style" : "mystery",
+    "style" : "adventure",
     "title" : "Eisbärbaby",
     "unlockAnimation" : "burst"
   },
