@@ -1,1549 +1,1654 @@
 {
-  "challenges": [
-
-  {
-    "code" : "3fzi5gs",
-    "condition" : "Ist Johannes da?",
-    "description" : "Wir schauen uns in die Augen, und wer zuerst lacht oder LÄCHELT hat verloren.\nSollte ich gewinnen, krieg ich 5 Bussis 😎",
-    "emoji" : "👀",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "I can see u",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "w8njaft",
-    "condition" : "Ist Johannes da?",
-    "description" : "Langer Kuss für dich - und für mich, hehe!",
-    "emoji" : "💋",
-    "points" : 5,
-    "style" : "standard",
-    "title" : "kiss me baby",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "zr65y2r",
-    "condition" : null,
-    "description" : "Ich erzähle dir, warum ich stolz auf dich bin. Sprich mich einfach drauf an, ich weiß Bescheid🫶🏼",
-    "emoji" : "🦀",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "so proud of you",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "j0emrxe",
-    "condition" : null,
-    "description" : "Wir machen ein „Was liebe ich an dir“-Voice-Memo füreinander. Das können wir dann bei Bedarf immer wieder abrufen",
-    "emoji" : "🎤",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "Voice of Love",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "code" : "7c5kywn",
-    "condition" : null,
-    "description" : "Wir schreiben uns einen Brief für den jeweilig andern und öffenen ihn in einem Jahr einem Jahr. (Punkte gibts, sobald beide Briefe geschrieben sind)",
-    "emoji" : "⏱️",
-    "points" : 10,
-    "style" : "creative",
-    "title" : "Zeitkäpsle",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "uhfx1nt",
-    "condition" : null,
-    "description" : "15 Minuten Massage für dich\nTipp: ZEITNAH Einlösen, sonst wird das vergessen ;)",
-    "emoji" : "🤓",
-    "points" : 5,
-    "style" : "cozy",
-    "title" : "Massage !",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "1eczkd2",
-    "condition" : "Hat Joe gerade wenig Stress?",
-    "description" : "Ich koche dein Lieblingsessen!\n(oder was anders was du dir wünscht)",
-    "emoji" : "👨🏻‍🍳",
-    "points" : 5,
-    "style" : "cozy",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Ein kochbares Essen wünschen"
-      }
-    ],
-    "title" : "Chef Joe",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "code" : "qfpy5ls",
-    "condition" : null,
-    "description" : "Du kriegst einen Brief „Für einen schlechten Tag“. Lies ihn einfach, wenn du ein bisschen was Positives brauchst\n↳ Gegenstand mit „5ls“ Kennzeichnung",
-    "emoji" : "💌",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "bad days",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "0s1opa0",
-    "condition" : null,
-    "description" : "Ich organisiere einen (Sneack)Filmabend inkl. Snacks für uns!",
-    "emoji" : "🍿",
-    "points" : 5,
-    "style" : "cozy",
-    "title" : "Home-Kino",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "code" : "uowc9c1",
-    "condition" : null,
-    "description" : "Frühstück ans Bett - ein Gutschein (der eingelöst werden will!!)",
-    "emoji" : "🍳",
-    "points" : 5,
-    "style" : "cozy",
-    "title" : "Frühstück ans Bett",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "lufkguq",
-    "condition" : null,
-    "description" : "Du darfst einen Abend komplett bestimmen",
-    "emoji" : "😼",
-    "points" : 5,
-    "style" : "adventure",
-    "title" : "Lilly sagt",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "iytxfc1",
-    "condition" : null,
-    "description" : "Du und Johannes müssen eine Woche lang, gemeinsam ein neues Spaß-Getränk pro Tag testen und bewerten.",
-    "emoji" : "🧉",
-    "points" : 5,
-    "style" : "progress",
-    "title" : "yummy",
-    "totalSteps" : 7,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "yxjuthu",
-    "condition" : null,
-    "description" : "Du und Johannes geht auf ein Date - und am Ende musst du blind über die Nachtische schweben, tippen, dann gehst du kurz weg und Johanens bestellt und du isst es dann :) ",
-    "emoji" : "🍰",
-    "points" : 5,
-    "style" : "adventure",
-    "title" : "Blind-Nachtisch",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 20,
-    "code" : "tq9nn91",
-    "condition" : null,
-    "description" : "Schnapp der Johannes und sprech mit ihm ein kleines Zukunftsszenario durch:\n- Wie wohnen wir ideal\n- Wo? Was ist wichtig? \n- Wie sieht der Garten aus?\n- Wie viele Zimmer?\n- Wohnzimmer und Küche?",
-    "emoji" : "🏡",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "Lage, Lage, Lage",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 17,
-    "code" : "ph7wgy1",
-    "condition" : null,
-    "description" : "Zeig mir ein Kindheitsfoto von dir, dass du magst, und erzähle mir die Geschichte dahinter. \nI will go first!",
-    "emoji" : "🎠",
-    "points" : 10,
-    "style" : "standard",
-    "title" : "Mei das war nett",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 21,
-    "code" : "nt02sqj",
-    "condition" : "Ist gerade NICHT Winter oder ekliges Wetter?",
-    "description" : "Hol dir Johannes, such dir einen Baum aus…\n… und kletter drauf 😎\n aber so richtig",
-    "emoji" : "🌳",
-    "points" : 5,
-    "style" : "adventure",
-    "title" : "Monkey",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "code" : "6lqt83s",
-    "condition" : null,
-    "description" : "1. Du und Johannes malt euch jeweils gegenseitig\n2. Ihr erklärt euch Gegenseitig, was euch wichtig war, was ihr betonen wolltet\n3. Beide Bilder Chat vorlegen und er muss sagen, welches das größere Kunstwerk ist\n4. der Gewinner kriegt ein Bussi vom Verlierer!",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
-    "points" : 5,
-    "style" : "standard",
-    "title" : "Portrait-Tausch",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 40,
-    "code" : "cvhiwoz",
-    "condition" : null,
-    "description" : "Ganz klassisch: Wir müssen unsere Initialen in einen Baum oder eine Bank (unsere Bank?!) schnitzen ",
-    "emoji" : "💌",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/l&j+final+logos-12.png",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "Schnitzen?",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 14,
-    "code" : "4zi89bt",
-    "condition" : null,
-    "description" : "Heute geht es um Ringe: \n- Was ist dein Ringgröße?\n- Welches Ringdesign gefällt dir?\n- Was sollte man noch bei Ringen beachten?\n\nWichtig: Alles schriftlich festhalten!",
-    "emoji" : "💍",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "Herr Der Ringe",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 7,
-    "code" : "q6jxnyb",
-    "condition" : null,
-    "description" : "Sammel fünf Insider zwischen dir und Johannes",
-    "emoji" : "🪥",
-    "points" : 5,
-    "style" : "standard",
-    "title" : "Kollegen!",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 50,
-    "code" : "k27lv4f",
-    "condition" : null,
-    "description" : "Starte eine kleine Zeitkapsel: \nWas wollen wir unseren Kindern sagen?\n\nHalte das alles auf Video fast!",
-    "emoji" : "📹",
-    "points" : 5,
-    "style" : "creative",
-    "title" : "Zeitkapsel",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 3,
-    "code" : "s0w1z8l",
-    "condition" : null,
-    "description" : "Erstelle eine Liste mit deinen Top5 Lieblingsessen Und gib sie Johannes",
-    "emoji" : "🤤",
-    "points" : 5,
-    "style" : "creative",
-    "title" : "Lieblingsessen",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 40,
-    "code" : "x4wnwzt",
-    "condition" : null,
-    "description" : "Unsere gemeinsame Spotify-Playlist muss erweitert werden!\nDaher:\n- Addet (du und ich )jeden tag 1 Lied \n- Ein 1 Monat lang, jeden Tag",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Spotify.png",
-    "points" : 10,
-    "style" : "progress",
-    "title" : "Music baby",
-    "totalSteps" : 30,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "dgukxmw",
-    "condition" : null,
-    "description" : "Ich tue dir was gutes!\nGibt es eine Kleinigkeit, die dir den Alltag versüßen kann? Gib Bescheid!",
-    "emoji" : "😘",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "😘",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 40,
-    "code" : "5j0qrhm",
-    "condition" : null,
-    "description" : "Wir schreiben jeweis für den anderen ein Gedicht und tragen es uns dann vor ",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Goethe.png",
-    "points" : 5,
-    "style" : "creative",
-    "title" : "Germanistikqueen",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "yxrspzm",
-    "condition" : null,
-    "description" : "Erzähl mir einen (bis jetzt) unerfüllten Kindheitstraum von dir",
-    "emoji" : "🤫",
-    "points" : 5,
-    "style" : "standard",
-    "title" : "tell me",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 4,
-    "code" : "upupup",
-    "condition" : null,
-    "description" : "Was würdest du in unserem Alltag optimieren?\nSchreib 3 Dinge auf!",
-    "emoji" : "⤴",
-    "points" : 5,
-    "style" : "standard",
-    "title" : "level up",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 132,
-    "code" : "n2x6qct",
-    "condition" : null,
-    "description" : "Gib dem nächsten Bedürftigen 5 Euro (hier 5€)",
-    "emoji" : "😇",
-    "points" : 5,
-    "style" : "standard",
-    "title" : "Almosen",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 12,
-    "code" : "oscar",
-    "condition" : null,
-    "description" : "Challange: \nDu spielst mich 2min & 2min ich dich 🤓\n(nur spaß!!!)",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/oscar.jpeg",
-    "points" : 5,
-    "style" : "creative",
-    "title" : "and the oscar goes to...",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 11,
-    "code" : "dscryln",
-    "condition" : null,
-    "description" : "Such dir ein trendiges TickTock \/ Reel-Dance aus und übe es ein. Spiele es mir vor 😍",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/tiktok-logo_1131634-487.jpg",
-    "points" : 5,
-    "style" : "funny",
-    "title" : "Lisa & Lena",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 43,
-    "code" : "v61qf7x",
-    "condition" : null,
-    "description" : "1. Jeder beschreibt den anderen in 3 Emojis.\n2. Chat (oder eine andere KI) erstellt dann random noch 3 verschiedene Emojisund der \n3. alle Emojis werden dem anderen präsentiert ",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/logo_dixit_2.png",
-    "points" : 5,
-    "style" : "creative",
-    "title" : "Emojis-Dixit",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 7,
-    "code" : "fq3toh4",
-    "condition" : null,
-    "description" : "3 Ziele in der Nähe, \n3 Ziele in der Ferne",
-    "emoji" : "🚗",
-    "points" : 5,
-    "style" : "creative",
-    "title" : "Gemeinsame Reiseziele",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 37,
-    "code" : "q1oihul",
-    "condition" : null,
-    "description" : "Wir dürfen 3 Tage lang nur die Top100-Jahres Playlist des anderen hören. Da müssen wir ehrlich sein 😼",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Spotify.png",
-    "points" : 10,
-    "style" : "progress",
-    "title" : "Spotify-Switch",
-    "totalSteps" : 3,
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 10,
-    "code" : "rcjux8p",
-    "condition" : null,
-    "description" : "ein best of you!\nDu zeigst mir deine 3x Lieblingsbilder von mir und ich dir meine 3x Lieblingsbilder von dir!",
-    "emoji" : "😍",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "best of",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 50,
-    "code" : "01c7hc4",
-    "condition" : null,
-    "description" : "Mach jeden Tag eine Woche lang ein gemeinsames Bild mit mir (Johannes) machen.",
-    "emoji" : "📸",
-    "points" : 10,
-    "style" : "progress",
-    "title" : "sweet",
-    "totalSteps" : 7,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 21,
-    "code" : "9qv98g7",
-    "condition" : null,
-    "description" : "Was sind deine Top 3x Lieblingserinnerung in unserer gemeinsamen Zeit?",
-    "emoji" : "🥰",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "Lieblingserinnerung",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 30,
-    "code" : "ny2tlqb",
-    "condition" : null,
-    "description" : "Gib Johannes 5x Bussis! (😇)",
-    "emoji" : "😘",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "Bussi-Time",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 50,
-    "code" : "hthaeji",
-    "condition" : null,
-    "description" : "Umarme Johannes 1 Minute lang (😇)",
-    "emoji" : "🎯",
-    "points" : 5,
-    "style" : "romantic",
-    "title" : "🫂",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 70,
-    "code" : "jsxpi6p",
-    "condition" : null,
-    "description" : "Was sind unsere Ziele im Leben? \nUm das festzuhalten brauchen wir eine Bucketliste… mit 79 Punkten",
-    "emoji" : "🪣",
-    "points" : 10,
-    "style" : "romantic",
-    "title" : "Bucketliste",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 21,
-    "code" : "sfo1fek",
-    "condition" : null,
-    "description" : "Wir suchen uns ein Buch aus und lesen uns daraus vor. Für 3 Wochen lang",
-    "emoji" : "📖",
-    "points" : 10,
-    "style" : "progress",
-    "title" : "Vorlesen",
-    "totalSteps" : 90,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 200,
-    "code" : "kh73vfp",
-    "condition" : null,
-    "description" : "Challange:\nWir gehen ganz normal ins Kino…\num uns dann danach in einen anderen film zu schleichen!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/illegal-red-stamp.png",
-    "points" : 20,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Nicht erwischt werden"
-      }
-    ],
-    "title" : "pss 🤫",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 30,
-    "code" : "yxwanhs",
-    "condition" : "Ist gerade eine Jahreszeit, um draußen zu chillen?",
-    "description" : "Wir machen uns ein schönes Picknick, \nmit nettem Essen und Sekt",
-    "emoji" : "🧺",
-    "points" : 10,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Mach viele schöne Bilder"
-      }
-    ],
-    "title" : "ach nett",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 200,
-    "code" : "06usgqh",
-    "condition" : null,
-    "description" : "Besuche mit mir (Johannes) ein Museum mit Johannes. Es gibt eine 3er Auswahl, du darfst aussuchen.",
-    "emoji" : "🏰",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Kultur? Kultur!",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "4r2fa2i",
-    "condition" : "Ist gerade Winter?",
-    "description" : "EInen Schneemann bauen",
-    "emoji" : "☃️",
-    "points" : 10,
-    "style" : "standard",
-    "title" : "SIA",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "boi46ta",
-    "condition" : null,
-    "description" : "Easy: Geht Minigolfen! \nEntweder zusammen oder wir nehemn noch jemand mit.\nP.S. Drinnen oder draußen ist beides erlaubt",
-    "emoji" : "⛳️",
-    "points" : 10,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Wenn Du gewinnst:"
-      }
-    ],
-    "title" : "Minigolfen",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 30,
-    "code" : "sa62pzy",
-    "condition" : null,
-    "description" : "Wir schreiben uns jeden Tag, für eine Woche, einen 6-Sätze-Brief und tauschen sie aus.",
-    "emoji" : "💌",
-    "points" : 10,
-    "style" : "progress",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Schreib deiner Mama einen Brief"
-      },
-      {
-        "points" : 5,
-        "title" : "Schreib deinem Papa einen Brief"
-      }
-    ],
-    "title" : "Lets go classic",
-    "totalSteps" : 7,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "1qrsrs5",
-    "condition" : null,
-    "description" : "Einen Flohmarkt oder Wochenmarkt besuchen und was nettes kaufej!",
-    "emoji" : "🧸",
-    "points" : 10,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Finde raus, was der Titel meint und erzähle es Johannes"
-      }
-    ],
-    "title" : "Its the economy stupid",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 21,
-    "code" : "h7xqiol",
-    "condition" : "Ist gerade keine Klausurenphase oder andere stressige Phase?",
-    "description" : "Geht abends spontan rausgehen und gemeinsam feiern oder was trinken!",
-    "emoji" : "🎯",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Party!",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "kq3me1u",
-    "condition" : null,
-    "description" : "Dessert-Challenge: \nWir gehen an 3 Orte einen Nachtisch snacken und küren einen Sieger.",
-    "emoji" : "🍦",
-    "points" : 10,
-    "style" : "progress",
-    "title" : "Dessert Ranking",
-    "totalSteps" : 3,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 60,
-    "code" : "zf50af7",
-    "condition" : null,
-    "description" : "Wir kochen zusammen 3-Gänge-Menü für uns",
-    "emoji" : "🍔",
-    "points" : 15,
-    "style" : "cozy",
-    "title" : "3-Gänge-Menü",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "r3diko9",
-    "condition" : null,
-    "description" : "Ich hatte eine Idee:\nFür kommende Urlaube, fände ich es schön, wenn wir immer ein Fotobuch erstellen. \nUnd wäre es nicht toll cool, wenn diese Bücher nicht immer ein ähnliches Design hätten, damit man später mal eine cleane Reise Bibilitek hat?\nGenau das ist deine Aufgabe! \nErstelle ein Design für kommende Reise-Fotobücher und stelle es mir vor",
-    "emoji" : "🎞️",
-    "points" : 20,
-    "style" : "creative",
-    "title" : "Zukunftsidee",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 120,
-    "code" : "x6ayitv",
-    "condition" : null,
-    "description" : "Überraschungs-Date!\nWir müssen uns ein gutes Datum aussuchen!",
-    "emoji" : "👗",
-    "points" : 20,
-    "style" : "mystery",
-    "title" : "SUPRISE DATE",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 120,
-    "code" : "typ55w7",
-    "condition" : null,
-    "description" : "Besuche eine Höhle!\n(Richtige Höhle)",
-    "emoji" : "⟡",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Neathertahler",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 120,
-    "code" : "nkb7b4c",
-    "condition" : null,
-    "description" : "Besuch eine Burgruine",
-    "emoji" : "🎯",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Burgruine",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "8nt5p1t",
-    "condition" : null,
-    "description" : "Tagestriple nach Calw!\nENDLICH!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Wappen-Calw.svg.png",
-    "points" : 20,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Edeln Vlog drehen"
-      }
-    ],
-    "title" : "Tagestriple!",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "tg4fah8",
-    "condition" : null,
-    "description" : "Tagestriple nach München!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/DEU_München_COA.svg.png",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Tagestriple",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 160,
-    "code" : "yul9o82",
-    "condition" : null,
-    "description" : "Sonnenuntergang am Pfänder gemeinsam erleben!",
-    "emoji" : "🌅",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Austrain sunset",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 120,
-    "code" : "8gu8rlo",
-    "condition" : "Ist gerade eine Jahreszeit, in der man länger gut draußen sein kann?",
-    "description" : "Wir gehen mindestens eine Nacht irgendwo draußen zelten! Bin gespannt!",
-    "emoji" : "🏕️",
-    "points" : 20,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "2x Nächte zelten!"
-      },
-      {
-        "points" : 5,
-        "title" : "3x Nächte zelten"
-      }
-    ],
-    "title" : "Abenteuer Zeit!",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "085mve7",
-    "condition" : "Ist gerade eine Jahreszeit, in der man länger gut draußen sein kann?",
-    "description" : "Wir müssen gemeinsam auf das BZM-Dach klettern!",
-    "emoji" : "⏅",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "up up up",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 13,
-    "code" : "s5nsubw",
-    "condition" : null,
-    "description" : "Komm mit Johanens (Mir) ins Gespräch.\nTimer stellen: 1 Stunde\nThema: Wie sehen unsere nächsten 5 Jahre aus",
-    "emoji" : "❤️‍🔥",
-    "points" : 20,
-    "style" : "cozy",
-    "title" : "REDE",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 40,
-    "code" : "hhc3w6g",
-    "condition" : null,
-    "description" : "Tut in einem Lokal so, als würdet ihr euch nicht kennen und nähert euch aneinander an.",
-    "emoji" : "🎭",
-    "points" : 20,
-    "style" : "cozy",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Bleibe den ganzen Abend in der Rolle"
-      }
-    ],
-    "title" : "Clair & Phil",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 356,
-    "code" : "y4a2efi",
-    "condition" : null,
-    "description" : "Pflanze einen Baum.\nCave: Mindestgröße: Halbe Lilly in der Höhe",
-    "emoji" : "🌳",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Klimawandel STOPPEN",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 90,
-    "code" : "8j7y3yj",
-    "condition" : null,
-    "description" : "Veranstalltet eine Whiskey oder Gin Verkostung,\nzu zweit oder in einer größeren Gruppe!",
-    "emoji" : "🥃",
-    "points" : 20,
-    "style" : "standard",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Jazz Music im Hintergrund"
-      },
-      {
-        "points" : 5,
-        "title" : "Schick anziehen"
-      }
-    ],
-    "title" : "erdiger Geschmack",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 300,
-    "code" : "l22j6xh",
-    "condition" : null,
-    "description" : "Möbelstück, Dekoration, Kunstwerk oder kleines Heimprojekt gemeinsam umsetzen.",
-    "emoji" : "🎯",
-    "points" : 20,
-    "style" : "creative",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "wenn es sinnvoll ist"
-      }
-    ],
-    "title" : "DIY-Großprojekt",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 60,
-    "code" : "ejveths",
-    "condition" : null,
-    "description" : "Du und ich entwickeln ein festes Streit-\/Versöhnungsritual und haltet es schriftlich fest.",
-    "emoji" : "🕊️",
-    "points" : 20,
-    "style" : "romantic",
-    "title" : "Konflikt-Upgrade\n",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "g8ane6o",
-    "condition" : null,
-    "description" : "Gemeinsames Spar- oder Zielprojekt\nReise, Möbel, Erlebnis – egal was, aber gemeinsam geplant.\nPunkte gibts, wenn es umgesetzt wurde.",
-    "emoji" : "🏁",
-    "points" : 20,
-    "style" : "creative",
-    "title" : "Gemeinsames Ziel",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 365,
-    "code" : "d4f90z5",
-    "condition" : null,
-    "description" : "geh gemeinsam mit Johannes (mir) auf eine Demo und macht ein Selfi und komm mit minidestens einem anderem Demobesucher ins Gespräch über das Thema der Demo.",
-    "emoji" : "🤬",
-    "points" : 20,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Sprich mit Personen mit GRÜNEN, BLAUEN und ROTEN Haarem"
-      }
-    ],
-    "title" : "FFFF",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 400,
-    "code" : "q9ljjld",
-    "condition" : null,
-    "description" : "Wir suchen uns gemeinsam ein Kochbuch aus (muss ja nicht ein neues sein, gibt ja z.B. Zuhause genug davon) und kochen dann 1\/Monat für ein Jahr zusammen daraus! ",
-    "emoji" : "🥘",
-    "points" : 20,
-    "style" : "progress",
-    "title" : "Kochen nach Zahlen",
-    "totalSteps" : 12,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 200,
-    "code" : "t0oafc6",
-    "condition" : null,
-    "description" : "Geh mit mindestens Johannes in ein richtiges Theater, z.B. Stadttheather Konztanz \nUND \nzieht euch chick an!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/theater-stage-curtain-with-sign_1286802-1794.jpg",
-    "points" : 20,
-    "style" : "cozy",
-    "title" : "highsoseieti",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 1400,
-    "code" : "suon0zi",
-    "condition" : null,
-    "description" : "Ein Foto machen, das wir in 1 Jahr wieder gleich machen:\nJedes Jahr im selben Austritt, \nselbe Pose, \nfür die nächsten Jahre.\nPunkte gibts nach den ersten 3 Jahren,\nTradition darf gerne aber weiter geführt werden",
-    "emoji" : "📺",
-    "points" : 30,
-    "style" : "progress",
-    "title" : "Neue Tradtion",
-    "totalSteps" : 3,
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 370,
-    "code" : "1wsmhgv",
-    "condition" : null,
-    "description" : " 1 Jahr lang: \nJeden Monat kriegt eine andere Person einen Kuchen von uns beiden als Aufmerksakeit geschenkt. Das wird sie save happy machen!\n(Der Kuchen darf dem akutellen Stresslevel des Monats angepasst sein)",
-    "emoji" : "🍰",
-    "points" : 40,
-    "style" : "progress",
-    "subTasks" : [
-      {
-        "points" : 10,
-        "title" : "Einen Kuchen für Madleine"
-      }
-    ],
-    "title" : "happy cake challange",
-    "totalSteps" : 12,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 50,
-    "code" : "2odd6qh",
-    "condition" : "Ist gerade eine \"Draußen-Bade-Jahreszeit\"?",
-    "description" : "Geh mit mir (Johannes) nackt in einem See schwimmen!",
-    "emoji" : "🧖🏻‍♀️",
-    "points" : 20,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Mach 5x  Bilder von der Aktion"
-      }
-    ],
-    "title" : "skinnydipping",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 800,
-    "code" : "yrh1u3f",
-    "condition" : null,
-    "description" : "Beziehungs-Check: (2× im Jahr)\nZwei feste Gespräche mit Leitfragen:\n\tWas läuft gut? \n\tWas fehlt? \n\tWas wollen wir ändern?\n\n(Punkte gibts nach dem 4. Gespräch)",
-    "emoji" : "📣",
-    "points" : 40,
-    "style" : "progress",
-    "title" : "Neue Tradition!",
-    "totalSteps" : 4,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 120,
-    "code" : "z107igs",
-    "condition" : "Bist du gerade noch nicht im Gefängnis?",
-    "description" : "Klau etwas aus einem Laden!",
-    "emoji" : "🫆",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Bonnie & Clyde",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 600,
-    "code" : "nxe3rbz",
-    "condition" : null,
-    "description" : "Gehe auf dem Bodensee segeln.",
-    "emoji" : "⛵️",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Sailing Time",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 356,
-    "code" : "kbavji4",
-    "condition" : null,
-    "description" : "Sprich Johannes auf das Dunkeldate an,\nwenn es erledigt ist, gibts die Punkte",
-    "emoji" : "🎯",
-    "points" : 20,
-    "style" : "creative",
-    "title" : "DunkelDate",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 900,
-    "code" : "k39tl7z",
-    "condition" : null,
-    "description" : "Tagestriple  ans Mittelmeer\nPunkte gibts, sobald du das Mittelmeer-Wasser berühst",
-    "emoji" : "🌊",
-    "points" : 50,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Edeln Vlog drehen"
-      },
-      {
-        "points" : 5,
-        "title" : "Fotobuch (?)"
-      }
-    ],
-    "title" : "Tagestriple!",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 1000,
-    "code" : "xpv1igd",
-    "condition" : null,
-    "description" : "nach Berlin!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/coat-of-arms-of-berlin-1935-logo-png_seeklogo-32798.png",
-    "points" : 50,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Edeln Vlog drehen"
-      }
-    ],
-    "title" : "Tagestriple",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 1200,
-    "code" : "s0lbokh",
-    "condition" : null,
-    "description" : "nach Paris!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/da3ba41a6c4fef68253912aae7fad9c2-bastille-day-eiffelturm-silhouette.png",
-    "points" : 60,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Edeln Vlog drehen"
-      },
-      {
-        "points" : 5,
-        "title" : "Fotobuch"
-      }
-    ],
-    "title" : "Tagestriple",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 1200,
-    "code" : "00frerk",
-    "condition" : null,
-    "description" : "nach Köln!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/koeln-logo-koelner-dom.png",
-    "points" : 50,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Edeln Vlog drehen"
-      }
-    ],
-    "title" : "Tagestriple",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 700,
-    "code" : "qo4l5of",
-    "condition" : null,
-    "description" : "Gemeinsam Kiffen und Hash-Cookies ausprobieren!",
-    "emoji" : "🥦",
-    "points" : 50,
-    "style" : "cozy",
-    "title" : "BUMBAZ",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "39b0haq",
-    "condition" : null,
-    "description" : "Gemeinsam einen echten Tanzkurs besuchen!",
-    "emoji" : "💃",
-    "points" : 60,
-    "style" : "romantic",
-    "title" : "Lets Dance baby",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "7vf2wix",
-    "condition" : null,
-    "description" : "Nächste Winterolympischen Spiele:“French Alps, from 1 to 17 February 2030“\n\nAufgabe: Buchen uns früh ein Zimmer, Anreise etc. pp. und schauen uns Live an!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Olympic_rings_without_rims.svg.png",
-    "points" : 60,
-    "style" : "adventure",
-    "title" : "Olympische Spiele",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 600,
-    "code" : "sbohy1g",
-    "condition" : null,
-    "description" : "Familien Regeln - Beziehungsregeln:\nWir kaufen uns ein edels Buch, \nund schreiben Regeln für unsere Beziehung und unsere spätere Familie nieder.\nNicht allgemein, sondern konkret.",
-    "emoji" : "📓",
-    "points" : 50,
-    "style" : "creative",
-    "title" : "Familien-Verfassung",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "ao4amxc",
-    "condition" : null,
-    "description" : "Aufgabe: Es gibt 6 Kontinete. Geht min. mit mir Essen, dass du eine klasssiche Speise und Getränk von jedem Kontinet probiert hast!",
-    "emoji" : "🏴‍☠️",
-    "points" : 40,
-    "style" : "standard",
-    "title" : "7 Weltmeere",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "w78ybf4",
-    "condition" : null,
-    "description" : "Idee:\nman geht in verschiedene Fast-Food-Ketten und bewertet die Cheesburger und ChickenMcNuggets auf einer vorgefertigeten Karte, wobei der McDonadls Burger der Standard ist: 5 ist\n\nKategorieren:\nGeschmack (Overall Taste) – Gesamtgeschmack inkl. Würzung\nCrunch \/ Knusprigkeit – Panade, Textur außen\nSaftigkeit – Fleisch innen (trocken vs. juicy)\nWürzung – Salz, Pfeffer, Gewürzintensität\nKäsequalität (Cheeseburger) – Schmelz, Geschmack, Menge\nBrötchenqualität (Cheeseburger) – Frische, Konsistenz\nMundgefühl – Gesamttextur beim Biss\nVerhältnis Zutaten – Fleisch-Bun-Sauce-Balance\nAussehen\nPreis-Leistungs-Verhältnis\n\nWo:\nMcDonalds ❤️‍🔥\nBurger King ❤️‍🔥\nFive Guys ❤️‍🔥\nKFC ❤️‍🔥\nSubway ❤️‍🔥\nCarl's Jr. 🇨🇭\nHoly Cow! 🇨🇭\n(Hans im Glück)\n(Peter Pane)",
-    "emoji" : "🍔",
-    "points" : 50,
-    "style" : "cozy",
-    "title" : "CCC XXL – Super-Challenge",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 2000,
-    "code" : "avqzp0x",
-    "condition" : null,
-    "description" : "Größeren Welt-Urlaub: \nPlanen wann und wo.\nAußerhalb von Europa!",
-    "emoji" : "🌏",
-    "points" : 50,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Planung angefangen"
-      },
-      {
-        "points" : 5,
-        "title" : "Planung abgeschlossen!"
-      },
-      {
-        "points" : 10,
-        "title" : "Edeln Vlog drehen"
-      }
-    ],
-    "title" : "Welt-Urlaub",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 120,
-    "code" : "x72u2qo",
-    "condition" : null,
-    "description" : "Krimi-Dinner mit Freunden veranstaltten! \n(Welches genau müssen wir noch dann konrket schauen)",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/kochen.png",
-    "points" : 40,
-    "style" : "cozy",
-    "title" : "Krimi Dinner",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "47mtzzz",
-    "condition" : null,
-    "description" : "Relativ simpel: Sehe mit mir Nord-Lichter an.",
-    "emoji" : "🎯",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/light-whirl-effect-free-png.png",
-    "points" : 70,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Planung"
-      },
-      {
-        "points" : 10,
-        "title" : "Edeln Vlog drehen"
-      },
-      {
-        "points" : 5,
-        "title" : "Fotobuch machen"
-      }
-    ],
-    "title" : "Nord Lichter",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "i4yx0r3",
-    "condition" : null,
-    "description" : "Ein Weltwunder besuchen. Simpel",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/pngtree-the-great-pyramid-of-giza-in-miniature-form-ancient-egypt-model-png-image_13079949.png",
-    "points" : 70,
-    "style" : "standard",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Planung"
-      },
-      {
-        "points" : 10,
-        "title" : "Edeln Vlog drehen"
-      },
-      {
-        "points" : 5,
-        "title" : "Fotobuch machen"
-      }
-    ],
-    "title" : "Weltwunder",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "r8w73lc",
-    "condition" : null,
-    "description" : "Steh auf dem Equator.",
-    "emoji" : "🌍",
-    "points" : 70,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Planung"
-      },
-      {
-        "points" : 10,
-        "title" : "Edeln Vlog drehen"
-      },
-      {
-        "points" : 5,
-        "title" : "Fotobuch machen"
-      }
-    ],
-    "title" : "Equator",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "i24r1eq",
-    "condition" : null,
-    "description" : "Neues Sport-Hobby gemeinsam anfagen:\n2–8 Termine \/ Monate: \nz.B. Klettern \/ Gym\nHalbes Jahr durchziehen",
-    "emoji" : "💪🏿",
-    "points" : 50,
-    "style" : "progress",
-    "title" : "Lets get fit!",
-    "totalSteps" : 50,
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 600,
-    "code" : "oxzlxl9",
-    "condition" : null,
-    "description" : "Konzert von einem coolen Künstler buchen und gemeinsam hingehen!",
-    "emoji" : "🎶",
-    "points" : 40,
-    "style" : "cozy",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Buchen"
-      }
-    ],
-    "title" : "music",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "6xl2uv4",
-    "condition" : null,
-    "description" : "Gemeinsam ein Tattoo stechen lassen.\n\nNicht selbes Motiv, aber dennoch gemeinsam",
-    "emoji" : "⚓️",
-    "points" : 120,
-    "style" : "adventure",
-    "title" : "Opa Heskes Erbin",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "code" : "8efnexn",
-    "condition" : null,
-    "description" : "Rauch gemeinsam mit Johannes eine Ziggarette",
-    "emoji" : "🚬",
-    "points" : 100,
-    "style" : "funny",
-    "title" : "Rauchen.",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "code" : "s84mpg6",
-    "condition" : null,
-    "description" : "Geht mir mir zusammen Fallschirmspringen.",
-    "emoji" : "🪂",
-    "points" : 100,
-    "style" : "cozy",
-    "title" : "Fallschirmspringen",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "code" : "jd6live",
-    "condition" : null,
-    "description" : "LSD zusammen ausprobieren!",
-    "emoji" : "🦛",
-    "points" : 120,
-    "style" : "cozy",
-    "title" : "LSD",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "code" : "letsgo1!",
-    "condition" : "Bist du bereit für dein... Endgame?",
-    "description" : "Hallo Lilly, ich habe dich Lieb!",
-    "emoji" : "❤️",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LioheartIcon.png",
-    "points" : 5,
-    "style" : "romantic",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Johannes ein Bussi geben"
-      }
-    ],
-    "title" : "Willkommen im Spiel Lilly!",
-    "unlockAnimation" : "curtain"
-  },
-  {
-    "activeDays" : 700,
-    "code" : "bna2tts",
-    "condition" : null,
-    "description" : "Triff eine 100 jährige Person!",
-    "emoji" : "💯",
-    "points" : 20,
-    "style" : "cozy",
-    "title" : "ENDgame",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 365,
-    "code" : "1955c3o",
-    "condition" : null,
-    "description" : "Berühre etwas menschlichen Ursprungs das…\n\n(kann nur einmal benutzt werden) ",
-    "emoji" : "🫵🏿",
-    "points" : 10,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "min. 50 Jahre alt ist"
-      },
-      {
-        "points" : 5,
-        "title" : "min. 100 Jahre alt ist"
-      },
-      {
-        "points" : 5,
-        "title" : "min. 200 Jahre alt ist"
-      },
-      {
-        "points" : 5,
-        "title" : "min. 300 Jahre alt ist"
-      },
-      {
-        "points" : 5,
-        "title" : "min. 500 Jahre alt ist"
-      },
-      {
-        "points" : 5,
-        "title" : "min. 1000 Jahre alt ist"
-      },
-      {
-        "points" : 5,
-        "title" : "min. 2000 Jahre alt ist"
-      }
-    ],
-    "title" : "touch me",
-    "unlockAnimation" : "flip"
-  },
-  {
-    "activeDays" : 20,
-    "code" : "knfth5a",
-    "condition" : null,
-    "description" : "Stelle Johannes eine historische Person vor, die du cool findest!, und sag warum sie so spannend ist. (Chat darf dir helfen)",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/tiziano_vecellio_genannt_tizian_kaiser_karl_v._im_harnisch_mitte_16._jahrhundert_special.jpg.png",
-    "points" : 5,
-    "style" : "romantic",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Wer ist auf dem CoverBild dargestellt?"
-      }
-    ],
-    "title" : "history time",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 699,
-    "code" : "rdocyad",
-    "condition" : null,
-    "description" : "Schau (und höre) einem echten Kampfchat beim Start zu!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Eurofighter_Typhoon.svg.png",
-    "points" : 20,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Wenn es ein Eurofighter ist 😍"
-      }
-    ],
-    "title" : "topgun",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "wuffel",
-    "condition" : "Lebt Wuffel noch? (bitte ja :( )",
-    "description" : "Streichel Wuffel!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/wuffel.png",
-    "points" : 20,
-    "style" : "adventure",
-    "title" : "Eisbärbaby",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 89,
-    "code" : "4k0jwj9",
-    "condition" : null,
-    "description" : "Pflanze etwas an und esse es zusammen mit Johannes",
-    "emoji" : "🪏",
-    "points" : 10,
-    "style" : "cozy",
-    "title" : "Farmer!",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "frzzuu2",
-    "condition" : null,
-    "description" : "Mc besuche alle McDonald’s im Umkreis von 70km von Kluftern und knabber was!",
-    "emoji" : "",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/mcs2.png",
-    "points" : 50,
-    "style" : "cozy",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "Korrekte Liste aller anzusteuerden Mcs erstellen"
-      }
-    ],
-    "title" : "Dein Lieblingsladen!",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 70,
-    "code" : "lw88zc9",
-    "condition" : null,
-    "description" : "Nimm ein Bad in einer Badewanne \n",
-    "emoji" : "🛁",
-    "points" : 5,
-    "style" : "cozy",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "mach ein Selfi 😎"
-      }
-    ],
-    "title" : "schon lange nicht mehr gemacht",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 365,
-    "code" : "cgcu8a4",
-    "condition" : null,
-    "description" : "Geh in einen Gottesdienst!",
-    "emoji" : "✝️",
-    "points" : 5,
-    "style" : "cozy",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "mit Johannes"
-      }
-    ],
-    "title" : "Amen",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 60,
-    "code" : "utz9do2",
-    "condition" : "Ist gerade eine Jahreszeit mit Rausgehwetter?",
-    "description" : "Nachts raus gehen und sich gegenseitig jeweils drei Sternbilder erklären ",
-    "emoji" : "🌃",
-    "points" : 5,
-    "style" : "romantic",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "hört music dazu"
-      }
-    ],
-    "title" : "Star Gazing",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "activeDays" : 600,
-    "code" : "daq8hld",
-    "condition" : null,
-    "description" : "Simpel: \nGeh min. -1m unter den Meeresspiegel.",
-    "emoji" : "⇣",
-    "points" : 20,
-    "style" : "adventure",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "tiefer als -100 Meter"
-      }
-    ],
-    "title" : "deeper",
-    "unlockAnimation" : "burst"
-  },
-  {
-    "code" : "tq6icjw",
-    "condition" : null,
-    "description" : "Umarme mich (Johannes) ganz fest",
-    "emoji" : "🧢",
-    "points" : 5,
-    "style" : "romantic",
-    "subTasks" : [
-      {
-        "points" : 5,
-        "title" : "gib mir ein Bussi"
-      }
-    ],
-    "title" : "Umarme",
-    "unlockAnimation" : "burst"
-  }
-
-
+  "challenges" : [
+    {
+      "code" : "3fzi5gs",
+      "condition" : "Ist Johannes da?",
+      "description" : "Wir schauen uns in die Augen, und wer zuerst lacht oder LÄCHELT hat verloren.\nSollte ich gewinnen, krieg ich 5 Bussis 😎",
+      "emoji" : "👀",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "I can see u",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "w8njaft",
+      "condition" : "Ist Johannes da?",
+      "description" : "Langer Kuss für dich - und für mich, hehe!",
+      "emoji" : "💋",
+      "points" : 5,
+      "style" : "standard",
+      "title" : "kiss me baby",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "zr65y2r",
+      "condition" : null,
+      "description" : "Ich erzähle dir, warum ich stolz auf dich bin. Sprich mich einfach drauf an, ich weiß Bescheid🫶🏼",
+      "emoji" : "🦀",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "so proud of you",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "j0emrxe",
+      "condition" : null,
+      "description" : "Wir machen ein „Was liebe ich an dir“-Voice-Memo füreinander. Das können wir dann bei Bedarf immer wieder abrufen",
+      "emoji" : "🎤",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "Voice of Love",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "code" : "7c5kywn",
+      "condition" : null,
+      "description" : "Wir schreiben uns einen Brief für den jeweilig andern und öffenen ihn in einem Jahr einem Jahr. (Punkte gibts, sobald beide Briefe geschrieben sind)",
+      "emoji" : "⏱️",
+      "points" : 10,
+      "style" : "creative",
+      "title" : "Zeitkäpsle",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "uhfx1nt",
+      "condition" : null,
+      "description" : "15 Minuten Massage für dich\nTipp: ZEITNAH Einlösen, sonst wird das vergessen ;)",
+      "emoji" : "🤓",
+      "points" : 5,
+      "style" : "cozy",
+      "title" : "Massage !",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "1eczkd2",
+      "condition" : "Hat Joe gerade wenig Stress?",
+      "description" : "Ich koche dein Lieblingsessen!\n(oder was anders was du dir wünscht)",
+      "emoji" : "👨🏻‍🍳",
+      "points" : 5,
+      "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Ein kochbares Essen wünschen"
+        }
+      ],
+      "title" : "Chef Joe",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "code" : "qfpy5ls",
+      "condition" : null,
+      "description" : "Du kriegst einen Brief „Für einen schlechten Tag“. Lies ihn einfach, wenn du ein bisschen was Positives brauchst\n↳ Gegenstand mit „5ls“ Kennzeichnung",
+      "emoji" : "💌",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "bad days",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "0s1opa0",
+      "condition" : null,
+      "description" : "Ich organisiere einen (Sneack)Filmabend inkl. Snacks für uns!",
+      "emoji" : "🍿",
+      "points" : 5,
+      "style" : "cozy",
+      "title" : "Home-Kino",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "code" : "uowc9c1",
+      "condition" : null,
+      "description" : "Frühstück ans Bett - ein Gutschein (der eingelöst werden will!!)",
+      "emoji" : "🍳",
+      "points" : 5,
+      "style" : "cozy",
+      "title" : "Frühstück ans Bett",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "lufkguq",
+      "condition" : null,
+      "description" : "Du darfst einen Abend komplett bestimmen",
+      "emoji" : "😼",
+      "points" : 5,
+      "style" : "adventure",
+      "title" : "Lilly sagt",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "iytxfc1",
+      "condition" : null,
+      "description" : "Du und Johannes müssen eine Woche lang, gemeinsam ein neues Spaß-Getränk pro Tag testen und bewerten.",
+      "emoji" : "🧉",
+      "points" : 5,
+      "style" : "progress",
+      "title" : "yummy",
+      "totalSteps" : 7,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "yxjuthu",
+      "condition" : null,
+      "description" : "Du und Johannes geht auf ein Date - und am Ende musst du blind über die Nachtische schweben, tippen, dann gehst du kurz weg und Johanens bestellt und du isst es dann :) ",
+      "emoji" : "🍰",
+      "points" : 5,
+      "style" : "adventure",
+      "title" : "Blind-Nachtisch",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 20,
+      "code" : "tq9nn91",
+      "condition" : null,
+      "description" : "Schnapp der Johannes und sprech mit ihm ein kleines Zukunftsszenario durch:\n- Wie wohnen wir ideal\n- Wo? Was ist wichtig? \n- Wie sieht der Garten aus?\n- Wie viele Zimmer?\n- Wohnzimmer und Küche?",
+      "emoji" : "🏡",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "Lage, Lage, Lage",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 17,
+      "code" : "ph7wgy1",
+      "condition" : null,
+      "description" : "Zeig mir ein Kindheitsfoto von dir, dass du magst, und erzähle mir die Geschichte dahinter. \nI will go first!",
+      "emoji" : "🎠",
+      "points" : 10,
+      "style" : "standard",
+      "title" : "Mei das war nett",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 21,
+      "code" : "nt02sqj",
+      "condition" : "Ist gerade NICHT Winter oder ekliges Wetter?",
+      "description" : "Hol dir Johannes, such dir einen Baum aus…\n… und kletter drauf 😎\n aber so richtig",
+      "emoji" : "🌳",
+      "points" : 5,
+      "style" : "adventure",
+      "title" : "Monkey",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "code" : "6lqt83s",
+      "condition" : null,
+      "description" : "1. Du und Johannes malt euch jeweils gegenseitig\n2. Ihr erklärt euch Gegenseitig, was euch wichtig war, was ihr betonen wolltet\n3. Beide Bilder Chat vorlegen und er muss sagen, welches das größere Kunstwerk ist\n4. der Gewinner kriegt ein Bussi vom Verlierer!",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+      "points" : 5,
+      "style" : "standard",
+      "title" : "Portrait-Tausch",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 40,
+      "code" : "cvhiwoz",
+      "condition" : null,
+      "description" : "Ganz klassisch: Wir müssen unsere Initialen in einen Baum oder eine Bank (unsere Bank?!) schnitzen ",
+      "emoji" : "💌",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/l&j+final+logos-12.png",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "Schnitzen?",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 14,
+      "code" : "4zi89bt",
+      "condition" : null,
+      "description" : "Heute geht es um Ringe: \n- Was ist dein Ringgröße?\n- Welches Ringdesign gefällt dir?\n- Was sollte man noch bei Ringen beachten?\n\nWichtig: Alles schriftlich festhalten!",
+      "emoji" : "💍",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "Herr Der Ringe",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 7,
+      "code" : "q6jxnyb",
+      "condition" : null,
+      "description" : "Sammel fünf Insider zwischen dir und Johannes",
+      "emoji" : "🪥",
+      "points" : 5,
+      "style" : "standard",
+      "title" : "Kollegen!",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 50,
+      "code" : "k27lv4f",
+      "condition" : null,
+      "description" : "Starte eine kleine Zeitkapsel: \nWas wollen wir unseren Kindern sagen?\n\nHalte das alles auf Video fast!",
+      "emoji" : "📹",
+      "points" : 5,
+      "style" : "creative",
+      "title" : "Zeitkapsel",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 3,
+      "code" : "s0w1z8l",
+      "condition" : null,
+      "description" : "Erstelle eine Liste mit deinen Top5 Lieblingsessen Und gib sie Johannes",
+      "emoji" : "🤤",
+      "points" : 5,
+      "style" : "creative",
+      "title" : "Lieblingsessen",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 40,
+      "code" : "x4wnwzt",
+      "condition" : null,
+      "description" : "Unsere gemeinsame Spotify-Playlist muss erweitert werden!\nDaher:\n- Addet (du und ich )jeden tag 1 Lied \n- Ein 1 Monat lang, jeden Tag",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Spotify.png",
+      "points" : 10,
+      "style" : "progress",
+      "title" : "Music baby",
+      "totalSteps" : 30,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "dgukxmw",
+      "condition" : null,
+      "description" : "Ich tue dir was gutes!\nGibt es eine Kleinigkeit, die dir den Alltag versüßen kann? Gib Bescheid!",
+      "emoji" : "😘",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "😘",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 40,
+      "code" : "5j0qrhm",
+      "condition" : null,
+      "description" : "Wir schreiben jeweis für den anderen ein Gedicht und tragen es uns dann vor ",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Goethe.png",
+      "points" : 5,
+      "style" : "creative",
+      "title" : "Germanistikqueen",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "yxrspzm",
+      "condition" : null,
+      "description" : "Erzähl mir einen (bis jetzt) unerfüllten Kindheitstraum von dir",
+      "emoji" : "🤫",
+      "points" : 5,
+      "style" : "standard",
+      "title" : "tell me",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 4,
+      "code" : "upupup",
+      "condition" : null,
+      "description" : "Was würdest du in unserem Alltag optimieren?\nSchreib 3 Dinge auf!",
+      "emoji" : "⤴",
+      "points" : 5,
+      "style" : "standard",
+      "title" : "level up",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 132,
+      "code" : "n2x6qct",
+      "condition" : null,
+      "description" : "Gib dem nächsten Bedürftigen 5 Euro (hier 5€)",
+      "emoji" : "😇",
+      "points" : 5,
+      "style" : "standard",
+      "title" : "Almosen",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 12,
+      "code" : "oscar",
+      "condition" : null,
+      "description" : "Challange: \nDu spielst mich 2min & 2min ich dich 🤓\n(nur spaß!!!)",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/oscar.jpeg",
+      "points" : 5,
+      "style" : "creative",
+      "title" : "and the oscar goes to...",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 11,
+      "code" : "dscryln",
+      "condition" : null,
+      "description" : "Such dir ein trendiges TickTock \/ Reel-Dance aus und übe es ein. Spiele es mir vor 😍",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/tiktok-logo_1131634-487.jpg",
+      "points" : 5,
+      "style" : "funny",
+      "title" : "Lisa & Lena",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 43,
+      "code" : "v61qf7x",
+      "condition" : null,
+      "description" : "1. Jeder beschreibt den anderen in 3 Emojis.\n2. Chat (oder eine andere KI) erstellt dann random noch 3 verschiedene Emojisund der \n3. alle Emojis werden dem anderen präsentiert ",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/logo_dixit_2.png",
+      "points" : 5,
+      "style" : "creative",
+      "title" : "Emojis-Dixit",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 7,
+      "code" : "fq3toh4",
+      "condition" : null,
+      "description" : "3 Ziele in der Nähe, \n3 Ziele in der Ferne",
+      "emoji" : "🚗",
+      "points" : 5,
+      "style" : "creative",
+      "title" : "Gemeinsame Reiseziele",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 37,
+      "code" : "q1oihul",
+      "condition" : null,
+      "description" : "Wir dürfen 3 Tage lang nur die Top100-Jahres Playlist des anderen hören. Da müssen wir ehrlich sein 😼",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Spotify.png",
+      "points" : 10,
+      "style" : "progress",
+      "title" : "Spotify-Switch",
+      "totalSteps" : 3,
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 10,
+      "code" : "rcjux8p",
+      "condition" : null,
+      "description" : "ein best of you!\nDu zeigst mir deine 3x Lieblingsbilder von mir und ich dir meine 3x Lieblingsbilder von dir!",
+      "emoji" : "😍",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "best of",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 50,
+      "code" : "01c7hc4",
+      "condition" : null,
+      "description" : "Mach jeden Tag eine Woche lang ein gemeinsames Bild mit mir (Johannes) machen.",
+      "emoji" : "📸",
+      "points" : 10,
+      "style" : "progress",
+      "title" : "sweet",
+      "totalSteps" : 7,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 21,
+      "code" : "9qv98g7",
+      "condition" : null,
+      "description" : "Was sind deine Top 3x Lieblingserinnerung in unserer gemeinsamen Zeit?",
+      "emoji" : "🥰",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "Lieblingserinnerung",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 30,
+      "code" : "ny2tlqb",
+      "condition" : null,
+      "description" : "Gib Johannes 5x Bussis! (😇)",
+      "emoji" : "😘",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "Bussi-Time",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 50,
+      "code" : "hthaeji",
+      "condition" : null,
+      "description" : "Umarme Johannes 1 Minute lang (😇)",
+      "emoji" : "🎯",
+      "points" : 5,
+      "style" : "romantic",
+      "title" : "🫂",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 70,
+      "code" : "jsxpi6p",
+      "condition" : null,
+      "description" : "Was sind unsere Ziele im Leben? \nUm das festzuhalten brauchen wir eine Bucketliste… mit 79 Punkten",
+      "emoji" : "🪣",
+      "points" : 10,
+      "style" : "romantic",
+      "title" : "Bucketliste",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 21,
+      "code" : "sfo1fek",
+      "condition" : null,
+      "description" : "Wir suchen uns ein Buch aus und lesen uns daraus vor. Für 3 Wochen lang",
+      "emoji" : "📖",
+      "points" : 10,
+      "style" : "progress",
+      "title" : "Vorlesen",
+      "totalSteps" : 90,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 200,
+      "code" : "kh73vfp",
+      "condition" : null,
+      "description" : "Challange:\nWir gehen ganz normal ins Kino…\num uns dann danach in einen anderen film zu schleichen!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/illegal-red-stamp.png",
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Nicht erwischt werden"
+        }
+      ],
+      "title" : "pss 🤫",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 30,
+      "code" : "yxwanhs",
+      "condition" : "Ist gerade eine Jahreszeit, um draußen zu chillen?",
+      "description" : "Wir machen uns ein schönes Picknick, \nmit nettem Essen und Sekt",
+      "emoji" : "🧺",
+      "points" : 10,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Mach viele schöne Bilder"
+        }
+      ],
+      "title" : "ach nett",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 200,
+      "code" : "06usgqh",
+      "condition" : null,
+      "description" : "Besuche mit mir (Johannes) ein Museum mit Johannes. Es gibt eine 3er Auswahl, du darfst aussuchen.",
+      "emoji" : "🏰",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Kultur? Kultur!",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "4r2fa2i",
+      "condition" : "Ist gerade Winter?",
+      "description" : "EInen Schneemann bauen",
+      "emoji" : "☃️",
+      "points" : 10,
+      "style" : "standard",
+      "title" : "SIA",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "boi46ta",
+      "condition" : null,
+      "description" : "Easy: Geht Minigolfen! \nEntweder zusammen oder wir nehemn noch jemand mit.\nP.S. Drinnen oder draußen ist beides erlaubt",
+      "emoji" : "⛳️",
+      "points" : 10,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Wenn Du gewinnst:"
+        }
+      ],
+      "title" : "Minigolfen",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 30,
+      "code" : "sa62pzy",
+      "condition" : null,
+      "description" : "Wir schreiben uns jeden Tag, für eine Woche, einen 6-Sätze-Brief und tauschen sie aus.",
+      "emoji" : "💌",
+      "points" : 10,
+      "style" : "progress",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Schreib deiner Mama einen Brief"
+        },
+        {
+          "points" : 5,
+          "title" : "Schreib deinem Papa einen Brief"
+        }
+      ],
+      "title" : "Lets go classic",
+      "totalSteps" : 7,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "1qrsrs5",
+      "condition" : null,
+      "description" : "Einen Flohmarkt oder Wochenmarkt besuchen und was nettes kaufej!",
+      "emoji" : "🧸",
+      "points" : 10,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Finde raus, was der Titel meint und erzähle es Johannes"
+        }
+      ],
+      "title" : "Its the economy stupid",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 21,
+      "code" : "h7xqiol",
+      "condition" : "Ist gerade keine Klausurenphase oder andere stressige Phase?",
+      "description" : "Geht abends spontan rausgehen und gemeinsam feiern oder was trinken!",
+      "emoji" : "🎯",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Party!",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "kq3me1u",
+      "condition" : null,
+      "description" : "Dessert-Challenge: \nWir gehen an 3 Orte einen Nachtisch snacken und küren einen Sieger.",
+      "emoji" : "🍦",
+      "points" : 10,
+      "style" : "progress",
+      "title" : "Dessert Ranking",
+      "totalSteps" : 3,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 60,
+      "code" : "zf50af7",
+      "condition" : null,
+      "description" : "Wir kochen zusammen 3-Gänge-Menü für uns",
+      "emoji" : "🍔",
+      "points" : 15,
+      "style" : "cozy",
+      "title" : "3-Gänge-Menü",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "r3diko9",
+      "condition" : null,
+      "description" : "Ich hatte eine Idee:\nFür kommende Urlaube, fände ich es schön, wenn wir immer ein Fotobuch erstellen. \nUnd wäre es nicht toll cool, wenn diese Bücher nicht immer ein ähnliches Design hätten, damit man später mal eine cleane Reise Bibilitek hat?\nGenau das ist deine Aufgabe! \nErstelle ein Design für kommende Reise-Fotobücher und stelle es mir vor",
+      "emoji" : "🎞️",
+      "points" : 20,
+      "style" : "creative",
+      "title" : "Zukunftsidee",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 120,
+      "code" : "x6ayitv",
+      "condition" : null,
+      "description" : "Überraschungs-Date!\nWir müssen uns ein gutes Datum aussuchen!",
+      "emoji" : "👗",
+      "points" : 20,
+      "style" : "mystery",
+      "title" : "SUPRISE DATE",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 120,
+      "code" : "typ55w7",
+      "condition" : null,
+      "description" : "Besuche eine Höhle!\n(Richtige Höhle)",
+      "emoji" : "⟡",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Neathertahler",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 120,
+      "code" : "nkb7b4c",
+      "condition" : null,
+      "description" : "Besuch eine Burgruine",
+      "emoji" : "🎯",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Burgruine",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "8nt5p1t",
+      "condition" : null,
+      "description" : "Tagestriple nach Calw!\nENDLICH!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Wappen-Calw.svg.png",
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Edeln Vlog drehen"
+        }
+      ],
+      "title" : "Tagestriple!",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "tg4fah8",
+      "condition" : null,
+      "description" : "Tagestriple nach München!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/DEU_München_COA.svg.png",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Tagestriple",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 160,
+      "code" : "yul9o82",
+      "condition" : null,
+      "description" : "Sonnenuntergang am Pfänder gemeinsam erleben!",
+      "emoji" : "🌅",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Austrain sunset",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 120,
+      "code" : "8gu8rlo",
+      "condition" : "Ist gerade eine Jahreszeit, in der man länger gut draußen sein kann?",
+      "description" : "Wir gehen mindestens eine Nacht irgendwo draußen zelten! Bin gespannt!",
+      "emoji" : "🏕️",
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "2x Nächte zelten!"
+        },
+        {
+          "points" : 5,
+          "title" : "3x Nächte zelten"
+        }
+      ],
+      "title" : "Abenteuer Zeit!",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "085mve7",
+      "condition" : "Ist gerade eine Jahreszeit, in der man länger gut draußen sein kann?",
+      "description" : "Wir müssen gemeinsam auf das BZM-Dach klettern!",
+      "emoji" : "⏅",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "up up up",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 13,
+      "code" : "s5nsubw",
+      "condition" : null,
+      "description" : "Komm mit Johanens (Mir) ins Gespräch.\nTimer stellen: 1 Stunde\nThema: Wie sehen unsere nächsten 5 Jahre aus",
+      "emoji" : "❤️‍🔥",
+      "points" : 20,
+      "style" : "cozy",
+      "title" : "REDE",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 40,
+      "code" : "hhc3w6g",
+      "condition" : null,
+      "description" : "Tut in einem Lokal so, als würdet ihr euch nicht kennen und nähert euch aneinander an.",
+      "emoji" : "🎭",
+      "points" : 20,
+      "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Bleibe den ganzen Abend in der Rolle"
+        }
+      ],
+      "title" : "Clair & Phil",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 356,
+      "code" : "y4a2efi",
+      "condition" : null,
+      "description" : "Pflanze einen Baum.\nCave: Mindestgröße: Halbe Lilly in der Höhe",
+      "emoji" : "🌳",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Klimawandel STOPPEN",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 90,
+      "code" : "8j7y3yj",
+      "condition" : null,
+      "description" : "Veranstalltet eine Whiskey oder Gin Verkostung,\nzu zweit oder in einer größeren Gruppe!",
+      "emoji" : "🥃",
+      "points" : 20,
+      "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Jazz Music im Hintergrund"
+        },
+        {
+          "points" : 5,
+          "title" : "Schick anziehen"
+        }
+      ],
+      "title" : "erdiger Geschmack",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 300,
+      "code" : "l22j6xh",
+      "condition" : null,
+      "description" : "Möbelstück, Dekoration, Kunstwerk oder kleines Heimprojekt gemeinsam umsetzen.",
+      "emoji" : "🎯",
+      "points" : 20,
+      "style" : "creative",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "wenn es sinnvoll ist"
+        }
+      ],
+      "title" : "DIY-Großprojekt",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 60,
+      "code" : "ejveths",
+      "condition" : null,
+      "description" : "Du und ich entwickeln ein festes Streit-\/Versöhnungsritual und haltet es schriftlich fest.",
+      "emoji" : "🕊️",
+      "points" : 20,
+      "style" : "romantic",
+      "title" : "Konflikt-Upgrade\n",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "g8ane6o",
+      "condition" : null,
+      "description" : "Gemeinsames Spar- oder Zielprojekt\nReise, Möbel, Erlebnis – egal was, aber gemeinsam geplant.\nPunkte gibts, wenn es umgesetzt wurde.",
+      "emoji" : "🏁",
+      "points" : 20,
+      "style" : "creative",
+      "title" : "Gemeinsames Ziel",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 365,
+      "code" : "d4f90z5",
+      "condition" : null,
+      "description" : "geh gemeinsam mit Johannes (mir) auf eine Demo und macht ein Selfi und komm mit minidestens einem anderem Demobesucher ins Gespräch über das Thema der Demo.",
+      "emoji" : "🤬",
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Sprich mit Personen mit GRÜNEN, BLAUEN und ROTEN Haarem"
+        }
+      ],
+      "title" : "FFFF",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 400,
+      "code" : "q9ljjld",
+      "condition" : null,
+      "description" : "Wir suchen uns gemeinsam ein Kochbuch aus (muss ja nicht ein neues sein, gibt ja z.B. Zuhause genug davon) und kochen dann 1\/Monat für ein Jahr zusammen daraus! ",
+      "emoji" : "🥘",
+      "points" : 20,
+      "style" : "progress",
+      "title" : "Kochen nach Zahlen",
+      "totalSteps" : 12,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 200,
+      "code" : "t0oafc6",
+      "condition" : null,
+      "description" : "Geh mit mindestens Johannes in ein richtiges Theater, z.B. Stadttheather Konztanz \nUND \nzieht euch chick an!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/theater-stage-curtain-with-sign_1286802-1794.jpg",
+      "points" : 20,
+      "style" : "cozy",
+      "title" : "highsoseieti",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 1400,
+      "code" : "suon0zi",
+      "condition" : null,
+      "description" : "Ein Foto machen, das wir in 1 Jahr wieder gleich machen:\nJedes Jahr im selben Austritt, \nselbe Pose, \nfür die nächsten Jahre.\nPunkte gibts nach den ersten 3 Jahren,\nTradition darf gerne aber weiter geführt werden",
+      "emoji" : "📺",
+      "points" : 30,
+      "style" : "progress",
+      "title" : "Neue Tradtion",
+      "totalSteps" : 3,
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 370,
+      "code" : "1wsmhgv",
+      "condition" : null,
+      "description" : " 1 Jahr lang: \nJeden Monat kriegt eine andere Person einen Kuchen von uns beiden als Aufmerksakeit geschenkt. Das wird sie save happy machen!\n(Der Kuchen darf dem akutellen Stresslevel des Monats angepasst sein)",
+      "emoji" : "🍰",
+      "points" : 40,
+      "style" : "progress",
+      "subTasks" : [
+        {
+          "points" : 10,
+          "title" : "Einen Kuchen für Madleine"
+        }
+      ],
+      "title" : "happy cake challange",
+      "totalSteps" : 12,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 50,
+      "code" : "2odd6qh",
+      "condition" : "Ist gerade eine \"Draußen-Bade-Jahreszeit\"?",
+      "description" : "Geh mit mir (Johannes) nackt in einem See schwimmen!",
+      "emoji" : "🧖🏻‍♀️",
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Mach 5x  Bilder von der Aktion"
+        }
+      ],
+      "title" : "skinnydipping",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 800,
+      "code" : "yrh1u3f",
+      "condition" : null,
+      "description" : "Beziehungs-Check: (2× im Jahr)\nZwei feste Gespräche mit Leitfragen:\n\tWas läuft gut? \n\tWas fehlt? \n\tWas wollen wir ändern?\n\n(Punkte gibts nach dem 4. Gespräch)",
+      "emoji" : "📣",
+      "points" : 40,
+      "style" : "progress",
+      "title" : "Neue Tradition!",
+      "totalSteps" : 4,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 120,
+      "code" : "z107igs",
+      "condition" : "Bist du gerade noch nicht im Gefängnis?",
+      "description" : "Klau etwas aus einem Laden!",
+      "emoji" : "🫆",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Bonnie & Clyde",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 600,
+      "code" : "nxe3rbz",
+      "condition" : null,
+      "description" : "Gehe auf dem Bodensee segeln.",
+      "emoji" : "⛵️",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Sailing Time",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 356,
+      "code" : "kbavji4",
+      "condition" : null,
+      "description" : "Sprich Johannes auf das Dunkeldate an,\nwenn es erledigt ist, gibts die Punkte",
+      "emoji" : "🎯",
+      "points" : 20,
+      "style" : "creative",
+      "title" : "DunkelDate",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 900,
+      "code" : "k39tl7z",
+      "condition" : null,
+      "description" : "Tagestriple  ans Mittelmeer\nPunkte gibts, sobald du das Mittelmeer-Wasser berühst",
+      "emoji" : "🌊",
+      "points" : 50,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Edeln Vlog drehen"
+        },
+        {
+          "points" : 5,
+          "title" : "Fotobuch (?)"
+        }
+      ],
+      "title" : "Tagestriple!",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 1000,
+      "code" : "xpv1igd",
+      "condition" : null,
+      "description" : "nach Berlin!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/coat-of-arms-of-berlin-1935-logo-png_seeklogo-32798.png",
+      "points" : 50,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Edeln Vlog drehen"
+        }
+      ],
+      "title" : "Tagestriple",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 1200,
+      "code" : "s0lbokh",
+      "condition" : null,
+      "description" : "nach Paris!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/da3ba41a6c4fef68253912aae7fad9c2-bastille-day-eiffelturm-silhouette.png",
+      "points" : 60,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Edeln Vlog drehen"
+        },
+        {
+          "points" : 5,
+          "title" : "Fotobuch"
+        }
+      ],
+      "title" : "Tagestriple",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 1200,
+      "code" : "00frerk",
+      "condition" : null,
+      "description" : "nach Köln!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/koeln-logo-koelner-dom.png",
+      "points" : 50,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Edeln Vlog drehen"
+        }
+      ],
+      "title" : "Tagestriple",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 700,
+      "code" : "qo4l5of",
+      "condition" : null,
+      "description" : "Gemeinsam Kiffen und Hash-Cookies ausprobieren!",
+      "emoji" : "🥦",
+      "points" : 50,
+      "style" : "cozy",
+      "title" : "BUMBAZ",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "39b0haq",
+      "condition" : null,
+      "description" : "Gemeinsam einen echten Tanzkurs besuchen!",
+      "emoji" : "💃",
+      "points" : 60,
+      "style" : "romantic",
+      "title" : "Lets Dance baby",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "7vf2wix",
+      "condition" : null,
+      "description" : "Nächste Winterolympischen Spiele:“French Alps, from 1 to 17 February 2030“\n\nAufgabe: Buchen uns früh ein Zimmer, Anreise etc. pp. und schauen uns Live an!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Olympic_rings_without_rims.svg.png",
+      "points" : 60,
+      "style" : "adventure",
+      "title" : "Olympische Spiele",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 600,
+      "code" : "sbohy1g",
+      "condition" : null,
+      "description" : "Familien Regeln - Beziehungsregeln:\nWir kaufen uns ein edels Buch, \nund schreiben Regeln für unsere Beziehung und unsere spätere Familie nieder.\nNicht allgemein, sondern konkret.",
+      "emoji" : "📓",
+      "points" : 50,
+      "style" : "creative",
+      "title" : "Familien-Verfassung",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "ao4amxc",
+      "condition" : null,
+      "description" : "Aufgabe: Es gibt 6 Kontinete. Geht min. mit mir Essen, dass du eine klasssiche Speise und Getränk von jedem Kontinet probiert hast!",
+      "emoji" : "🏴‍☠️",
+      "points" : 40,
+      "style" : "standard",
+      "title" : "7 Weltmeere",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "w78ybf4",
+      "condition" : null,
+      "description" : "Idee:\nman geht in verschiedene Fast-Food-Ketten und bewertet die Cheesburger und ChickenMcNuggets auf einer vorgefertigeten Karte, wobei der McDonadls Burger der Standard ist: 5 ist\n\nKategorieren:\nGeschmack (Overall Taste) – Gesamtgeschmack inkl. Würzung\nCrunch \/ Knusprigkeit – Panade, Textur außen\nSaftigkeit – Fleisch innen (trocken vs. juicy)\nWürzung – Salz, Pfeffer, Gewürzintensität\nKäsequalität (Cheeseburger) – Schmelz, Geschmack, Menge\nBrötchenqualität (Cheeseburger) – Frische, Konsistenz\nMundgefühl – Gesamttextur beim Biss\nVerhältnis Zutaten – Fleisch-Bun-Sauce-Balance\nAussehen\nPreis-Leistungs-Verhältnis\n\nWo:\nMcDonalds ❤️‍🔥\nBurger King ❤️‍🔥\nFive Guys ❤️‍🔥\nKFC ❤️‍🔥\nSubway ❤️‍🔥\nCarl's Jr. 🇨🇭\nHoly Cow! 🇨🇭\n(Hans im Glück)\n(Peter Pane)",
+      "emoji" : "🍔",
+      "points" : 50,
+      "style" : "cozy",
+      "title" : "CCC XXL – Super-Challenge",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 2000,
+      "code" : "avqzp0x",
+      "condition" : null,
+      "description" : "Größeren Welt-Urlaub: \nPlanen wann und wo.\nAußerhalb von Europa!",
+      "emoji" : "🌏",
+      "points" : 50,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Planung angefangen"
+        },
+        {
+          "points" : 5,
+          "title" : "Planung abgeschlossen!"
+        },
+        {
+          "points" : 10,
+          "title" : "Edeln Vlog drehen"
+        }
+      ],
+      "title" : "Welt-Urlaub",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 120,
+      "code" : "x72u2qo",
+      "condition" : null,
+      "description" : "Krimi-Dinner mit Freunden veranstaltten! \n(Welches genau müssen wir noch dann konrket schauen)",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/kochen.png",
+      "points" : 40,
+      "style" : "cozy",
+      "title" : "Krimi Dinner",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "47mtzzz",
+      "condition" : null,
+      "description" : "Relativ simpel: Sehe mit mir Nord-Lichter an.",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/light-whirl-effect-free-png.png",
+      "points" : 70,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Planung"
+        },
+        {
+          "points" : 10,
+          "title" : "Edeln Vlog drehen"
+        },
+        {
+          "points" : 5,
+          "title" : "Fotobuch machen"
+        }
+      ],
+      "title" : "Nord Lichter",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "i4yx0r3",
+      "condition" : null,
+      "description" : "Ein Weltwunder besuchen. Simpel",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/pngtree-the-great-pyramid-of-giza-in-miniature-form-ancient-egypt-model-png-image_13079949.png",
+      "points" : 70,
+      "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Planung"
+        },
+        {
+          "points" : 10,
+          "title" : "Edeln Vlog drehen"
+        },
+        {
+          "points" : 5,
+          "title" : "Fotobuch machen"
+        }
+      ],
+      "title" : "Weltwunder",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "r8w73lc",
+      "condition" : null,
+      "description" : "Steh auf dem Equator.",
+      "emoji" : "🌍",
+      "points" : 70,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Planung"
+        },
+        {
+          "points" : 10,
+          "title" : "Edeln Vlog drehen"
+        },
+        {
+          "points" : 5,
+          "title" : "Fotobuch machen"
+        }
+      ],
+      "title" : "Equator",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "i24r1eq",
+      "condition" : null,
+      "description" : "Neues Sport-Hobby gemeinsam anfagen:\n2–8 Termine \/ Monate: \nz.B. Klettern \/ Gym\nHalbes Jahr durchziehen",
+      "emoji" : "💪🏿",
+      "points" : 50,
+      "style" : "progress",
+      "title" : "Lets get fit!",
+      "totalSteps" : 50,
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 600,
+      "code" : "oxzlxl9",
+      "condition" : null,
+      "description" : "Konzert von einem coolen Künstler buchen und gemeinsam hingehen!",
+      "emoji" : "🎶",
+      "points" : 40,
+      "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Buchen"
+        }
+      ],
+      "title" : "music",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "6xl2uv4",
+      "condition" : null,
+      "description" : "Gemeinsam ein Tattoo stechen lassen.\n\nNicht selbes Motiv, aber dennoch gemeinsam",
+      "emoji" : "⚓️",
+      "points" : 120,
+      "style" : "adventure",
+      "title" : "Opa Heskes Erbin",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "code" : "8efnexn",
+      "condition" : null,
+      "description" : "Rauch gemeinsam mit Johannes eine Ziggarette",
+      "emoji" : "🚬",
+      "points" : 100,
+      "style" : "funny",
+      "title" : "Rauchen.",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "code" : "s84mpg6",
+      "condition" : null,
+      "description" : "Geht mir mir zusammen Fallschirmspringen.",
+      "emoji" : "🪂",
+      "points" : 100,
+      "style" : "cozy",
+      "title" : "Fallschirmspringen",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "code" : "jd6live",
+      "condition" : null,
+      "description" : "LSD zusammen ausprobieren!",
+      "emoji" : "🦛",
+      "points" : 120,
+      "style" : "cozy",
+      "title" : "LSD",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "code" : "letsgo1!",
+      "condition" : "Bist du bereit für dein... Endgame?",
+      "description" : "Hallo Lilly, ich habe dich Lieb!",
+      "emoji" : "❤️",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LioheartIcon.png",
+      "points" : 5,
+      "style" : "romantic",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Johannes ein Bussi geben"
+        }
+      ],
+      "title" : "Willkommen im Spiel Lilly!",
+      "unboxItem" : null,
+      "unlockAnimation" : "curtain"
+    },
+    {
+      "activeDays" : 700,
+      "code" : "bna2tts",
+      "condition" : null,
+      "description" : "Triff eine 100 jährige Person!",
+      "emoji" : "💯",
+      "points" : 20,
+      "style" : "cozy",
+      "title" : "ENDgame",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 365,
+      "code" : "1955c3o",
+      "condition" : null,
+      "description" : "Berühre etwas menschlichen Ursprungs das…\n\n(kann nur einmal benutzt werden) ",
+      "emoji" : "🫵🏿",
+      "points" : 10,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "min. 50 Jahre alt ist"
+        },
+        {
+          "points" : 5,
+          "title" : "min. 100 Jahre alt ist"
+        },
+        {
+          "points" : 5,
+          "title" : "min. 200 Jahre alt ist"
+        },
+        {
+          "points" : 5,
+          "title" : "min. 300 Jahre alt ist"
+        },
+        {
+          "points" : 5,
+          "title" : "min. 500 Jahre alt ist"
+        },
+        {
+          "points" : 5,
+          "title" : "min. 1000 Jahre alt ist"
+        },
+        {
+          "points" : 5,
+          "title" : "min. 2000 Jahre alt ist"
+        }
+      ],
+      "title" : "touch me",
+      "unboxItem" : null,
+      "unlockAnimation" : "flip"
+    },
+    {
+      "activeDays" : 20,
+      "code" : "knfth5a",
+      "condition" : null,
+      "description" : "Stelle Johannes eine historische Person vor, die du cool findest!, und sag warum sie so spannend ist. (Chat darf dir helfen)",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/tiziano_vecellio_genannt_tizian_kaiser_karl_v._im_harnisch_mitte_16._jahrhundert_special.jpg.png",
+      "points" : 5,
+      "style" : "romantic",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Wer ist auf dem CoverBild dargestellt?"
+        }
+      ],
+      "title" : "history time",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 699,
+      "code" : "rdocyad",
+      "condition" : null,
+      "description" : "Schau (und höre) einem echten Kampfchat beim Start zu!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Eurofighter_Typhoon.svg.png",
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Wenn es ein Eurofighter ist 😍"
+        }
+      ],
+      "title" : "topgun",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "wuffel",
+      "condition" : "Lebt Wuffel noch? (bitte ja :( )",
+      "description" : "Streichel Wuffel!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/wuffel.png",
+      "points" : 20,
+      "style" : "adventure",
+      "title" : "Eisbärbaby",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 89,
+      "code" : "4k0jwj9",
+      "condition" : null,
+      "description" : "Pflanze etwas an und esse es zusammen mit Johannes",
+      "emoji" : "🪏",
+      "points" : 10,
+      "style" : "cozy",
+      "title" : "Farmer!",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "frzzuu2",
+      "condition" : null,
+      "description" : "Mc besuche alle McDonald’s im Umkreis von 70km von Kluftern und knabber was!",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/mcs2.png",
+      "points" : 50,
+      "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Korrekte Liste aller anzusteuerden Mcs erstellen"
+        }
+      ],
+      "title" : "Dein Lieblingsladen!",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 70,
+      "code" : "lw88zc9",
+      "condition" : null,
+      "description" : "Nimm ein Bad in einer Badewanne \n",
+      "emoji" : "🛁",
+      "points" : 5,
+      "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "mach ein Selfi 😎"
+        }
+      ],
+      "title" : "schon lange nicht mehr gemacht",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 365,
+      "code" : "cgcu8a4",
+      "condition" : null,
+      "description" : "Geh in einen Gottesdienst!",
+      "emoji" : "✝️",
+      "points" : 5,
+      "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "mit Johannes"
+        }
+      ],
+      "title" : "Amen",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 60,
+      "code" : "utz9do2",
+      "condition" : "Ist gerade eine Jahreszeit mit Rausgehwetter?",
+      "description" : "Nachts raus gehen und sich gegenseitig jeweils drei Sternbilder erklären ",
+      "emoji" : "🌃",
+      "points" : 5,
+      "style" : "romantic",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "hört music dazu"
+        }
+      ],
+      "title" : "Star Gazing",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "activeDays" : 600,
+      "code" : "daq8hld",
+      "condition" : null,
+      "description" : "Simpel: \nGeh min. -1m unter den Meeresspiegel.",
+      "emoji" : "⇣",
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "tiefer als -100 Meter"
+        }
+      ],
+      "title" : "deeper",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "tq6icjw",
+      "condition" : null,
+      "description" : "Umarme mich (Johannes) ganz fest",
+      "emoji" : "🧢",
+      "points" : 5,
+      "style" : "romantic",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "gib mir ein Bussi"
+        }
+      ],
+      "title" : "Umarme",
+      "unboxItem" : null,
+      "unlockAnimation" : "burst"
+    }
   ],
-
-
-
-  
-  "shopItems": [
-
-  
-  {
-    "cost" : 30,
-    "description" : "Dein Lieblingsessen zum Abendessen!",
-    "emoji" : "",
-    "id" : "shop-001",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/8-2-coca-cola-png-picture.png",
-    "isRepeatable" : true,
-    "name" : "Cola!"
-  },
-  {
-    "cost" : 60,
-    "description" : "Frühstück ans Bett gebracht bekommen!",
-    "emoji" : "🥐",
-    "id" : "shop-002",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LillyL2.png",
-    "isRepeatable" : true,
-    "name" : "Frühstück im Bett"
-  },
-  {
-    "cost" : 5,
-    "description" : "du hast dein Endgame gestartet!\n\nEIn Osiandergutschein für dich:\n\nKartennummer: 63940215078654675\nPIN: PIN 0806 \n",
-    "emoji" : "🎁",
-    "id" : "shop-999",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/osiander.png",
-    "isRepeatable" : false,
-    "name" : "Willkommen!"
-  },
-  {
-    "cost" : 60,
-    "description" : "Du darfst dir 10€ von deinem Geld für Quatsch ausgeben",
-    "emoji" : "💸",
-    "id" : "shop-004",
-    "isRepeatable" : true,
-    "name" : "EIgen Budget"
-  },
-  {
-    "cost" : 30,
-    "description" : "",
-    "emoji" : "",
-    "id" : "shop-005",
-    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/5338380_digital-image.png",
-    "isRepeatable" : false,
-    "name" : "Krabben Chips"
-  }
-]
-
+  "shopItems" : [
+    {
+      "cost" : 30,
+      "description" : "Dein Lieblingsessen zum Abendessen!",
+      "emoji" : "",
+      "id" : "shop-001",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/8-2-coca-cola-png-picture.png",
+      "isRepeatable" : true,
+      "name" : "Cola!",
+      "revealText" : null
+    },
+    {
+      "cost" : 60,
+      "description" : "Frühstück ans Bett gebracht bekommen!",
+      "emoji" : "🥐",
+      "id" : "shop-002",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LillyL2.png",
+      "isRepeatable" : true,
+      "name" : "Frühstück im Bett",
+      "revealText" : null
+    },
+    {
+      "cost" : 5,
+      "description" : "",
+      "emoji" : "🎁",
+      "id" : "shop-999",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/osiander.png",
+      "isRepeatable" : false,
+      "name" : "Willkommen!",
+      "revealText" : "du hast dein Endgame gestartet!\n\nEIn Osiandergutschein für dich:\n\nKartennummer: 63940215078654675\nPIN: PIN 0806 \n"
+    },
+    {
+      "cost" : 60,
+      "description" : "Du darfst dir 10€ von deinem Geld für Quatsch ausgeben",
+      "emoji" : "💸",
+      "id" : "shop-004",
+      "isRepeatable" : true,
+      "name" : "EIgen Budget",
+      "revealText" : null
+    },
+    {
+      "cost" : 30,
+      "description" : "",
+      "emoji" : "",
+      "id" : "shop-005",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/5338380_digital-image.png",
+      "isRepeatable" : false,
+      "name" : "Krabben Chips",
+      "revealText" : null
+    }
+  ]
 }
