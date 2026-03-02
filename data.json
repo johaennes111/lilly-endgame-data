@@ -1,6 +1,6 @@
 {
   "challenges": [
-[
+
   {
     "code" : "3fzi5gs",
     "condition" : "Ist Johannes da?",
@@ -1499,6 +1499,7 @@
   
   "shopItems": [
 
+  [
   {
     "cost" : 30,
     "description" : "Dein Lieblingsessen zum Abendessen!",
@@ -1528,11 +1529,21 @@
   },
   {
     "cost" : 60,
-    "description" : "Du darfst dir 10€ von deinem Geld für Quatsch ausgeben",
+    "description" : "Du darfst dir 10€ von deinem Geld für Quatsch ausgeben",
     "emoji" : "💸",
     "id" : "shop-004",
     "isRepeatable" : true,
     "name" : "EIgen Budget"
-  }   
+  },
+  {
+    "cost" : 30,
+    "description" : "",
+    "emoji" : "",
+    "id" : "shop-005",
+    "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/5338380_digital-image.png",
+    "isRepeatable" : false,
+    "name" : "Krabben Chips"
+  }
+]
   ]
 }
