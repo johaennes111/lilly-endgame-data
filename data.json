@@ -1646,7 +1646,7 @@
       "emoji" : "",
       "id" : "shop-005",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/5338380_digital-image.png",
-      "isRepeatable" : false,
+      "isRepeatable" : true,
       "name" : "Krabben Chips",
       "revealText" : null
     }
