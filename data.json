@@ -1,5 +1,6 @@
 {
   "challenges": [
+[
   {
     "code" : "3fzi5gs",
     "condition" : "Ist Johannes da?",
@@ -256,7 +257,7 @@
     "code" : "dgukxmw",
     "condition" : null,
     "description" : "Ich tue dir was gutes!\nGibt es eine Kleinigkeit, die dir den Alltag versüßen kann? Gib Bescheid!",
-    "emoji" : "🎯",
+    "emoji" : "😘",
     "points" : 5,
     "style" : "romantic",
     "title" : "😘",
@@ -510,6 +511,12 @@
     "emoji" : "⛳️",
     "points" : 10,
     "style" : "adventure",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Wenn Du gewinnst:"
+      }
+    ],
     "title" : "Minigolfen",
     "unlockAnimation" : "burst"
   },
@@ -521,6 +528,16 @@
     "emoji" : "💌",
     "points" : 10,
     "style" : "progress",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Schreib deiner Mama einen Brief"
+      },
+      {
+        "points" : 5,
+        "title" : "Schreib deinem Papa einen Brief"
+      }
+    ],
     "title" : "Lets go classic",
     "totalSteps" : 7,
     "unlockAnimation" : "burst"
@@ -740,6 +757,16 @@
     "emoji" : "🥃",
     "points" : 20,
     "style" : "standard",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "Jazz Music im Hintergrund"
+      },
+      {
+        "points" : 5,
+        "title" : "Schick anziehen"
+      }
+    ],
     "title" : "erdiger Geschmack",
     "unlockAnimation" : "burst"
   },
@@ -751,6 +778,12 @@
     "emoji" : "🎯",
     "points" : 20,
     "style" : "creative",
+    "subTasks" : [
+      {
+        "points" : 5,
+        "title" : "wenn es sinnvoll ist"
+      }
+    ],
     "title" : "DIY-Großprojekt",
     "unlockAnimation" : "burst"
   },
@@ -1457,6 +1490,7 @@
     "title" : "Umarme",
     "unlockAnimation" : "burst"
   }
+]
 
   ],
 
