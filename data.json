@@ -145,7 +145,7 @@
       "code" : "yxjuthu",
       "condition" : null,
       "description" : "Du und Johannes geht auf ein Date - und am Ende musst du blind über die Nachtische schweben, tippen, dann gehst du kurz weg und Johanens bestellt und du isst es dann :) ",
-      "emoji" : "🍰",
+      "emoji" : "🙈",
       "points" : 5,
       "style" : "adventure",
       "title" : "Blind-Nachtisch",
@@ -340,7 +340,7 @@
       "condition" : null,
       "description" : "Challange: \nDu spielst mich 2min & 2min ich dich 🤓\n(nur spaß!!!)",
       "emoji" : "🎯",
-      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/oscar.jpeg",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/oscarimage.png",
       "points" : 5,
       "style" : "creative",
       "title" : "and the oscar goes to...",
@@ -683,7 +683,7 @@
       "code" : "nkb7b4c",
       "condition" : null,
       "description" : "Besuch eine Burgruine",
-      "emoji" : "🎯",
+      "emoji" : "🏰",
       "points" : 20,
       "style" : "adventure",
       "title" : "Burgruine",
@@ -1649,6 +1649,15 @@
       "isRepeatable" : true,
       "name" : "Krabben Chips",
       "revealText" : null
+    },
+    {
+      "cost" : 15,
+      "description" : "",
+      "emoji" : "🎁",
+      "id" : "shop-006",
+      "isRepeatable" : false,
+      "name" : "try me",
+      "revealText" : "Siegelringlogo.png"
     }
   ]
 }
