@@ -1655,9 +1655,20 @@
       "description" : "",
       "emoji" : "🎁",
       "id" : "shop-006",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Siegelringlogo.png",
       "isRepeatable" : false,
       "name" : "try me",
-      "revealText" : "Siegelringlogo.png"
+      "revealText" : null
+    },
+    {
+      "cost" : 70,
+      "description" : "",
+      "emoji" : "",
+      "id" : "shop-007",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/rommekarte.png",
+      "isRepeatable" : false,
+      "name" : "Romme Sieg ",
+      "revealText" : null
     }
   ]
 }
