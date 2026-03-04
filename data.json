@@ -163,7 +163,7 @@
       "style" : "creative",
       "title" : "Zeitkäpsle",
       "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unlockAnimation" : "card"
     },
     {
       "code" : "1eczkd2",
@@ -389,7 +389,7 @@
       "activeDays" : 40,
       "code" : "x4wnwzt",
       "condition" : null,
-      "description" : "Unsere gemeinsame Spotify-Playlist muss erweitert werden!\nDaher:\n- Addet (du und ich )jeden tag 1 Lied \n- Ein 1 Monat lang, jeden Tag",
+      "description" : "Unsere gemeinsame Spotify-Playlist muss erweitert werden!\n\nDaher:\n- Addet (du und ich )jeden tag 1 Lied \n- Ein 1 Monat lang, jeden Tag",
       "emoji" : "🎯",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Spotify.png",
       "isLocked" : null,
@@ -474,13 +474,19 @@
       "activeDays" : 12,
       "code" : "oscar",
       "condition" : null,
-      "description" : "Challange: \nDu spielst mich 2min & 2min ich dich 🤓\n(nur spaß!!!)",
+      "description" : "Wir betrinken uns gemeinsam",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/oscarimage.png",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
       "style" : "creative",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "ausschlafen am nächsten Tag!"
+        }
+      ],
       "title" : "and the oscar goes to...",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -1019,13 +1025,20 @@
       "activeDays" : 60,
       "code" : "ejveths",
       "condition" : null,
-      "description" : "Du und ich entwickeln ein festes Streit-\/Versöhnungsritual und haltet es schriftlich fest.",
+      "description" : "Plane - entweder mit mir oder alleine - eine ???-Schnitzeljagd für Paul",
       "emoji" : "🕊️",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/dreifragezeichen.png",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
       "style" : "romantic",
-      "title" : "Konflikt-Upgrade\n",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "hab 9 verschiedene Stationen"
+        }
+      ],
+      "title" : "Pauli",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
     },
@@ -1855,6 +1868,19 @@
       "title" : "Umarme",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
+    },
+    {
+      "code" : "if75peb",
+      "condition" : null,
+      "description" : "Singe Johannes ein Lied zum einschlafen",
+      "emoji" : "🎶",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 5,
+      "style" : "standard",
+      "title" : "Singe",
+      "unboxItem" : null,
+      "unlockAnimation" : "card"
     }
   ],
   "shopItems" : [
