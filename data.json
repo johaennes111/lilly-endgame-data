@@ -290,7 +290,7 @@
       "activeDays" : 21,
       "code" : "nt02sqj",
       "condition" : "Ist gerade NICHT Winter oder ekliges Wetter?",
-      "description" : "Hol dir Johannes, such dir einen Baum aus…\n… und kletter drauf 😎\n aber so richtig",
+      "description" : "Hol dir Johannes, \n…such dir einen Baum aus…\n… und kletter drauf 😎\n aber so richtig",
       "emoji" : "🌳",
       "isLocked" : null,
       "isProduced" : null,
@@ -381,6 +381,12 @@
       "isProduced" : null,
       "points" : 5,
       "style" : "creative",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "min. 7 Gerichte"
+        }
+      ],
       "title" : "Lieblingsessen",
       "unboxItem" : null,
       "unlockAnimation" : "flip"
@@ -1880,6 +1886,25 @@
       "style" : "standard",
       "title" : "Singe",
       "unboxItem" : null,
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "dvxkg6l",
+      "condition" : null,
+      "description" : "Wirf einen Dart Pfeil auf eine Europakarte!\nIn dem Land, in dem er landet, fahren wir hin",
+      "emoji" : "🇪🇺",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 20,
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "triff beim 1. Wurf Land"
+        }
+      ],
+      "title" : "Großer Wurf",
+      "unboxItem" : "AF1",
       "unlockAnimation" : "card"
     }
   ],
