@@ -11,6 +11,17 @@
       "unboxItem" : null,
       "unlockAnimation" : "burst"
     },
+      {
+    "code" : "xgz4ke6",
+    "condition" : null,
+    "description" : "",
+    "emoji" : "🎯",
+    "points" : 10,
+    "style" : "standard",
+    "title" : "test",
+    "unboxItem" : null,
+    "unlockAnimation" : "burst"
+  },
     {
   "code": "secret69",
   "title": "Knutschfleck-Challenge 💋",
