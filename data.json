@@ -68,7 +68,7 @@
     {
       "code" : "uhfx1nt",
       "condition" : null,
-      "description" : "twerke für mich",
+      "description" : "Zeig mir was du kanns:\ntwerke für mich! 👋🏼",
       "emoji" : "🍑",
       "isLocked" : true,
       "isProduced" : null,
@@ -77,7 +77,7 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "nur Unterwäsche🤤"
+          "title" : "hab nur Unterwäsche an🤤"
         }
       ],
       "title" : "move it",
