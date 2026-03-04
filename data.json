@@ -18,6 +18,24 @@
       "#FFB3C6",
       "#FF0040"
     ]
+  },  {
+    "code" : "secret69",
+    "condition" : null,
+    "description" : "Hinterlass heute Abend mindestens einen Knutschfleck — wo ist deine Entscheidung 😏",
+    "emoji" : "💋",
+    "isLocked" : true,
+    "points" : 5,
+    "style" : "romantic",
+    "title" : "Knutschfleck-Challenge 💋",
+    "unboxItem" : null,
+    "unlockAnimation" : "card",
+    "unlockColor" : "#FF2D55",
+    "unlockConfettiColors" : [
+      "#FF2D55",
+      "#FF6B9D",
+      "#FFB3C6",
+      "#FF0040"
+    ]
   },
   {
     "code" : "3fzi5gs",
