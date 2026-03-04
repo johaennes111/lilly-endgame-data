@@ -12,6 +12,24 @@
       "unlockAnimation" : "burst"
     },
     {
+  "code": "secret69",
+  "title": "Knutschfleck-Challenge 💋",
+  "emoji": "💋",
+  "description": "Hinterlass heute Abend mindestens einen Knutschfleck — wo ist deine Entscheidung 😏",
+  "points": 25,
+  "style": "romantic",
+  "isLocked": true,
+  "condition": null,
+  "totalSteps": null,
+  "imageUrl": null,
+  "unlockAnimation": "card",
+  "unlockColor": "#FF2D55",
+  "unlockConfettiColors": ["#FF2D55", "#FF6B9D", "#FFB3C6", "#FF0040"],
+  "activeDays": null,
+  "subTasks": null,
+  "unboxItem": null
+},
+    {
       "code" : "w8njaft",
       "condition" : "Ist Johannes da?",
       "description" : "Langer Kuss für dich - und für mich, hehe!",
