@@ -1687,6 +1687,17 @@
       "isRepeatable" : false,
       "name" : "Romme Sieg ",
       "revealText" : null
-    }
+    },
+    {
+  "id": "coming_soon_1",
+  "name": "Überraschungs-Date 🎭",
+  "description": "Etwas ganz Besonderes kommt bald...",
+  "emoji": "🎭",
+  "cost": 50,
+  "isRepeatable": false,
+  "isComingSoon": true,
+  "imageUrl": null,
+  "revealText": null
+}
   ]
 }
