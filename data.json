@@ -1,4 +1,5 @@
-[
+ {   "challenges" :  
+   [
   {
     "code" : "secret69",
     "condition" : null,
@@ -1740,7 +1741,7 @@
     "unlockAnimation" : "card"
   }
 ]
-
+"shopItems" :
 [
   {
     "cost" : 30,
@@ -1829,3 +1830,4 @@
     "revealText" : null
   }
 ]
+}
