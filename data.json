@@ -379,7 +379,7 @@
       "isProduced" : null,
       "points" : 5,
       "style" : "standard",
-      "title" : "Kollegen!",
+      "title" : "haben wir Streit?",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
     },
@@ -2105,6 +2105,16 @@
       "isComingSoon" : true,
       "maxRedemptions" : 1,
       "name" : "Mystery Snack 2",
+      "revealText" : null
+    },
+    {
+      "cost" : 55,
+      "description" : "",
+      "emoji" : "♣",
+      "id" : "shop-011",
+      "isComingSoon" : true,
+      "maxRedemptions" : 1,
+      "name" : "Mystery Geschenk",
       "revealText" : null
     }
   ]
