@@ -3,7 +3,7 @@
     {
       "code" : "3fzi5gs",
       "condition" : "Ist Johannes da?",
-      "description" : "Strip für mich, als gebe es kein morgen",
+      "description" : "Strip für mich, als gäbe es kein morgen",
       "emoji" : "💒",
       "isLocked" : true,
       "isProduced" : null,
@@ -28,6 +28,12 @@
       "isProduced" : null,
       "points" : 5,
       "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "ich darf dir auch einen machen !"
+        }
+      ],
       "title" : "teenager",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -49,7 +55,7 @@
     {
       "code" : "uowc9c1",
       "condition" : null,
-      "description" : "Fantasie-Beichte:\nWas sind drei größten Fanatasien?",
+      "description" : "Sex-Fantasie-Beichte:\nWas sind drei größten Sex-Fanatasien? (keine Hemmungen!)",
       "emoji" : "⛓️‍💥",
       "isLocked" : true,
       "isProduced" : null,
@@ -58,7 +64,15 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "ausprobieren"
+          "title" : "1. ausprobieren"
+        },
+        {
+          "points" : 5,
+          "title" : "2. ausprobieren"
+        },
+        {
+          "points" : 5,
+          "title" : "3. ausprobieren"
         }
       ],
       "title" : "tell me",
@@ -68,7 +82,7 @@
     {
       "code" : "uhfx1nt",
       "condition" : null,
-      "description" : "Zeig mir was du kanns:\ntwerke für mich! 👋🏼",
+      "description" : "Zeig mir was du kannst:\ntwerke für mich! 👋🏼❤️",
       "emoji" : "🍑",
       "isLocked" : true,
       "isProduced" : null,
@@ -97,7 +111,7 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "lass mich dich davor lecken"
+          "title" : "lass mich dich davor lecken🤤"
         }
       ],
       "title" : "Ritterin",
@@ -114,6 +128,12 @@
       "isProduced" : null,
       "points" : 10,
       "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "schick ihn mir!"
+        }
+      ],
       "title" : "EinzelFan (Ich)",
       "totalSteps" : 3,
       "unboxItem" : null,
@@ -142,7 +162,7 @@
     {
       "code" : "j0emrxe",
       "condition" : null,
-      "description" : "Wir machen ein „Was liebe ich an dir“-Voice-Memo füreinander. Das können wir dann bei Bedarf immer wieder abrufen",
+      "description" : "Wir machen ein „Was liebe ich an dir“-Voice-Memo füreinander. \nDas können wir dann bei Bedarf immer wieder abrufen",
       "emoji" : "🎤",
       "isLocked" : null,
       "isProduced" : null,
@@ -200,7 +220,7 @@
     {
       "code" : "0s1opa0",
       "condition" : null,
-      "description" : "Ich organisiere einen (Sneack)Filmabend inkl. Snacks für uns!",
+      "description" : "Ich organisiere einen Cult-Sneack-Filmabend inkl. Snacks für uns!",
       "emoji" : "🍿",
       "isLocked" : null,
       "isProduced" : null,
@@ -227,7 +247,7 @@
       "activeDays" : 90,
       "code" : "iytxfc1",
       "condition" : null,
-      "description" : "Du und Johannes müssen eine Woche lang, gemeinsam ein neues Spaß-Getränk pro Tag testen und bewerten.",
+      "description" : "Du und Johannes (Ich) müssen eine Woche lang, gemeinsam ein neues Spaß-Getränk pro Tag testen und bewerten.",
       "emoji" : "🧉",
       "isLocked" : null,
       "isProduced" : null,
@@ -248,13 +268,13 @@
       "activeDays" : 90,
       "code" : "yxjuthu",
       "condition" : null,
-      "description" : "Du und Johannes geht auf ein Date - und am Ende musst du blind über die Nachtische schweben, tippen, dann gehst du kurz weg und Johanens bestellt und du isst es dann :) ",
+      "description" : "Du und Johannes geht auf ein Date\n↘︎\nam Ende musst du blind über die Nachtische schweben, tippen, \n↘︎\ndann gehst du kurz weg \n↘︎\nJohanens bestellt \n↘︎\ndu isst deinen Mystery-Nachtisch dann",
       "emoji" : "🙈",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
       "style" : "adventure",
-      "title" : "Blind-Nachtisch",
+      "title" : "Mystery-Nachtisch",
       "unboxItem" : null,
       "unlockAnimation" : "flip"
     },
@@ -303,13 +323,19 @@
     {
       "code" : "6lqt83s",
       "condition" : null,
-      "description" : "1. Du und Johannes malt euch jeweils gegenseitig\n2. Ihr erklärt euch Gegenseitig, was euch wichtig war, was ihr betonen wolltet\n3. Beide Bilder Chat vorlegen und er muss sagen, welches das größere Kunstwerk ist\n4. der Gewinner kriegt ein Bussi vom Verlierer!",
+      "description" : "1. Du und Johannes malt euch jeweils gegenseitig\n↘︎\n2. Ihr erklärt euch Gegenseitig, was euch wichtig war, was ihr betonen wolltet\n↘︎\n3. Beide Bilder Chat vorlegen und er muss sagen, welches das größere Kunstwerk ist\n↘︎\n4. der Gewinner kriegt ein Bussi vom Verlierer!",
       "emoji" : "🎯",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
       "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "beide Bilder 2 Jahre sichtbar aufhängen"
+        }
+      ],
       "title" : "Portrait-Tausch",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -347,7 +373,7 @@
       "activeDays" : 7,
       "code" : "q6jxnyb",
       "condition" : null,
-      "description" : "Sammel fünf Insider zwischen dir und Johannes",
+      "description" : "Sammel fünf Insider zwischen dir und mir",
       "emoji" : "🪥",
       "isLocked" : null,
       "isProduced" : null,
@@ -384,7 +410,7 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "min. 7 Gerichte"
+          "title" : "min. 2 gesunde Gerichte"
         }
       ],
       "title" : "Lieblingsessen",
@@ -416,6 +442,12 @@
       "isProduced" : null,
       "points" : 5,
       "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Schüttel 50 davon die Hand"
+        }
+      ],
       "title" : "Hej",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -431,6 +463,12 @@
       "isProduced" : null,
       "points" : 5,
       "style" : "creative",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "keine Hilfsmittel 😉"
+        }
+      ],
       "title" : "Germanistikqueen",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -501,7 +539,7 @@
       "activeDays" : 11,
       "code" : "dscryln",
       "condition" : null,
-      "description" : "Such dir ein trendiges TickTock \/ Reel-Dance aus und übe es ein. Spiele es mir vor 😍",
+      "description" : "Such dir ein trendiges TickTock \/ Reel-Dance aus und übe es ein. \nSpiele es mir vor 😍",
       "emoji" : "🎯",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/ticktockimage.png",
       "isLocked" : null,
@@ -516,7 +554,7 @@
       "activeDays" : 43,
       "code" : "v61qf7x",
       "condition" : null,
-      "description" : "1. Jeder beschreibt den anderen in 3 Emojis.\n2. Chat (oder eine andere KI) erstellt dann random noch 3 verschiedene Emojisund der \n3. alle Emojis werden dem anderen präsentiert ",
+      "description" : "1. Jeder beschreibt den anderen in 3 Emojis.\n↘︎\n2. Chat (oder eine andere KI) erstellt dann random noch 3 verschiedene Emojisund der \n↘︎\n3. alle Emojis werden dem anderen präsentiert \n↘︎\n4. der andere muss die richtige combi auswählen",
       "emoji" : "🎯",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/logo_dixit_2.png",
       "isLocked" : null,
@@ -531,7 +569,7 @@
       "activeDays" : 7,
       "code" : "fq3toh4",
       "condition" : null,
-      "description" : "3 Ziele in der Nähe, \n3 Ziele in der Ferne",
+      "description" : "3 Ziele in der Nähe, \n3 Ziele in der Ferne.",
       "emoji" : "🚗",
       "isLocked" : null,
       "isProduced" : null,
@@ -561,7 +599,7 @@
       "activeDays" : 10,
       "code" : "rcjux8p",
       "condition" : null,
-      "description" : "ein best of you!\nDu zeigst mir deine 3x Lieblingsbilder von mir und ich dir meine 3x Lieblingsbilder von dir!",
+      "description" : "ein best of you!\nDu zeigst mir deine 3x Lieblingsbilder von mir \nund ich dir meine 3x Lieblingsbilder von dir!",
       "emoji" : "😍",
       "isLocked" : null,
       "isProduced" : null,
@@ -643,7 +681,7 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "Nicht erwischt werden"
+          "title" : "Nicht erwischt werden🚨"
         }
       ],
       "title" : "pss 🤫",
@@ -674,12 +712,18 @@
       "activeDays" : 200,
       "code" : "06usgqh",
       "condition" : null,
-      "description" : "Besuche mit mir (Johannes) ein Museum mit Johannes. Es gibt eine 3er Auswahl, du darfst aussuchen.",
+      "description" : "Besuche mit mir (Johannes) ein Museum mit. ",
       "emoji" : "🏰",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
       "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "min. 2h dort sein (in der Ausstellung, nicht Cafe\/Shop\/etc.pp.)"
+        }
+      ],
       "title" : "Kultur? Kultur!",
       "unboxItem" : null,
       "unlockAnimation" : "flip"
@@ -694,6 +738,12 @@
       "isProduced" : null,
       "points" : 10,
       "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "hör dazu laut Mr. Snowman"
+        }
+      ],
       "title" : "SIA",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -835,6 +885,12 @@
       "isProduced" : null,
       "points" : 20,
       "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Brüll einmal in der Höhle wie ein echter Urmensch!"
+        }
+      ],
       "title" : "Neathertahler",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -844,7 +900,7 @@
       "code" : "nkb7b4c",
       "condition" : null,
       "description" : "Besuch eine Burgruine",
-      "emoji" : "🏰",
+      "emoji" : "𐲝",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
@@ -857,7 +913,7 @@
       "activeDays" : 90,
       "code" : "8nt5p1t",
       "condition" : null,
-      "description" : "Tagestriple nach Calw!\nENDLICH!",
+      "description" : "Tagestriple nach Calw!\nENDLICH!\n\nPunkte gibts, sobald du das Rathaus von Calw berühst",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Wappen-Calw.svg.png",
       "isLocked" : null,
@@ -878,7 +934,7 @@
       "activeDays" : 90,
       "code" : "tg4fah8",
       "condition" : null,
-      "description" : "Tagestriple nach München!",
+      "description" : "Tagestriple nach München!\n\nPunkte gibts, sobald du ein Stadtschild (?) von München berühst",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/bayernwappen.png",
       "isLocked" : null,
@@ -959,7 +1015,7 @@
       "activeDays" : 40,
       "code" : "hhc3w6g",
       "condition" : null,
-      "description" : "Tut in einem Lokal so, als würdet ihr euch nicht kennen und nähert euch aneinander an.",
+      "description" : "Wir tun in einem Lokal so, als würden wir uns nicht kennen\nund haben ein erstes Date",
       "emoji" : "🎭",
       "isLocked" : null,
       "isProduced" : null,
@@ -968,7 +1024,7 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "Bleibe den ganzen Abend in der Rolle"
+          "title" : "Bleibe den ganzen Abend in deiner Rolle"
         }
       ],
       "title" : "Clair & Phil",
@@ -1057,7 +1113,7 @@
     {
       "code" : "g8ane6o",
       "condition" : null,
-      "description" : "Gemeinsames Spar- oder Zielprojekt\nReise, Möbel, Erlebnis – egal was, aber gemeinsam geplant.\nPunkte gibts, wenn es umgesetzt wurde.",
+      "description" : "Gemeinsames Spar- oder Zielprojekt:\nReise, Möbel, Erlebnis – egal was, aber gemeinsam geplant.\nPunkte gibts, wenn es umgesetzt wurde.",
       "emoji" : "🏁",
       "isLocked" : null,
       "isProduced" : null,
@@ -1166,7 +1222,7 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "Mach 5x  Bilder von der Aktion"
+          "title" : "Mach min. 5x Bilder von der Aktion (du musst drauf sein)"
         }
       ],
       "title" : "skinnydipping",
@@ -1212,6 +1268,12 @@
       "isProduced" : null,
       "points" : 20,
       "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Spring in den See vom Boot aus"
+        }
+      ],
       "title" : "Sailing Time",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -1258,7 +1320,7 @@
       "activeDays" : 1000,
       "code" : "xpv1igd",
       "condition" : null,
-      "description" : "nach Berlin!",
+      "description" : "nach Berlin!\n\nPunkte gibts, sobald du das Neue StadtSchloss berühst",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/coat-of-arms-of-berlin-1935-logo-png_seeklogo-32798.png",
       "isLocked" : null,
@@ -1279,7 +1341,7 @@
       "activeDays" : 1200,
       "code" : "s0lbokh",
       "condition" : null,
-      "description" : "nach Paris!",
+      "description" : "nach Paris!\n\nPunkte gibts, sobald du die MonaLisa berühst",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/da3ba41a6c4fef68253912aae7fad9c2-bastille-day-eiffelturm-silhouette.png",
       "isLocked" : null,
@@ -1304,7 +1366,7 @@
       "activeDays" : 1200,
       "code" : "00frerk",
       "condition" : null,
-      "description" : "nach Köln!",
+      "description" : "nach Köln!\n\nPunkte gibts, sobald du den Dom berühst",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/koeln-logo-koelner-dom.png",
       "isLocked" : null,
@@ -1358,6 +1420,12 @@
       "isProduced" : null,
       "points" : 60,
       "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Früh Buchen!"
+        }
+      ],
       "title" : "Olympische Spiele",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -1482,7 +1550,7 @@
     {
       "code" : "i4yx0r3",
       "condition" : null,
-      "description" : "Ein Weltwunder besuchen. Simpel",
+      "description" : "Ein Weltwunder besuchen. Simpel.\n\nPunkte gibts, wenn du es berühst.",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/pngtree-the-great-pyramid-of-giza-in-miniature-form-ancient-egypt-model-png-image_13079949.png",
       "isLocked" : null,
@@ -1603,6 +1671,12 @@
       "isProduced" : null,
       "points" : 100,
       "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "überleben."
+        }
+      ],
       "title" : "Fallschirmspringen",
       "unboxItem" : null,
       "unlockAnimation" : "curtain"
@@ -1694,7 +1768,7 @@
           "title" : "min. 2000 Jahre alt ist"
         }
       ],
-      "title" : "touch me",
+      "title" : "touchy",
       "unboxItem" : null,
       "unlockAnimation" : "flip"
     },
@@ -1723,7 +1797,7 @@
       "activeDays" : 699,
       "code" : "rdocyad",
       "condition" : null,
-      "description" : "Schau (und höre) einem echten Kampfchat beim Start zu!",
+      "description" : "Schau (und höre) einem echten Kampfjet beim Start zu!",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Eurofighter_Typhoon.svg.png",
       "isLocked" : null,
@@ -1771,7 +1845,7 @@
     {
       "code" : "frzzuu2",
       "condition" : null,
-      "description" : "Mc besuche alle McDonald’s im Umkreis von 70km von Kluftern und knabber was!",
+      "description" : "Besuche alle McDonald’s im Umkreis von 50km von Kluftern und knabber was!",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/mcs2.png",
       "isLocked" : null,
@@ -1781,7 +1855,7 @@
       "subTasks" : [
         {
           "points" : 5,
-          "title" : "Korrekte Liste aller anzusteuerden Mcs erstellen"
+          "title" : "Korrekte Liste aller anzusteuerden Mcs im Vorfeld erstellen"
         }
       ],
       "title" : "Dein Lieblingsladen!",
@@ -1921,19 +1995,6 @@
       ],
       "title" : "Großer Wurf",
       "unboxItem" : "AF1",
-      "unlockAnimation" : "card"
-    },
-    {
-      "code" : "m31eq5s",
-      "condition" : null,
-      "description" : "test",
-      "emoji" : "🎯",
-      "isLocked" : null,
-      "isProduced" : false,
-      "points" : 120,
-      "style" : "standard",
-      "title" : "💀",
-      "unboxItem" : "test",
       "unlockAnimation" : "card"
     }
   ],
