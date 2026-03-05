@@ -1,9 +1,9 @@
 {
   "yearlyRanks": [
-    { "minPoints": 700 },
-    { "minPoints": 600 },
-    { "minPoints": 500 },
-    { "minPoints": 400 },
+    { "minPoints": 1400 },
+    { "minPoints": 800 },
+    { "minPoints": 606 },
+    { "minPoints": 450 },
     { "minPoints": 0   }
   ]
 }
