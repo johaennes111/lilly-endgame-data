@@ -480,7 +480,7 @@
       "activeDays" : 12,
       "code" : "oscar",
       "condition" : null,
-      "description" : "Wir betrinken uns gemeinsam",
+      "description" : "Wir betrinken uns gemeinsam1",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/oscarimage.png",
       "isLocked" : null,
@@ -781,12 +781,18 @@
       "activeDays" : 60,
       "code" : "zf50af7",
       "condition" : null,
-      "description" : "Wir kochen zusammen 3-Gänge-Menü für uns",
+      "description" : "Wir kochen zusammen 3-Gänge-Menü für uns!",
       "emoji" : "🍔",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 15,
       "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Ästhetisch ansprechend (Foto machen!)"
+        }
+      ],
       "title" : "3-Gänge-Menü",
       "unboxItem" : null,
       "unlockAnimation" : "flip"
@@ -893,7 +899,7 @@
       "isProduced" : null,
       "points" : 20,
       "style" : "adventure",
-      "title" : "Austrain sunset",
+      "title" : "austrain sunset",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
     },
@@ -1373,12 +1379,18 @@
     {
       "code" : "ao4amxc",
       "condition" : null,
-      "description" : "Aufgabe: Es gibt 6 Kontinete. Geht min. mit mir Essen, dass du eine klasssiche Speise und Getränk von jedem Kontinet probiert hast!",
+      "description" : "Es gibt 6 Kontinete. \nGeht mindents mit mir Essen, dass du eine klasssiche Speise und Getränk von jedem Kontinet probiert hast!",
       "emoji" : "🏴‍☠️",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 40,
       "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "mache 5 Bilder, bau daraus eine Instagram Story und poste beim Africa-Essen einen leeren Teller💀"
+        }
+      ],
       "title" : "7 Weltmeere",
       "unboxItem" : null,
       "unlockAnimation" : "burst"
@@ -1810,6 +1822,10 @@
         {
           "points" : 5,
           "title" : "mit Johannes"
+        },
+        {
+          "points" : 5,
+          "title" : "sing ganz laut mit!"
         }
       ],
       "title" : "Amen",
@@ -1905,6 +1921,19 @@
       ],
       "title" : "Großer Wurf",
       "unboxItem" : "AF1",
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "m31eq5s",
+      "condition" : null,
+      "description" : "test",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 120,
+      "style" : "standard",
+      "title" : "💀",
+      "unboxItem" : "test",
       "unlockAnimation" : "card"
     }
   ],
