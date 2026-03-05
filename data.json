@@ -2006,7 +2006,7 @@
       "id" : "shop-001",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/8-2-coca-cola-png-picture.png",
       "isComingSoon" : null,
-      "isRepeatable" : true,
+      "maxRedemptions" : 3,
       "name" : "Cola!",
       "revealText" : null
     },
@@ -2017,7 +2017,7 @@
       "id" : "shop-002",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LillyL2.png",
       "isComingSoon" : null,
-      "isRepeatable" : true,
+      "maxRedemptions" : null,
       "name" : "Frühstück im Bett",
       "revealText" : null
     },
@@ -2028,7 +2028,7 @@
       "id" : "shop-999",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/osiander.png",
       "isComingSoon" : null,
-      "isRepeatable" : false,
+      "maxRedemptions" : 1,
       "name" : "Willkommen in deinem Endgame!",
       "revealText" : "Osiandergutschein für dich:\nKartennummer: 63940215078654675\nPIN: PIN 0806 \n"
     },
@@ -2038,7 +2038,7 @@
       "emoji" : "💸",
       "id" : "shop-004",
       "isComingSoon" : null,
-      "isRepeatable" : true,
+      "maxRedemptions" : null,
       "name" : "EIgen Budget",
       "revealText" : null
     },
@@ -2049,7 +2049,7 @@
       "id" : "shop-005",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/5338380_digital-image.png",
       "isComingSoon" : null,
-      "isRepeatable" : true,
+      "maxRedemptions" : 3,
       "name" : "Krabben Chips",
       "revealText" : null
     },
@@ -2060,7 +2060,7 @@
       "id" : "shop-006",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Siegelringlogo.png",
       "isComingSoon" : null,
-      "isRepeatable" : false,
+      "maxRedemptions" : 1,
       "name" : "try me",
       "revealText" : null
     },
@@ -2071,7 +2071,7 @@
       "id" : "shop-007",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/rommekarte.png",
       "isComingSoon" : null,
-      "isRepeatable" : false,
+      "maxRedemptions" : 3,
       "name" : "Romme Sieg ",
       "revealText" : null
     },
@@ -2081,7 +2081,7 @@
       "emoji" : "🎭",
       "id" : "coming_soon_1",
       "isComingSoon" : true,
-      "isRepeatable" : false,
+      "maxRedemptions" : 1,
       "name" : "Überraschungs-Date 🎭",
       "revealText" : null
     }
