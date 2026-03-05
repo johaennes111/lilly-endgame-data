@@ -1,0 +1,9 @@
+{
+  "yearlyRanks": [
+    { "minPoints": 700 },
+    { "minPoints": 600 },
+    { "minPoints": 500 },
+    { "minPoints": 450 },
+    { "minPoints": 0   }
+  ]
+}
