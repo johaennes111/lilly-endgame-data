@@ -2001,11 +2001,11 @@
   "shopItems" : [
     {
       "cost" : 30,
-      "description" : "Dein Lieblingsessen zum Abendessen!",
+      "description" : "Dein Lieblingsdrink (auch wenn ich das nicht unterstüze)",
       "emoji" : "",
       "id" : "shop-001",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/8-2-coca-cola-png-picture.png",
-      "isComingSoon" : null,
+      "isComingSoon" : true,
       "maxRedemptions" : 3,
       "name" : "Cola!",
       "revealText" : null
@@ -2048,7 +2048,7 @@
       "emoji" : "",
       "id" : "shop-005",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/5338380_digital-image.png",
-      "isComingSoon" : null,
+      "isComingSoon" : true,
       "maxRedemptions" : 3,
       "name" : "Krabben Chips",
       "revealText" : null
@@ -2077,12 +2077,34 @@
     },
     {
       "cost" : 50,
-      "description" : "Etwas ganz Besonderes kommt bald...",
+      "description" : "",
       "emoji" : "🎭",
       "id" : "coming_soon_1",
       "isComingSoon" : true,
       "maxRedemptions" : 1,
       "name" : "Überraschungs-Date 🎭",
+      "revealText" : "Etwas ganz Besonderes kommt bald..."
+    },
+    {
+      "cost" : 30,
+      "description" : "",
+      "emoji" : "",
+      "id" : "shop-009",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/twizzlers_black.png",
+      "isComingSoon" : true,
+      "maxRedemptions" : 2,
+      "name" : "Mystery Snack 1",
+      "revealText" : null
+    },
+    {
+      "cost" : 35,
+      "description" : "",
+      "emoji" : "",
+      "id" : "shop-010",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Nerds_Gummy_Clusters_very_berry_family_size_1800x1800.png",
+      "isComingSoon" : true,
+      "maxRedemptions" : 1,
+      "name" : "Mystery Snack 2",
       "revealText" : null
     }
   ]
