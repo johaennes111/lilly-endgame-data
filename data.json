@@ -1697,7 +1697,7 @@
     {
       "code" : "letsgo1!",
       "condition" : "Bist du bereit für dein... Endgame?",
-      "description" : "Hallo Lilly, ich habe dich Lieb!",
+      "description" : "Hallo Lilly, ich habe dich Lieb!\nWir sind das…\n…Endgame!",
       "emoji" : "❤️",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/LioheartIcon.png",
       "isLocked" : null,
@@ -2030,7 +2030,7 @@
       "isComingSoon" : null,
       "maxRedemptions" : 1,
       "name" : "Willkommen in deinem Endgame!",
-      "revealText" : "Osiandergutschein für dich:\nKartennummer: 63940215078654675\nPIN: PIN 0806 \n"
+      "revealText" : "Osiandergutschein für dich:\nKartennummer: 63940215078654675\nPIN: PIN 0806 \nItem: 13"
     },
     {
       "cost" : 60,
