@@ -3,7 +3,7 @@
     {
       "code" : "3fzi5gs",
       "condition" : "Ist Johannes da?",
-      "description" : "Strip für mich, als gäbe es kein morgen",
+      "description" : "Strip für mich, als gäbe es kein morgen! ",
       "emoji" : "💒",
       "isLocked" : true,
       "isProduced" : null,
@@ -13,6 +13,10 @@
         {
           "points" : 10,
           "title" : "mit Happy End"
+        },
+        {
+          "points" : 5,
+          "title" : "Gute Show"
         }
       ],
       "title" : "show me",
@@ -30,7 +34,7 @@
       "style" : "standard",
       "subTasks" : [
         {
-          "points" : 5,
+          "points" : 10,
           "title" : "ich darf dir auch einen machen !"
         }
       ],
@@ -123,7 +127,7 @@
       "code" : "kq3me1u",
       "condition" : null,
       "description" : "Dreh einen Porn - alleine oder mit mir",
-      "emoji" : "🍦",
+      "emoji" : "⚆",
       "isLocked" : true,
       "isProduced" : null,
       "points" : 10,
@@ -144,7 +148,7 @@
       "code" : "9qv98g7",
       "condition" : null,
       "description" : "mach ein heißes Fotoshooting (alleine) oder mit mir.",
-      "emoji" : "🥰",
+      "emoji" : "♨︎",
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
@@ -2111,7 +2115,7 @@
     },
     {
       "category" : "Mysteriöses",
-      "cost" : 30,
+      "cost" : 20,
       "description" : "",
       "emoji" : "",
       "id" : "shop-009",
@@ -2129,7 +2133,7 @@
     },
     {
       "category" : "Mysteriöses",
-      "cost" : 35,
+      "cost" : 20,
       "description" : "",
       "emoji" : "",
       "id" : "shop-010",
@@ -2143,7 +2147,7 @@
     },
     {
       "category" : "Mysteriöses",
-      "cost" : 55,
+      "cost" : 35,
       "description" : "",
       "emoji" : "♣",
       "id" : "shop-011",
