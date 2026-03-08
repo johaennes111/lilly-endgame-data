@@ -106,8 +106,8 @@
       "activeDays" : 50,
       "code" : "hthaeji",
       "condition" : null,
-      "description" : "bring mich zum kommen - nur in dem du mich reitest",
-      "emoji" : "🐎",
+      "description" : "Lass mich ohne Kondom in dir kommen.",
+      "emoji" : "⚠︎",
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
@@ -116,9 +116,17 @@
         {
           "points" : 5,
           "title" : "lass mich dich davor lecken🤤"
+        },
+        {
+          "points" : 15,
+          "title" : "werde nicht schwanger"
+        },
+        {
+          "points" : 5,
+          "title" : "finde eine gute Regellung, falls du dich für eine Spirale entscheidest"
         }
       ],
-      "title" : "Ritterin",
+      "title" : "👀",
       "unboxItem" : null,
       "unlockAnimation" : "curtain"
     },
