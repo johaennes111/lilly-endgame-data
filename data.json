@@ -136,6 +136,7 @@
       "condition" : null,
       "description" : "Dreh einen Porn - alleine oder mit mir",
       "emoji" : "⚆",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Onlyfans-Logo.png",
       "isLocked" : true,
       "isProduced" : null,
       "points" : 10,
@@ -146,7 +147,7 @@
           "title" : "schick ihn mir!"
         }
       ],
-      "title" : "EinzelFan (Ich)",
+      "title" : "EinzelFan (Ich!)",
       "totalSteps" : 3,
       "unboxItem" : null,
       "unlockAnimation" : "card"
