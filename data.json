@@ -347,10 +347,18 @@
         {
           "points" : 5,
           "title" : "beide Bilder 2 Jahre sichtbar aufhängen"
+        },
+        {
+          "points" : 5,
+          "title" : "ein kleines Extra-Gemälde für Johannes malen"
+        },
+        {
+          "points" : 5,
+          "title" : "ein großes Extra-Gemälde für Johannes malen"
         }
       ],
       "title" : "Portrait-Tausch",
-      "unboxItem" : null,
+      "unboxItem" : "U3D, X9S, J2C",
       "unlockAnimation" : "burst"
     },
     {
@@ -990,10 +998,14 @@
         {
           "points" : 5,
           "title" : "3x Nächte zelten"
+        },
+        {
+          "points" : 5,
+          "title" : "Ein Lagerfeuer und Stockbrot machen"
         }
       ],
       "title" : "Abenteuer Zeit!",
-      "unboxItem" : null,
+      "unboxItem" : "F4L",
       "unlockAnimation" : "burst"
     },
     {
