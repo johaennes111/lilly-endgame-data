@@ -53,7 +53,7 @@
       "points" : 5,
       "style" : "romantic",
       "title" : "👅",
-      "unboxItem" : null,
+      "unboxItem" : "AK7",
       "unlockAnimation" : "burst"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "title" : "EinzelFan (Ich!)",
       "totalSteps" : 3,
-      "unboxItem" : null,
+      "unboxItem" : "Z7C",
       "unlockAnimation" : "card"
     },
     {
@@ -220,14 +220,14 @@
     {
       "code" : "qfpy5ls",
       "condition" : null,
-      "description" : "Du kriegst einen Brief „Für einen schlechten Tag“. Lies ihn einfach, wenn du ein bisschen was Positives brauchst\n↳ Gegenstand mit „5ls“ Kennzeichnung",
+      "description" : "Du kriegst einen Brief „Für einen schlechten Tag“. \nLies ihn einfach, wenn du ein bisschen was Positives brauchst\n(kommt noch)",
       "emoji" : "💌",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
       "style" : "romantic",
       "title" : "bad days",
-      "unboxItem" : null,
+      "unboxItem" : "L9T",
       "unlockAnimation" : "burst"
     },
     {
@@ -260,7 +260,7 @@
       "activeDays" : 90,
       "code" : "iytxfc1",
       "condition" : null,
-      "description" : "Du und Johannes (Ich) müssen eine Woche lang, gemeinsam ein neues Spaß-Getränk pro Tag testen und bewerten.",
+      "description" : "Für die kommende Woche haben wir eine gemeinsame Aufgabe:\nZusammen 7 Quatsch-Getränke ausprobieren!\n\nIch hab die ersten 6x Getränke schon besorgt - das 7. und damit das große Finale darfst du besorgen!",
       "emoji" : "🧉",
       "isLocked" : null,
       "isProduced" : null,
@@ -274,7 +274,7 @@
       ],
       "title" : "yummy",
       "totalSteps" : 7,
-      "unboxItem" : null,
+      "unboxItem" : "K8W",
       "unlockAnimation" : "burst"
     },
     {
@@ -685,7 +685,7 @@
       "style" : "progress",
       "title" : "Vorlesen",
       "totalSteps" : 90,
-      "unboxItem" : null,
+      "unboxItem" : "G5B",
       "unlockAnimation" : "burst"
     },
     {
@@ -1050,10 +1050,14 @@
         {
           "points" : 5,
           "title" : "Bleibe den ganzen Abend in deiner Rolle"
+        },
+        {
+          "points" : 5,
+          "title" : "Chille einen Abend mit den Masken"
         }
       ],
       "title" : "Clair & Phil",
-      "unboxItem" : null,
+      "unboxItem" : "B4Q",
       "unlockAnimation" : "burst"
     },
     {
@@ -1683,8 +1687,14 @@
       "isProduced" : null,
       "points" : 100,
       "style" : "funny",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Zähle danach auf, warum Rauchen schlecht ist!"
+        }
+      ],
       "title" : "Rauchen.",
-      "unboxItem" : null,
+      "unboxItem" : "E6T",
       "unlockAnimation" : "curtain"
     },
     {
@@ -2021,17 +2031,30 @@
       "title" : "Großer Wurf",
       "unboxItem" : "AF1",
       "unlockAnimation" : "card"
+    },
+    {
+      "code" : "BUSS1",
+      "condition" : null,
+      "description" : "Schließe erfolgreich dein Orientierungspraktikum ab!\n\nBei Abschluss gibts Item P3X",
+      "emoji" : "⒈﹢",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 5,
+      "style" : "standard",
+      "title" : "Sonderaufgabe #1!",
+      "unboxItem" : "P3X",
+      "unlockAnimation" : "card"
     }
   ],
   "shopItems" : [
     {
       "category" : "Leckereien",
-      "cost" : 30,
-      "description" : "Dein Lieblingsdrink (auch wenn ich das nicht unterstüze)",
+      "cost" : 20,
+      "description" : "Dein Lieblingsdrink (auch wenn ich das nicht unterstüze)\nTipp: Ein Blick in den Kühlschrank kann sich lohnen!",
       "emoji" : "",
       "id" : "shop-001",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/8-2-coca-cola-png-picture.png",
-      "isComingSoon" : true,
+      "isComingSoon" : null,
       "isRecommended" : null,
       "isWeeklyDeal" : null,
       "maxRedemptions" : 3,
@@ -2081,15 +2104,15 @@
     },
     {
       "category" : "Leckereien",
-      "cost" : 30,
+      "cost" : 20,
       "description" : "",
       "emoji" : "",
       "id" : "shop-005",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/5338380_digital-image.png",
-      "isComingSoon" : true,
+      "isComingSoon" : null,
       "isRecommended" : null,
       "isWeeklyDeal" : null,
-      "maxRedemptions" : 3,
+      "maxRedemptions" : 5,
       "name" : "Krabben Chips",
       "revealText" : null
     },
