@@ -8,6 +8,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -21,7 +22,7 @@
       ],
       "title" : "show me",
       "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unlockAnimation" : "sideQuestReveal"
     },
     {
       "code" : "w8njaft",
@@ -31,6 +32,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "subTasks" : [
         {
@@ -51,6 +53,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "👅",
       "unboxItem" : "AK7",
@@ -64,6 +67,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -91,6 +95,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -111,6 +116,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -140,6 +146,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -149,8 +156,7 @@
       ],
       "title" : "EinzelFan (Ich!)",
       "totalSteps" : 3,
-      "unboxItem" : "Z7C",
-      "unlockAnimation" : "card"
+      "unboxItem" : "Z7C"
     },
     {
       "activeDays" : 21,
@@ -161,6 +167,7 @@
       "isLocked" : true,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -169,8 +176,7 @@
         }
       ],
       "title" : "diese Kurven",
-      "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unboxItem" : null
     },
     {
       "code" : "j0emrxe",
@@ -180,6 +186,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "Voice of Love",
       "unboxItem" : null,
@@ -193,10 +200,10 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "Zeitkäpsle",
-      "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unboxItem" : null
     },
     {
       "code" : "1eczkd2",
@@ -206,6 +213,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -225,6 +233,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "bad days",
       "unboxItem" : "L9T",
@@ -238,6 +247,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "Home-Kino",
       "unboxItem" : null,
@@ -251,6 +261,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Lilly sagt",
       "unboxItem" : null,
@@ -265,6 +276,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "progress",
       "subTasks" : [
         {
@@ -286,6 +298,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Mystery-Nachtisch",
       "unboxItem" : null,
@@ -300,6 +313,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "Lage, Lage, Lage",
       "unboxItem" : null,
@@ -314,6 +328,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "standard",
       "title" : "Mei das war nett",
       "unboxItem" : null,
@@ -328,6 +343,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Monkey",
       "unboxItem" : null,
@@ -342,6 +358,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "subTasks" : [
         {
@@ -371,6 +388,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "Schnitzen?",
       "unboxItem" : null,
@@ -385,6 +403,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "Herr Der Ringe",
       "unboxItem" : null,
@@ -399,6 +418,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "title" : "haben wir Streit?",
       "unboxItem" : null,
@@ -413,6 +433,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "Zeitkapsel",
       "unboxItem" : null,
@@ -427,6 +448,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "creative",
       "subTasks" : [
         {
@@ -448,6 +470,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "Music baby",
       "totalSteps" : 30,
@@ -462,6 +485,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -483,6 +507,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "creative",
       "subTasks" : [
         {
@@ -502,6 +527,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "title" : "tell me",
       "unboxItem" : null,
@@ -516,6 +542,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "title" : "level up",
       "unboxItem" : null,
@@ -530,6 +557,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "title" : "Almosen",
       "unboxItem" : null,
@@ -545,6 +573,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "creative",
       "subTasks" : [
         {
@@ -566,6 +595,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "funny",
       "title" : "Lisa & Lena",
       "unboxItem" : null,
@@ -581,6 +611,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "Emojis-Dixit",
       "unboxItem" : null,
@@ -595,6 +626,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "Gemeinsame Reiseziele",
       "unboxItem" : null,
@@ -610,6 +642,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "Spotify-Switch",
       "totalSteps" : 3,
@@ -625,6 +658,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "best of",
       "unboxItem" : null,
@@ -639,6 +673,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "sweet",
       "totalSteps" : 7,
@@ -654,6 +689,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "Bussi-Time",
       "unboxItem" : null,
@@ -668,6 +704,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "Bucketliste",
       "unboxItem" : null,
@@ -682,6 +719,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "Vorlesen",
       "totalSteps" : 90,
@@ -698,6 +736,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -718,6 +757,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -738,6 +778,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -758,6 +799,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "standard",
       "subTasks" : [
         {
@@ -778,6 +820,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -798,6 +841,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "progress",
       "subTasks" : [
         {
@@ -823,6 +867,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -843,6 +888,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Party!",
       "unboxItem" : null,
@@ -857,6 +903,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 15,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -877,6 +924,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "Zukunftsidee",
       "unboxItem" : null,
@@ -891,6 +939,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "SUPRISE DATE",
       "unboxItem" : null,
@@ -905,6 +954,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -925,6 +975,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Burgruine",
       "unboxItem" : null,
@@ -940,6 +991,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -961,6 +1013,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Tagestriple",
       "unboxItem" : null,
@@ -975,6 +1028,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "austrain sunset",
       "unboxItem" : null,
@@ -989,6 +1043,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1017,6 +1072,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "up up up",
       "unboxItem" : null,
@@ -1031,6 +1087,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "REDE",
       "unboxItem" : null,
@@ -1045,6 +1102,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -1069,6 +1127,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Klimawandel STOPPEN",
       "unboxItem" : null,
@@ -1083,6 +1142,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "standard",
       "subTasks" : [
         {
@@ -1107,6 +1167,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "creative",
       "subTasks" : [
         {
@@ -1128,6 +1189,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -1147,6 +1209,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "Gemeinsames Ziel",
       "unboxItem" : null,
@@ -1161,6 +1224,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1181,6 +1245,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "Kochen nach Zahlen",
       "totalSteps" : 12,
@@ -1197,6 +1262,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "highsoseieti",
       "unboxItem" : null,
@@ -1211,6 +1277,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 30,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "Neue Tradtion",
       "totalSteps" : 3,
@@ -1226,6 +1293,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 40,
+      "rewardItem" : null,
       "style" : "progress",
       "subTasks" : [
         {
@@ -1247,6 +1315,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1267,6 +1336,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 40,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "Neue Tradition!",
       "totalSteps" : 4,
@@ -1282,6 +1352,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Bonnie & Clyde",
       "unboxItem" : null,
@@ -1296,6 +1367,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1316,6 +1388,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "DunkelDate",
       "unboxItem" : null,
@@ -1330,6 +1403,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1355,6 +1429,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1376,6 +1451,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 60,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1401,6 +1477,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1421,6 +1498,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "BUMBAZ",
       "unboxItem" : null,
@@ -1434,6 +1512,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 60,
+      "rewardItem" : null,
       "style" : "romantic",
       "title" : "Lets Dance baby",
       "unboxItem" : null,
@@ -1448,6 +1527,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 60,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1468,6 +1548,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "creative",
       "title" : "Familien-Verfassung",
       "unboxItem" : null,
@@ -1481,6 +1562,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 40,
+      "rewardItem" : null,
       "style" : "standard",
       "subTasks" : [
         {
@@ -1500,6 +1582,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "CCC XXL – Super-Challenge",
       "unboxItem" : null,
@@ -1514,6 +1597,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1543,6 +1627,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 40,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "Krimi Dinner",
       "unboxItem" : null,
@@ -1557,6 +1642,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 70,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1585,6 +1671,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 70,
+      "rewardItem" : null,
       "style" : "standard",
       "subTasks" : [
         {
@@ -1612,6 +1699,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 70,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1639,6 +1727,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "progress",
       "title" : "Lets get fit!",
       "totalSteps" : 50,
@@ -1654,6 +1743,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 40,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -1673,6 +1763,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 120,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Opa Heskes Erbin",
       "unboxItem" : null,
@@ -1686,6 +1777,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 100,
+      "rewardItem" : null,
       "style" : "funny",
       "subTasks" : [
         {
@@ -1705,6 +1797,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 100,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -1724,6 +1817,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 120,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "LSD",
       "unboxItem" : null,
@@ -1738,6 +1832,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -1758,6 +1853,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "ENDgame",
       "unboxItem" : null,
@@ -1772,6 +1868,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1817,6 +1914,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -1838,6 +1936,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1858,6 +1957,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "title" : "Eisbärbaby",
       "unboxItem" : null,
@@ -1872,6 +1972,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 10,
+      "rewardItem" : null,
       "style" : "cozy",
       "title" : "Farmer!",
       "unboxItem" : null,
@@ -1886,6 +1987,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 50,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -1906,6 +2008,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -1926,6 +2029,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "cozy",
       "subTasks" : [
         {
@@ -1950,6 +2054,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -1970,6 +2075,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -1989,6 +2095,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "romantic",
       "subTasks" : [
         {
@@ -2008,10 +2115,10 @@
       "isLocked" : null,
       "isProduced" : false,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "title" : "Singe",
-      "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unboxItem" : null
     },
     {
       "code" : "dvxkg6l",
@@ -2021,6 +2128,7 @@
       "isLocked" : null,
       "isProduced" : false,
       "points" : 20,
+      "rewardItem" : null,
       "style" : "adventure",
       "subTasks" : [
         {
@@ -2029,8 +2137,7 @@
         }
       ],
       "title" : "Großer Wurf",
-      "unboxItem" : "AF1",
-      "unlockAnimation" : "card"
+      "unboxItem" : "AF1"
     },
     {
       "code" : "BUSS1",
@@ -2040,10 +2147,10 @@
       "isLocked" : null,
       "isProduced" : false,
       "points" : 5,
+      "rewardItem" : null,
       "style" : "standard",
       "title" : "Sonderaufgabe #1!",
-      "unboxItem" : "P3X",
-      "unlockAnimation" : "card"
+      "unboxItem" : "P3X"
     },
     {
       "code" : "test1",
@@ -2053,10 +2160,11 @@
       "isLocked" : null,
       "isProduced" : false,
       "points" : 10,
+      "rewardItem" : "test2",
       "style" : "sideQuest",
       "title" : "test1",
-      "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unboxItem" : "test1",
+      "unlockAnimation" : "specialEventReveal"
     },
     {
       "code" : "test2",
@@ -2066,10 +2174,11 @@
       "isLocked" : null,
       "isProduced" : false,
       "points" : 10,
+      "rewardItem" : "test3",
       "style" : "specialEvent",
       "title" : "test2",
-      "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unboxItem" : "test2",
+      "unlockAnimation" : "specialEventReveal"
     }
   ],
   "shopItems" : [
