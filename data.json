@@ -2140,7 +2140,7 @@
       "unboxItem" : "AF1"
     },
     {
-      "code" : "BUSS1",
+      "code" : "buss1",
       "condition" : null,
       "description" : "Schließe erfolgreich dein Orientierungspraktikum ab!",
       "emoji" : "🏫",
