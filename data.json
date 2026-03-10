@@ -2044,6 +2044,32 @@
       "title" : "Sonderaufgabe #1!",
       "unboxItem" : "P3X",
       "unlockAnimation" : "card"
+    },
+    {
+      "code" : "test1",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 10,
+      "style" : "sideQuest",
+      "title" : "test1",
+      "unboxItem" : null,
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "test2",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 10,
+      "style" : "specialEvent",
+      "title" : "test2",
+      "unboxItem" : null,
+      "unlockAnimation" : "card"
     }
   ],
   "shopItems" : [
