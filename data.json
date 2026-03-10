@@ -2142,15 +2142,16 @@
     {
       "code" : "BUSS1",
       "condition" : null,
-      "description" : "Schließe erfolgreich dein Orientierungspraktikum ab!\n\nBei Abschluss gibts Item P3X",
-      "emoji" : "⒈﹢",
+      "description" : "Schließe erfolgreich dein Orientierungspraktikum ab!",
+      "emoji" : "🏫",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 5,
-      "rewardItem" : null,
-      "style" : "standard",
+      "rewardItem" : "P3X",
+      "style" : "sideQuest",
       "title" : "Sonderaufgabe #1!",
-      "unboxItem" : "P3X"
+      "unboxItem" : null,
+      "unlockAnimation" : "sideQuestReveal"
     },
     {
       "code" : "test1",
@@ -2178,7 +2179,7 @@
       "style" : "specialEvent",
       "title" : "test2",
       "unboxItem" : "test2",
-      "unlockAnimation" : "specialEventReveal"
+      "unlockAnimation" : "card"
     }
   ],
   "shopItems" : [
