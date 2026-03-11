@@ -149,7 +149,7 @@
         },
         {
           "points" : 5,
-          "title" : "baue die Einspeilung ein..."
+          "title" : "baue die Anspielung mit ein..."
         }
       ],
       "title" : "EinzelFan (Ich!)",
@@ -255,8 +255,7 @@
       "rewardItem" : null,
       "style" : "cozy",
       "title" : "Home-Kino",
-      "unboxItem" : null,
-      "unlockAnimation" : "curtain"
+      "unboxItem" : null
     },
     {
       "code" : "lufkguq",
@@ -714,9 +713,8 @@
       "rewardItem" : null,
       "style" : "progress",
       "title" : "Vorlesen",
-      "totalSteps" : 90,
-      "unboxItem" : "G5B",
-      "unlockAnimation" : "burst"
+      "totalSteps" : 21,
+      "unboxItem" : "G5B"
     },
     {
       "activeDays" : 200,
@@ -820,8 +818,7 @@
         }
       ],
       "title" : "Minigolfen",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 30,
@@ -1572,7 +1569,7 @@
       "style" : "cozy",
       "title" : "CCC XXL – Super-Challenge",
       "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unlockAnimation" : "sideQuestReveal"
     },
     {
       "activeDays" : 2000,
