@@ -21,8 +21,7 @@
         }
       ],
       "title" : "show me",
-      "unboxItem" : null,
-      "unlockAnimation" : "specialEventReveal"
+      "unboxItem" : null
     },
     {
       "code" : "w8njaft",
@@ -41,8 +40,7 @@
         }
       ],
       "title" : "teenager",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "code" : "zr65y2r",
@@ -56,8 +54,7 @@
       "rewardItem" : null,
       "style" : "romantic",
       "title" : "👅",
-      "unboxItem" : "AK7",
-      "unlockAnimation" : "burst"
+      "unboxItem" : "AK7"
     },
     {
       "code" : "uowc9c1",
@@ -84,8 +81,7 @@
         }
       ],
       "title" : "tell me",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "code" : "uhfx1nt",
@@ -104,8 +100,7 @@
         }
       ],
       "title" : "move it",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 50,
@@ -133,8 +128,7 @@
         }
       ],
       "title" : "👀",
-      "unboxItem" : null,
-      "unlockAnimation" : "curtain"
+      "unboxItem" : "Z7C"
     },
     {
       "activeDays" : 90,
@@ -152,11 +146,14 @@
         {
           "points" : 5,
           "title" : "schick ihn mir!"
+        },
+        {
+          "points" : 5,
+          "title" : "baue die Einspeilung ein..."
         }
       ],
       "title" : "EinzelFan (Ich!)",
-      "totalSteps" : 3,
-      "unboxItem" : "Z7C"
+      "unboxItem" : "Q9B (Anspielung indetiert!)"
     },
     {
       "activeDays" : 21,
@@ -179,6 +176,7 @@
       "unboxItem" : null
     },
     {
+      "activeDays" : 21,
       "code" : "j0emrxe",
       "condition" : null,
       "description" : "Wir machen ein „Was liebe ich an dir“-Voice-Memo füreinander. \nDas können wir dann bei Bedarf immer wieder abrufen",
@@ -186,7 +184,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
-      "rewardItem" : null,
+      "rewardItem" : "V5J",
       "style" : "romantic",
       "title" : "Voice of Love",
       "unboxItem" : null
@@ -202,7 +200,7 @@
       "rewardItem" : null,
       "style" : "creative",
       "title" : "Zeitkäpsle",
-      "unboxItem" : null
+      "unboxItem" : "S2H"
     },
     {
       "code" : "1eczkd2",
@@ -244,8 +242,7 @@
         }
       ],
       "title" : "bad days",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "code" : "0s1opa0",
@@ -830,7 +827,7 @@
       "activeDays" : 30,
       "code" : "sa62pzy",
       "condition" : null,
-      "description" : "Wir schreiben uns jeden Tag, für eine Woche, einen 6-Sätze-Brief und tauschen sie aus.",
+      "description" : "Wir schreiben uns jeden Tag, für eine Woche, einen 7-Sätze-Brief und tauschen sie aus.",
       "emoji" : "💌",
       "isLocked" : null,
       "isProduced" : null,
@@ -849,8 +846,7 @@
       ],
       "title" : "Lets go classic",
       "totalSteps" : 7,
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : "D8R"
     },
     {
       "activeDays" : 90,
@@ -2147,21 +2143,36 @@
       "style" : "sideQuest",
       "title" : "Sonderaufgabe #1!",
       "unboxItem" : null,
-      "unlockAnimation" : "specialEventReveal"
+      "unlockAnimation" : "card"
     },
     {
-      "code" : "test2",
+      "code" : "kh3361",
       "condition" : null,
       "description" : "",
       "emoji" : "🧐",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 10,
-      "rewardItem" : "test3",
+      "rewardItem" : null,
       "style" : "specialEvent",
       "title" : "Quiz Time!",
-      "unboxItem" : "test2",
+      "unboxItem" : null,
       "unlockAnimation" : "card"
+    },
+    {
+      "activeDays" : 30,
+      "code" : "nm0oazk",
+      "condition" : null,
+      "description" : "Simpel: Iss eine Rohe Zwiebel\n(min. 200g)",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 5,
+      "rewardItem" : null,
+      "style" : "standard",
+      "title" : "Weine für mich!",
+      "unboxItem" : null,
+      "unlockAnimation" : "sideQuestReveal"
     }
   ],
   "shopItems" : [
