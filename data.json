@@ -22,7 +22,7 @@
       ],
       "title" : "show me",
       "unboxItem" : null,
-      "unlockAnimation" : "sideQuestReveal"
+      "unlockAnimation" : "specialEventReveal"
     },
     {
       "code" : "w8njaft",
@@ -189,8 +189,7 @@
       "rewardItem" : null,
       "style" : "romantic",
       "title" : "Voice of Love",
-      "unboxItem" : null,
-      "unlockAnimation" : "curtain"
+      "unboxItem" : null
     },
     {
       "code" : "7c5kywn",
@@ -222,21 +221,30 @@
         }
       ],
       "title" : "Chef Joe",
-      "unboxItem" : null,
-      "unlockAnimation" : "flip"
+      "unboxItem" : null
     },
     {
       "code" : "qfpy5ls",
       "condition" : null,
-      "description" : "Du kriegst einen Brief „Für einen schlechten Tag“. \nLies ihn einfach, wenn du ein bisschen was Positives brauchst\n(kommt noch)",
+      "description" : "Nimm dir ein bisschen Zeit, mach dir Gedanken und schreibe deine Erkenntnisse zu folgenden Thema auf: „Was brauche ich, wenn es mir schlecht geht“\n\nKeine Anleitung, aber einfach ein paar Gedanken, was du brauchst, \nUmarmung, Zeit, Streicheln, Gespräch?",
       "emoji" : "💌",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
-      "rewardItem" : null,
+      "rewardItem" : "Brief „Für einen schlechten Tag“.",
       "style" : "romantic",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Gedanken zu: \"Wenn der Grund Studiums\/Berufs-Stress ist\""
+        },
+        {
+          "points" : 5,
+          "title" : "Gedanken zu: \"Wenn der Grund Freizeit-Stress ist\""
+        }
+      ],
       "title" : "bad days",
-      "unboxItem" : "L9T",
+      "unboxItem" : null,
       "unlockAnimation" : "burst"
     },
     {
@@ -278,16 +286,9 @@
       "points" : 5,
       "rewardItem" : null,
       "style" : "progress",
-      "subTasks" : [
-        {
-          "points" : 5,
-          "title" : "Ende der Woche: gutes neues Getränk gefunden?"
-        }
-      ],
       "title" : "yummy",
       "totalSteps" : 7,
-      "unboxItem" : "K8W",
-      "unlockAnimation" : "burst"
+      "unboxItem" : "K8W"
     },
     {
       "activeDays" : 90,
@@ -301,8 +302,7 @@
       "rewardItem" : null,
       "style" : "adventure",
       "title" : "Mystery-Nachtisch",
-      "unboxItem" : null,
-      "unlockAnimation" : "flip"
+      "unboxItem" : null
     },
     {
       "activeDays" : 20,
@@ -560,8 +560,7 @@
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Almosen",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 12,
@@ -598,8 +597,7 @@
       "rewardItem" : null,
       "style" : "funny",
       "title" : "Lisa & Lena",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 43,
@@ -629,8 +627,7 @@
       "rewardItem" : null,
       "style" : "creative",
       "title" : "Gemeinsame Reiseziele",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 37,
@@ -661,8 +658,7 @@
       "rewardItem" : null,
       "style" : "romantic",
       "title" : "best of",
-      "unboxItem" : null,
-      "unlockAnimation" : "flip"
+      "unboxItem" : "L9T"
     },
     {
       "activeDays" : 50,
@@ -684,7 +680,7 @@
       "activeDays" : 30,
       "code" : "ny2tlqb",
       "condition" : null,
-      "description" : "Gib Johannes 5x Bussis! (😇)",
+      "description" : "Gib Johannes 100x Bussis! (😇)",
       "emoji" : "😘",
       "isLocked" : null,
       "isProduced" : null,
@@ -692,7 +688,7 @@
       "rewardItem" : null,
       "style" : "romantic",
       "title" : "Bussi-Time",
-      "unboxItem" : null,
+      "unboxItem" : "AF1",
       "unlockAnimation" : "burst"
     },
     {
@@ -707,8 +703,7 @@
       "rewardItem" : null,
       "style" : "romantic",
       "title" : "Bucketliste",
-      "unboxItem" : null,
-      "unlockAnimation" : "flip"
+      "unboxItem" : null
     },
     {
       "activeDays" : 21,
@@ -766,8 +761,7 @@
         }
       ],
       "title" : "ach nett",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 200,
@@ -942,8 +936,7 @@
       "rewardItem" : null,
       "style" : "romantic",
       "title" : "SUPRISE DATE",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 120,
@@ -1115,8 +1108,7 @@
         }
       ],
       "title" : "Clair & Phil",
-      "unboxItem" : "B4Q",
-      "unlockAnimation" : "burst"
+      "unboxItem" : "B4Q"
     },
     {
       "activeDays" : 356,
@@ -1155,8 +1147,7 @@
         }
       ],
       "title" : "erdiger Geschmack",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 300,
@@ -1501,8 +1492,7 @@
       "rewardItem" : null,
       "style" : "cozy",
       "title" : "BUMBAZ",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "code" : "39b0haq",
@@ -1930,7 +1920,7 @@
       "activeDays" : 699,
       "code" : "rdocyad",
       "condition" : null,
-      "description" : "Schau (und höre) einem echten Kampfjet beim Start zu!",
+      "description" : "Schau (und höre!) einem echten Kampfjet beim Start zu!",
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Eurofighter_Typhoon.svg.png",
       "isLocked" : null,
@@ -1945,8 +1935,7 @@
         }
       ],
       "title" : "topgun",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "code" : "wuffel",
@@ -2090,8 +2079,8 @@
     {
       "code" : "tq6icjw",
       "condition" : null,
-      "description" : "Umarme mich (Johannes) ganz fest",
-      "emoji" : "🧢",
+      "description" : "Stelle 5x schöne Pärchenbild-Motive mit Johannes (mir) nach\nBedinung: Es muss eine richtige Kamera verwendet werden! (keine Handykam)",
+      "emoji" : "👩🏽‍❤️‍👨🏼",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
@@ -2101,11 +2090,18 @@
         {
           "points" : 5,
           "title" : "gib mir ein Bussi"
+        },
+        {
+          "points" : 5,
+          "title" : "wenn eines der 5x Bilder das Bild von Connys Klo ist"
+        },
+        {
+          "points" : 10,
+          "title" : "poste das beste Bild auf Instagram (für min. 1\/2 Jahr)"
         }
       ],
-      "title" : "Umarme",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "title" : "chick!",
+      "unboxItem" : null
     },
     {
       "code" : "if75peb",
@@ -2137,7 +2133,7 @@
         }
       ],
       "title" : "Großer Wurf",
-      "unboxItem" : "AF1"
+      "unboxItem" : null
     },
     {
       "code" : "buss1",
@@ -2145,39 +2141,25 @@
       "description" : "Schließe erfolgreich dein Orientierungspraktikum ab!",
       "emoji" : "🏫",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 5,
       "rewardItem" : "P3X",
       "style" : "sideQuest",
       "title" : "Sonderaufgabe #1!",
       "unboxItem" : null,
-      "unlockAnimation" : "sideQuestReveal"
-    },
-    {
-      "code" : "test1",
-      "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
-      "isLocked" : null,
-      "isProduced" : false,
-      "points" : 10,
-      "rewardItem" : "test2",
-      "style" : "sideQuest",
-      "title" : "test1",
-      "unboxItem" : "test1",
       "unlockAnimation" : "specialEventReveal"
     },
     {
       "code" : "test2",
       "condition" : null,
       "description" : "",
-      "emoji" : "🎯",
+      "emoji" : "🧐",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 10,
       "rewardItem" : "test3",
       "style" : "specialEvent",
-      "title" : "test2",
+      "title" : "Quiz Time!",
       "unboxItem" : "test2",
       "unlockAnimation" : "card"
     }
