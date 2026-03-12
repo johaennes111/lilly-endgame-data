@@ -304,12 +304,12 @@
       "activeDays" : 20,
       "code" : "tq9nn91",
       "condition" : null,
-      "description" : "Schnapp der Johannes und sprech mit ihm ein kleines Zukunftsszenario durch:\n- Wie wohnen wir ideal\n- Wo? Was ist wichtig? \n- Wie sieht der Garten aus?\n- Wie viele Zimmer?\n- Wohnzimmer und Küche?",
+      "description" : "Schnapp der Johannes und sprech mit ihm (mir) ein kleines Zukunftsszenario durch:\n- Wie wohnen wir ideal\n- Wo? Was ist wichtig? \n- Wie sieht der Garten aus?\n- Wie viele Zimmer?\n- Wohnzimmer und Küche?",
       "emoji" : "🏡",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
-      "rewardItem" : null,
+      "rewardItem" : "R3F",
       "style" : "romantic",
       "title" : "Lage, Lage, Lage",
       "unboxItem" : null,
@@ -414,11 +414,10 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
-      "rewardItem" : null,
+      "rewardItem" : "C8L",
       "style" : "standard",
       "title" : "haben wir Streit?",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 50,
@@ -538,11 +537,10 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
-      "rewardItem" : null,
+      "rewardItem" : "N7V",
       "style" : "standard",
       "title" : "level up",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 132,
@@ -623,7 +621,7 @@
       "rewardItem" : null,
       "style" : "creative",
       "title" : "Gemeinsame Reiseziele",
-      "unboxItem" : null
+      "unboxItem" : "T6P"
     },
     {
       "activeDays" : 37,
@@ -1803,8 +1801,7 @@
       "rewardItem" : null,
       "style" : "cozy",
       "title" : "LSD",
-      "unboxItem" : null,
-      "unlockAnimation" : "curtain"
+      "unboxItem" : "K1N"
     },
     {
       "code" : "letsgo1!",
@@ -2077,7 +2074,7 @@
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
-      "rewardItem" : null,
+      "rewardItem" : "M2D",
       "style" : "romantic",
       "subTasks" : [
         {
