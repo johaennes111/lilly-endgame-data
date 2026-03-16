@@ -21,7 +21,8 @@
         }
       ],
       "title" : "show me",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "unlockAnimation" : "sideQuestReveal"
     },
     {
       "code" : "w8njaft",
@@ -2194,7 +2195,7 @@
         }
       ],
       "title" : "Istanbul!",
-      "unboxItem" : "A1CC",
+      "unboxItem" : "W6M",
       "unlockAnimation" : "sideQuestReveal"
     }
   ],
