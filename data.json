@@ -2167,6 +2167,35 @@
       "title" : "Weine für mich!",
       "unboxItem" : null,
       "unlockAnimation" : "sideQuestReveal"
+    },
+    {
+      "code" : "fhubl9x",
+      "condition" : null,
+      "description" : "Liebe Lilly, \nich habe gehört du machst dich auf den Weg nach Istanbul? \nWie cool! \nHier kommt eine kleine 3-teilige Sidequest für dich!",
+      "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/istanbul.png",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 5,
+      "rewardItem" : null,
+      "style" : "sideQuest",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "1. Esse einen echten türkischen Döner!"
+        },
+        {
+          "points" : 5,
+          "title" : "2. Berühre die Hagia Sophia"
+        },
+        {
+          "points" : 10,
+          "title" : "3. Drehe einen eleganden travel-vlog über deine Reise, Johannes hilft dir gerne!"
+        }
+      ],
+      "title" : "Istanbul!",
+      "unboxItem" : "A1CC",
+      "unlockAnimation" : "sideQuestReveal"
     }
   ],
   "shopItems" : [
