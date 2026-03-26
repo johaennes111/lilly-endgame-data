@@ -21,8 +21,7 @@
         }
       ],
       "title" : "show me",
-      "unboxItem" : null,
-      "unlockAnimation" : "sideQuestReveal"
+      "unboxItem" : null
     },
     {
       "code" : "w8njaft",
@@ -2159,7 +2158,7 @@
       "code" : "nm0oazk",
       "condition" : null,
       "description" : "Simpel: Iss eine Rohe Zwiebel\n(min. 200g)",
-      "emoji" : "🎯",
+      "emoji" : "🧅",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 5,
@@ -2197,6 +2196,25 @@
       "title" : "Istanbul!",
       "unboxItem" : "W6M",
       "unlockAnimation" : "sideQuestReveal"
+    },
+    {
+      "code" : "02h4ujw",
+      "condition" : null,
+      "description" : "Baue (wenn möglich) zusammen mit deinem Papa einen Regen-Stab!",
+      "emoji" : "☔️",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 15,
+      "rewardItem" : null,
+      "style" : "creative",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "benutze den Stab den du hier bekommst dazu"
+        }
+      ],
+      "title" : "let it rain",
+      "unboxItem" : null
     }
   ],
   "shopItems" : [
