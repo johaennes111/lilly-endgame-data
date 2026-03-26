@@ -2275,6 +2275,20 @@
       ],
       "title" : "Herzlich Willkommen",
       "unboxItem" : null
+    },
+    {
+      "code" : "06q6vdo",
+      "condition" : null,
+      "description" : "Rauche zusammen mit Johannes eine Zigarre",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/zigaraimage.png",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 120,
+      "rewardItem" : null,
+      "style" : "standard",
+      "title" : "Churchill",
+      "unboxItem" : "V3N"
     }
   ],
   "shopItems" : [
