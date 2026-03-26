@@ -2215,6 +2215,66 @@
       ],
       "title" : "let it rain",
       "unboxItem" : null
+    },
+    {
+      "code" : "lxieci3",
+      "condition" : null,
+      "description" : "Finde heraus, was deine Mama noch nie in ihrem Leben gemacht hat, aber schon immer mal gerne machen wollte - und mach es möglich!",
+      "emoji" : "ℳ",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 10,
+      "rewardItem" : null,
+      "style" : "standard",
+      "title" : "Make your Mama smile",
+      "unboxItem" : null
+    },
+    {
+      "code" : "3gstydp",
+      "condition" : null,
+      "description" : "Suche dir ein Thema raus und erstelle + halte eine 20min Präsentation darüber!\nJe mehr Leute dir zuhören, desto mehr Punkte bekommst du!\n\nP.S. es muss eine eigene Präsenation sein, Uni-Präsis etc. zählen nicht",
+      "emoji" : "🙊",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 5,
+      "rewardItem" : null,
+      "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Johannes ist dabei"
+        },
+        {
+          "points" : 5,
+          "title" : "+ 1x Person"
+        },
+        {
+          "points" : 5,
+          "title" : "+ 2. Person"
+        },
+        {
+          "points" : 5,
+          "title" : "+ 3. Person"
+        },
+        {
+          "points" : 5,
+          "title" : "+ 4. Person"
+        },
+        {
+          "points" : 5,
+          "title" : "+ 5. Person"
+        },
+        {
+          "points" : 5,
+          "title" : "+ 6. Person"
+        },
+        {
+          "points" : 5,
+          "title" : "+ 7. Person"
+        }
+      ],
+      "title" : "Herzlich Willkommen",
+      "unboxItem" : null
     }
   ],
   "shopItems" : [
