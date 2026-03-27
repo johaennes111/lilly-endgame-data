@@ -2217,6 +2217,7 @@
       "unboxItem" : null
     },
     {
+      "activeDays" : 120,
       "code" : "lxieci3",
       "condition" : null,
       "description" : "Finde heraus, was deine Mama noch nie in ihrem Leben gemacht hat, aber schon immer mal gerne machen wollte - und mach es möglich!",
@@ -2291,6 +2292,7 @@
       "unboxItem" : "V3N"
     },
     {
+      "activeDays" : 30,
       "code" : "rhqkznv",
       "condition" : null,
       "description" : "ein Cola-Sorten-Blind-Verkostungs-Ranking\nGäste sind gerne willkommen!\n(Wasser Gläser nicht vergessen)\n\n1. Probiere alle Colas und erstelle ein Offenes Ranking\n2. Augen zu, probiere alle Colas und erstelle ein Blindes Ranking\n\nim Anschluss: Es gibt Zusatzpunkte pro Richtig erkannte Cola-Marke im Blinden Ranking",
@@ -2299,7 +2301,7 @@
       "isProduced" : false,
       "points" : 5,
       "rewardItem" : null,
-      "style" : "cozy",
+      "style" : "standard",
       "subTasks" : [
         {
           "points" : 5,
@@ -2328,6 +2330,36 @@
       ],
       "title" : "Taste the feeling",
       "unboxItem" : null
+    },
+    {
+      "activeDays" : 120,
+      "code" : "x69s0iv",
+      "condition" : null,
+      "description" : "Simpel: Schließe 14x Tage lang am Stück deine Apple-Watch Ringe",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 10,
+      "rewardItem" : null,
+      "streakType" : "daily",
+      "style" : "progress",
+      "title" : "call on me",
+      "totalSteps" : 14,
+      "unboxItem" : null
+    },
+    {
+      "activeDays" : 60,
+      "code" : "gj2qw1q",
+      "condition" : null,
+      "description" : "male 2x Schöne kleine Bilder",
+      "emoji" : "🎨",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 5,
+      "rewardItem" : null,
+      "style" : "standard",
+      "title" : "K U N S T",
+      "unboxItem" : "L7Z oder T9R"
     }
   ],
   "shopItems" : [
