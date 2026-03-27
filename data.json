@@ -2289,6 +2289,45 @@
       "style" : "standard",
       "title" : "Churchill",
       "unboxItem" : "V3N"
+    },
+    {
+      "code" : "rhqkznv",
+      "condition" : null,
+      "description" : "ein Cola-Sorten-Blind-Verkostungs-Ranking\nGäste sind gerne willkommen!\n(Wasser Gläser nicht vergessen)\n\n1. Probiere alle Colas und erstelle ein Offenes Ranking\n2. Augen zu, probiere alle Colas und erstelle ein Blindes Ranking\n\nim Anschluss: Es gibt Zusatzpunkte pro Richtig erkannte Cola-Marke im Blinden Ranking",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 5,
+      "rewardItem" : null,
+      "style" : "cozy",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "1. Marke richtig"
+        },
+        {
+          "points" : 5,
+          "title" : "2. Marke richtig"
+        },
+        {
+          "points" : 5,
+          "title" : "3. Marke richtig"
+        },
+        {
+          "points" : 5,
+          "title" : "4. Marke richtig"
+        },
+        {
+          "points" : 5,
+          "title" : "5. Marke richtig"
+        },
+        {
+          "points" : 5,
+          "title" : "6. Marke richtig"
+        }
+      ],
+      "title" : "Taste the feeling",
+      "unboxItem" : null
     }
   ],
   "shopItems" : [
