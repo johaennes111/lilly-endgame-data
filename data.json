@@ -575,8 +575,7 @@
         }
       ],
       "title" : "and the oscar goes to...",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : "H2M"
     },
     {
       "activeDays" : 11,
@@ -966,7 +965,7 @@
       "unlockAnimation" : "curtain"
     },
     {
-      "activeDays" : 90,
+      "activeDays" : 200,
       "code" : "8nt5p1t",
       "condition" : null,
       "description" : "Tagestriple nach Calw!\nENDLICH!\n\nPunkte gibts, sobald du das Rathaus von Calw berühst",
@@ -984,7 +983,7 @@
         }
       ],
       "title" : "Tagestriple!",
-      "unboxItem" : null,
+      "unboxItem" : "Y4R",
       "unlockAnimation" : "flip"
     },
     {
@@ -1021,8 +1020,8 @@
     {
       "activeDays" : 120,
       "code" : "8gu8rlo",
-      "condition" : "Ist gerade eine Jahreszeit, in der man länger gut draußen sein kann?",
-      "description" : "Wir gehen mindestens eine Nacht irgendwo draußen zelten! Bin gespannt!",
+      "condition" : "Beginnt \/ Ist eine Jahreszeit, in der man länger gut draußen sein kann?",
+      "description" : "Wir gehen mindestens eine Nacht irgendwo draußen zelten! \nBin gespannt!",
       "emoji" : "🏕️",
       "isLocked" : null,
       "isProduced" : null,
@@ -1573,7 +1572,7 @@
       "activeDays" : 2000,
       "code" : "avqzp0x",
       "condition" : null,
-      "description" : "Größeren Welt-Urlaub: \nPlanen wann und wo.\nAußerhalb von Europa!",
+      "description" : "Wir machen einen größeren Welt-Urlaub!\n\nWann? Müssen wir schauen\nWo? Müssen wir schauen \n\nWas sind die Bedinungen: \n1. Außerhalb von Europa!\n2. Wir müssen es zusammen machen ",
       "emoji" : "🌏",
       "isLocked" : null,
       "isProduced" : null,
@@ -1595,7 +1594,7 @@
         }
       ],
       "title" : "Welt-Urlaub",
-      "unboxItem" : null,
+      "unboxItem" : "R1P",
       "unlockAnimation" : "burst"
     },
     {
@@ -2165,8 +2164,7 @@
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Weine für mich!",
-      "unboxItem" : null,
-      "unlockAnimation" : "sideQuestReveal"
+      "unboxItem" : "B8K"
     },
     {
       "code" : "fhubl9x",
@@ -2360,6 +2358,32 @@
       "style" : "standard",
       "title" : "K U N S T",
       "unboxItem" : "L7Z oder T9R"
+    },
+    {
+      "code" : "umndc9g",
+      "condition" : null,
+      "description" : "Verbringe selbstständig geplant mindentens 2h mit Madlaine \nz.B. einen Kaffee trinken, …\n\nfür Paul 🙊😘",
+      "emoji" : "😈",
+      "isLocked" : true,
+      "isProduced" : false,
+      "points" : 5,
+      "rewardItem" : null,
+      "style" : "standard",
+      "title" : "",
+      "unboxItem" : null
+    },
+    {
+      "code" : "2o7wqv9",
+      "condition" : null,
+      "description" : "triff einen neuen Mensch (unter 1 Jahr alt)",
+      "emoji" : "🍼",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 10,
+      "rewardItem" : "S9X",
+      "style" : "standard",
+      "title" : "Willkommen im Leben",
+      "unboxItem" : null
     }
   ],
   "shopItems" : [
