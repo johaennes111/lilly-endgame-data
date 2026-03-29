@@ -489,8 +489,7 @@
         }
       ],
       "title" : "Hej",
-      "unboxItem" : "H4X",
-      "unlockAnimation" : "burst"
+      "unboxItem" : "H4X"
     },
     {
       "activeDays" : 40,
@@ -1043,8 +1042,7 @@
         }
       ],
       "title" : "Abenteuer Zeit!",
-      "unboxItem" : "F4L",
-      "unlockAnimation" : "burst"
+      "unboxItem" : "F4L"
     },
     {
       "activeDays" : 90,
@@ -1119,7 +1117,7 @@
       "activeDays" : 90,
       "code" : "8j7y3yj",
       "condition" : null,
-      "description" : "Veranstalltet eine Whiskey oder Gin Verkostung,\nzu zweit oder in einer größeren Gruppe!",
+      "description" : "Veranstalltet einen Whiskey-Verkostung-Abend,\nzu zweit oder in einer größeren Gruppe!",
       "emoji" : "🥃",
       "isLocked" : null,
       "isProduced" : null,
@@ -1136,7 +1134,7 @@
           "title" : "Schick anziehen"
         }
       ],
-      "title" : "erdiger Geschmack",
+      "title" : "erdig",
       "unboxItem" : null
     },
     {
@@ -2193,7 +2191,7 @@
       ],
       "title" : "Istanbul!",
       "unboxItem" : "W6M",
-      "unlockAnimation" : "sideQuestReveal"
+      "unlockAnimation" : "card"
     },
     {
       "code" : "02h4ujw",
@@ -2388,15 +2386,29 @@
     {
       "code" : "c1v78z9",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "Finde die 3x Ort auf den Bildern, suche sie auf und stelle die Bilder nach (Winkel, Motiv, etc.)\nPro geschafftes Bild 5x Punkte",
+      "emoji" : "🤳🏿",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 10,
       "rewardItem" : null,
-      "style" : "standard",
-      "title" : "1",
-      "unboxItem" : null
+      "style" : "adventure",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "1x Bild"
+        },
+        {
+          "points" : 5,
+          "title" : "2x Bild"
+        },
+        {
+          "points" : 5,
+          "title" : "3x Bild"
+        }
+      ],
+      "title" : "find me",
+      "unboxItem" : "Tü: XXX; See: (↓)"
     },
     {
       "code" : "soy8pa3",
