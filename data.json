@@ -402,8 +402,7 @@
       "rewardItem" : null,
       "style" : "romantic",
       "title" : "Herr Der Ringe",
-      "unboxItem" : null,
-      "unlockAnimation" : "burst"
+      "unboxItem" : null
     },
     {
       "activeDays" : 7,
@@ -1135,7 +1134,7 @@
         }
       ],
       "title" : "erdig",
-      "unboxItem" : null
+      "unboxItem" : "F7Q"
     },
     {
       "activeDays" : 300,
@@ -2210,7 +2209,7 @@
         }
       ],
       "title" : "let it rain",
-      "unboxItem" : null
+      "unboxItem" : "G2T"
     },
     {
       "activeDays" : 120,
