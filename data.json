@@ -2537,7 +2537,8 @@
       "rewardItem" : "01mommy01",
       "style" : "adventure",
       "title" : "call on me",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "unlockAnimation" : "specialEventReveal"
     }
   ],
   "shopItems" : [
