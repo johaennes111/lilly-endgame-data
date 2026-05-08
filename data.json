@@ -2525,6 +2525,19 @@
       "style" : "standard",
       "title" : "10",
       "unboxItem" : null
+    },
+    {
+      "code" : "01mommy01",
+      "condition" : null,
+      "description" : "Schaffe heute ein 300kcal Training (Apple Watch)!",
+      "emoji" : "🏋🏼‍♀️",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 5,
+      "rewardItem" : "01mommy01",
+      "style" : "adventure",
+      "title" : "call on me",
+      "unboxItem" : null
     }
   ],
   "shopItems" : [
