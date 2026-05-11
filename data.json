@@ -1016,7 +1016,7 @@
       "unlockAnimation" : "burst"
     },
     {
-      "activeDays" : 120,
+      "activeDays" : 180,
       "code" : "8gu8rlo",
       "condition" : "Beginnt \/ Ist eine Jahreszeit, in der man länger gut draußen sein kann?",
       "description" : "Wir gehen mindestens eine Nacht irgendwo draußen zelten! \nBin gespannt!",
