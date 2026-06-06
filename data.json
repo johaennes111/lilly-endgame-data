@@ -527,7 +527,7 @@
       "unlockAnimation" : "flip"
     },
     {
-      "activeDays" : 4,
+      "activeDays" : 40,
       "code" : "upupup",
       "condition" : null,
       "description" : "Was würdest du in unserem Alltag optimieren?\nSchreib 3 Dinge auf!",
