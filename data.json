@@ -2537,6 +2537,26 @@
       "rewardItem" : "01mommy01",
       "style" : "adventure",
       "title" : "call on me",
+      "unboxItem" : null
+    },
+    {
+      "code" : "ave",
+      "condition" : null,
+      "description" : "Was ist Cicero für dich, wenn nicht ein Feldherr der Worte? \nWas sind Caesar und Vergil, wenn nicht Stimmen aus einem Reich, das nur dem gehört, der es erobert? Du wirst es erobern! \n\nDeine Aufgabe ist einfach: Bestehe das Latinum.\n",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/pngtree-golden-laurel-wreath-design-element-vector-png-image_7321381.png",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 20,
+      "rewardItem" : null,
+      "style" : "specialEvent",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : ""
+        }
+      ],
+      "title" : "Ciceros Erbin",
       "unboxItem" : null,
       "unlockAnimation" : "specialEventReveal"
     }
