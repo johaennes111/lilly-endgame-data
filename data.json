@@ -2550,12 +2550,6 @@
       "points" : 20,
       "rewardItem" : null,
       "style" : "specialEvent",
-      "subTasks" : [
-        {
-          "points" : 5,
-          "title" : ""
-        }
-      ],
       "title" : "Ciceros Erbin",
       "unboxItem" : null,
       "unlockAnimation" : "specialEventReveal"
