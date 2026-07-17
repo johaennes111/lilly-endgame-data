@@ -331,7 +331,7 @@
       "unlockAnimation" : "burst"
     },
     {
-      "activeDays" : 21,
+      "activeDays" : 50,
       "code" : "nt02sqj",
       "condition" : "Ist gerade NICHT Winter oder ekliges Wetter?",
       "description" : "Hol dir Johannes, \n…such dir einen Baum aus…\n… und kletter drauf 😎\n aber so richtig",
