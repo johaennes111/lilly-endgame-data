@@ -2588,6 +2588,7 @@
       "rewardItem" : null,
       "secretSlot" : 1,
       "style" : "hiddenquest",
+      "secretLetter": "E",
       "title" : "#1",
       "unboxItem" : null,
       "unlockAnimation" : "vaultReveal"
@@ -2602,6 +2603,7 @@
       "points" : 10,
       "rewardItem" : null,
       "secretSlot" : 2,
+      "secretLetter": "1",
       "style" : "hiddenquest",
       "title" : "#2",
       "unboxItem" : null,
@@ -2618,6 +2620,7 @@
       "rewardItem" : null,
       "style" : "hiddenquest",
       "title" : "#3",
+      "secretLetter": "L",
       "unboxItem" : null,
       "unlockAnimation" : "card"
     },
@@ -2633,6 +2636,7 @@
       "secretSlot" : 4,
       "style" : "hiddenquest",
       "title" : "#4",
+      "secretLetter": "P",
       "unboxItem" : null,
       "unlockAnimation" : "card"
     },
@@ -2648,6 +2652,7 @@
       "secretSlot" : 5,
       "style" : "hiddenquest",
       "title" : "#5",
+      "secretLetter": "P",
       "unboxItem" : null,
       "unlockAnimation" : "card"
     },
@@ -2662,6 +2667,7 @@
       "rewardItem" : null,
       "secretSlot" : 6,
       "style" : "hiddenquest",
+      "secretLetter": "6",
       "title" : "#6",
       "unboxItem" : null,
       "unlockAnimation" : "specialEventReveal"
