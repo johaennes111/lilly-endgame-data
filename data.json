@@ -21,7 +21,8 @@
         }
       ],
       "title" : "show me",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "unlockAnimation" : "specialEventReveal"
     },
     {
       "code" : "w8njaft",
@@ -2575,7 +2576,21 @@
       "style" : "specialEvent",
       "title" : "Ciceros Erbin",
       "unboxItem" : null,
-      "unlockAnimation" : "specialEventReveal"
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "111",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 10,
+      "rewardItem" : null,
+      "style" : "friendsandfamily",
+      "title" : "",
+      "unboxItem" : null,
+      "unlockAnimation" : "pixelStorm"
     }
   ],
   "shopItems" : [
