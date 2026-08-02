@@ -21,8 +21,7 @@
         }
       ],
       "title" : "show me",
-      "unboxItem" : null,
-      "unlockAnimation" : "specialEventReveal"
+      "unboxItem" : null
     },
     {
       "code" : "w8njaft",
@@ -2576,35 +2575,96 @@
       "style" : "specialEvent",
       "title" : "Ciceros Erbin",
       "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unlockAnimation" : "vaultReveal"
     },
     {
-      "code" : "111",
+      "code" : "4zjwrjv",
       "condition" : null,
       "description" : "",
       "emoji" : "🎯",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
-      "style" : "friendsandfamily",
-      "title" : "",
+      "secretSlot" : 1,
+      "style" : "hiddenquest",
+      "title" : "#1",
       "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unlockAnimation" : "vaultReveal"
     },
     {
-      "code" : "22",
+      "code" : "uoah7or",
       "condition" : null,
       "description" : "",
       "emoji" : "🎯",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
+      "points" : 10,
+      "rewardItem" : null,
+      "secretSlot" : 2,
+      "style" : "hiddenquest",
+      "title" : "#2",
+      "unboxItem" : null,
+      "unlockAnimation" : "specialEventReveal"
+    },
+    {
+      "code" : "z32pham",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "hiddenquest",
-      "title" : "",
+      "title" : "#3",
       "unboxItem" : null,
-      "unlockAnimation" : "vaultReveal"
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "uos3tyj",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 10,
+      "rewardItem" : null,
+      "secretSlot" : 4,
+      "style" : "hiddenquest",
+      "title" : "#4",
+      "unboxItem" : null,
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "oe7vsqh",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 10,
+      "rewardItem" : null,
+      "secretSlot" : 5,
+      "style" : "hiddenquest",
+      "title" : "#5",
+      "unboxItem" : null,
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "ytsahpd",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 10,
+      "rewardItem" : null,
+      "secretSlot" : 6,
+      "style" : "hiddenquest",
+      "title" : "#6",
+      "unboxItem" : null,
+      "unlockAnimation" : "specialEventReveal"
     }
   ],
   "shopItems" : [
