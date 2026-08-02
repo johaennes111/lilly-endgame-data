@@ -2607,7 +2607,7 @@
       "style" : "hiddenquest",
       "title" : "#2",
       "unboxItem" : null,
-      "unlockAnimation" : "specialEventReveal"
+      "unlockAnimation" : "vaultReveal"
     },
     {
       "code" : "z32pham",
@@ -2622,7 +2622,7 @@
       "title" : "#3",
       "secretLetter": "L",
       "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unlockAnimation" : "vaultReveal"
     },
     {
       "code" : "uos3tyj",
@@ -2638,7 +2638,7 @@
       "title" : "#4",
       "secretLetter": "P",
       "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unlockAnimation" : "vaultReveal"
     },
     {
       "code" : "oe7vsqh",
@@ -2654,7 +2654,7 @@
       "title" : "#5",
       "secretLetter": "P",
       "unboxItem" : null,
-      "unlockAnimation" : "card"
+      "unlockAnimation" : "vaultReveal"
     },
     {
       "code" : "ytsahpd",
@@ -2670,7 +2670,7 @@
       "secretLetter": "6",
       "title" : "#6",
       "unboxItem" : null,
-      "unlockAnimation" : "specialEventReveal"
+      "unlockAnimation" : "vaultReveal"
     }
   ],
   "shopItems" : [
