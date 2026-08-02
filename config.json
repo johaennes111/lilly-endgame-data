@@ -7,3 +7,16 @@
     { "minPoints": 0   }
   ]
 }
+
+
+
+{
+  "seasonStartDate": "2026-03-06",
+  "yearlyRanks": [
+    { "minPoints": 1400 },
+    { "minPoints": 800  },
+    { "minPoints": 606  },
+    { "minPoints": 450  },
+    { "minPoints": 0    }
+  ]
+}
