@@ -2291,7 +2291,7 @@
       "code" : "rhqkznv",
       "condition" : null,
       "description" : "ein Cola-Sorten-Blind-Verkostungs-Ranking\nGäste sind gerne willkommen!\n(Wasser Gläser nicht vergessen)\n\n1. Probiere alle Colas und erstelle ein Offenes Ranking\n2. Augen zu, probiere alle Colas und erstelle ein Blindes Ranking\n\nim Anschluss: Es gibt Zusatzpunkte pro Richtig erkannte Cola-Marke im Blinden Ranking",
-      "emoji" : "🎯",
+      "emoji" : "🫗",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 5,
@@ -2332,6 +2332,7 @@
       "condition" : null,
       "description" : "Simpel: Schließe 14x Tage lang am Stück deine Apple-Watch Ringe",
       "emoji" : "🎯",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/og__bb3dc50gux7m.png",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 10,
@@ -2380,7 +2381,8 @@
       "rewardItem" : "S9X",
       "style" : "standard",
       "title" : "Willkommen im Leben",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "unlockAnimation" : "specialEventReveal"
     },
     {
       "code" : "c1v78z9",
@@ -2503,14 +2505,14 @@
     {
       "code" : "n9llz05",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "geh mit johannes in eine skybar!",
+      "emoji" : "🍸",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
-      "title" : "9",
+      "title" : "wow",
       "unboxItem" : null
     },
     {
