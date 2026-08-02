@@ -2095,7 +2095,7 @@
       "description" : "Singe Johannes ein Lied zum einschlafen",
       "emoji" : "🎶",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 5,
       "rewardItem" : null,
       "style" : "standard",
@@ -2108,7 +2108,7 @@
       "description" : "Wirf einen Dart Pfeil auf eine Europakarte!\nIn dem Land, in dem er landet, fahren wir hin",
       "emoji" : "🇪🇺",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 20,
       "rewardItem" : null,
       "style" : "adventure",
@@ -2141,7 +2141,7 @@
       "description" : "",
       "emoji" : "🧐",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "specialEvent",
@@ -2156,7 +2156,7 @@
       "description" : "Simpel: Iss eine Rohe Zwiebel\n(min. 200g)",
       "emoji" : "🧅",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 5,
       "rewardItem" : null,
       "style" : "standard",
@@ -2193,12 +2193,13 @@
       "unlockAnimation" : "card"
     },
     {
+      "activeDays" : 600,
       "code" : "02h4ujw",
       "condition" : null,
       "description" : "Baue (wenn möglich) zusammen mit deinem Papa einen Regen-Stab!",
       "emoji" : "☔️",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 15,
       "rewardItem" : null,
       "style" : "creative",
@@ -2218,7 +2219,7 @@
       "description" : "Finde heraus, was deine Mama noch nie in ihrem Leben gemacht hat, aber schon immer mal gerne machen wollte - und mach es möglich!",
       "emoji" : "ℳ",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
@@ -2231,7 +2232,7 @@
       "description" : "Suche dir ein Thema raus und erstelle + halte eine 20min Präsentation darüber!\nJe mehr Leute dir zuhören, desto mehr Punkte bekommst du!\n\nP.S. es muss eine eigene Präsenation sein, Uni-Präsis etc. zählen nicht",
       "emoji" : "🙊",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 5,
       "rewardItem" : null,
       "style" : "standard",
@@ -2279,7 +2280,7 @@
       "emoji" : "",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/zigaraimage.png",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 120,
       "rewardItem" : null,
       "style" : "standard",
@@ -2293,7 +2294,7 @@
       "description" : "ein Cola-Sorten-Blind-Verkostungs-Ranking\nGäste sind gerne willkommen!\n(Wasser Gläser nicht vergessen)\n\n1. Probiere alle Colas und erstelle ein Offenes Ranking\n2. Augen zu, probiere alle Colas und erstelle ein Blindes Ranking\n\nim Anschluss: Es gibt Zusatzpunkte pro Richtig erkannte Cola-Marke im Blinden Ranking",
       "emoji" : "🫗",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 5,
       "rewardItem" : null,
       "style" : "standard",
@@ -2334,7 +2335,7 @@
       "emoji" : "🎯",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/og__bb3dc50gux7m.png",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "streakType" : "daily",
@@ -2350,7 +2351,7 @@
       "description" : "male 2x Schöne kleine Bilder",
       "emoji" : "🎨",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 5,
       "rewardItem" : null,
       "style" : "standard",
@@ -2363,7 +2364,7 @@
       "description" : "Verbringe selbstständig geplant mindentens 2h mit Madlaine \nz.B. einen Kaffee trinken, …\n\nfür Paul 🙊😘",
       "emoji" : "😈",
       "isLocked" : true,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 5,
       "rewardItem" : null,
       "style" : "standard",
@@ -2371,6 +2372,7 @@
       "unboxItem" : null
     },
     {
+      "activeDays" : 365,
       "code" : "2o7wqv9",
       "condition" : null,
       "description" : "triff einen neuen Mensch (unter 1 Jahr alt)",
@@ -2381,8 +2383,7 @@
       "rewardItem" : "S9X",
       "style" : "standard",
       "title" : "Willkommen im Leben",
-      "unboxItem" : null,
-      "unlockAnimation" : "specialEventReveal"
+      "unboxItem" : null
     },
     {
       "code" : "c1v78z9",
@@ -2390,7 +2391,7 @@
       "description" : "Finde die 3x Ort auf den Bildern, suche sie auf und stelle die Bilder nach (Winkel, Motiv, etc.)\nPro geschafftes Bild 5x Punkte",
       "emoji" : "🤳🏿",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "adventure",
@@ -2414,14 +2415,14 @@
     {
       "code" : "soy8pa3",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "simpel: ich mit dir in den wald und du musst 3x pflanzen (ich zeige sie dir) ohne elektrische beistand finden! MIT EINEM BUCH vielleicht?",
+      "emoji" : "🌿",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
-      "title" : "2",
+      "title" : "Humbuld",
       "unboxItem" : null
     },
     {
@@ -2477,32 +2478,41 @@
       "unboxItem" : null
     },
     {
+      "activeDays" : 60,
       "code" : "74o4zzc",
       "condition" : null,
-      "description" : "",
+      "description" : "Wir gehen irgendwo eine echte Runde Dartspielen!",
       "emoji" : "🎯",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
-      "title" : "7",
+      "title" : "ne runde darts?",
       "unboxItem" : null
     },
     {
+      "activeDays" : 30,
       "code" : "gc699ff",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "baue 5 kleine Schilder als „reallife“ Emojis die mit unseren besten „Gesprächsinsidern“ wie zb Ad hominem! die man(n) dann in der richtigen Situation hochhalten kann! ",
+      "emoji" : "🫶🏼",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
-      "title" : "8",
+      "subTasks" : [
+        {
+          "points" : 10,
+          "title" : "erstelle das ganze auch als cleane Sticker auf iMessages!"
+        }
+      ],
+      "title" : "ad hominem",
       "unboxItem" : null
     },
     {
+      "activeDays" : 90,
       "code" : "n9llz05",
       "condition" : null,
       "description" : "geh mit johannes in eine skybar!",
@@ -2516,16 +2526,27 @@
       "unboxItem" : null
     },
     {
+      "activeDays" : 100,
       "code" : "xswuzrg",
-      "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "condition" : "Ist es gerade NICHT zu kalt für draußen nass werden?",
+      "description" : "Baue eine kleines „schiffartiges“ Gefährt, setzte es auf einen Fluss - zb Brunis-Aach oder Neckar und hoffe, dass es nicht unter geht!",
+      "emoji" : "🚢",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
-      "title" : "10",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "baue und schicke zwei kleine Mini-rose und jack und schick sie mit deinem Schiff mit !"
+        },
+        {
+          "points" : 5,
+          "title" : "5min nicht untergehen"
+        }
+      ],
+      "title" : "Titanic",
       "unboxItem" : null
     },
     {
