@@ -2590,7 +2590,21 @@
       "style" : "friendsandfamily",
       "title" : "",
       "unboxItem" : null,
-      "unlockAnimation" : "pixelStorm"
+      "unlockAnimation" : "card"
+    },
+    {
+      "code" : "22",
+      "condition" : null,
+      "description" : "",
+      "emoji" : "🎯",
+      "isLocked" : null,
+      "isProduced" : false,
+      "points" : 10,
+      "rewardItem" : null,
+      "style" : "hiddenquest",
+      "title" : "",
+      "unboxItem" : null,
+      "unlockAnimation" : "vaultReveal"
     }
   ],
   "shopItems" : [
