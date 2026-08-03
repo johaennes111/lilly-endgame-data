@@ -1,12 +1,152 @@
-
-
 {
-  "seasonStartDate": "2026-03-06",
-  "yearlyRanks": [
-    { "minPoints": 1400 },
-    { "minPoints": 800  },
-    { "minPoints": 606  },
-    { "minPoints": 450  },
-    { "minPoints": 0    }
+  "event" : {
+    "end" : "2026-09-15",
+    "finaleText" : "gut gemacht Engel!",
+    "id" : "summer-of-pain",
+    "start" : "2025-08-03",
+    "stations" : [
+      {
+        "code" : "4tdkt",
+        "nr" : 1,
+        "points" : 5,
+        "task" : "Jede gute Reise beginnt in einenm Hafen! \nDeine Aufgabe für heute: \nFinde herraus, was der größte Hafen der Welt ist (und ezähle es Johannes!)",
+        "title" : "Der Hafen"
+      },
+      {
+        "code" : "kzd6c",
+        "nr" : 2,
+        "points" : 5,
+        "task" : "Was würdest du mitbringen auf eine Reise um die Welt?\n5 Dinge!",
+        "title" : "Die Vorbereitung"
+      },
+      {
+        "code" : "gfun4",
+        "nr" : 3,
+        "points" : 5,
+        "task" : "Baue eine Papierschiff aus min. 2 DIN4 Blättern",
+        "title" : "Das Schiff"
+      },
+      {
+        "code" : "s432n",
+        "nr" : 4,
+        "points" : 5,
+        "task" : "Benne dein Schiff und schreibe den Namen drauf",
+        "title" : "Der Name"
+      },
+      {
+        "code" : "pttb2",
+        "nr" : 5,
+        "points" : 5,
+        "task" : "Bastel\/Male\/Designe dir eine passende Pirat*_InnEn Flagge und baue sie an dein Schiff",
+        "title" : "Die Flagge"
+      },
+      {
+        "code" : "gauwu",
+        "nr" : 6,
+        "points" : 5,
+        "task" : "Finde 2 Crew Mitglieder!",
+        "title" : "Die Crew"
+      },
+      {
+        "code" : "ndpj7",
+        "emoji" : "🪎",
+        "isMajor" : true,
+        "nr" : 7,
+        "points" : 5,
+        "task" : "BREAKING NEWS: Es wurde wohl ein erster Teil der Schatzkarte gefunden! Geben den Preis von 5 Bussis wirst du ihn bekommen:",
+        "title" : "Das Ziel"
+      },
+      {
+        "code" : "z3cyu",
+        "nr" : 8,
+        "points" : 5,
+        "task" : "Du landest auf einer bewohnten Insel voller Bäume-Liebhaber!\n\nUm ihre Sympathienen zu gewinnen, musst du einen Baum umarmen!",
+        "title" : "Die Insel der Bäume!"
+      },
+      {
+        "code" : "4xdfu",
+        "nr" : 9,
+        "points" : 5,
+        "task" : "die See ist ruhig! \nDamit du trozdem in Form bleibst, mache 5 Liegestützen!",
+        "title" : "Auf Hoher See"
+      },
+      {
+        "code" : "85z9b",
+        "nr" : 10,
+        "points" : 5,
+        "task" : "die See ist ruhig! \nHeute steht Deckschruben auf der Agenda; putze das Mac-Display von dir und Johanes",
+        "title" : "Auf Hoher See"
+      },
+      {
+        "code" : "txyvh",
+        "nr" : 11,
+        "points" : 5,
+        "task" : "Du landest auf einer bewohnten Insel voller Veganer!\n\nUm ihre Sympathienen zu gewinnen, musst du morgen ganz Vegan leben (00:00 - 24:00) !",
+        "title" : "Die Insel der Veganer!"
+      },
+      {
+        "code" : "t7u6h",
+        "nr" : 12,
+        "points" : 5,
+        "task" : "die See ist unruhig! \nAber du bist der Captain, dass Problem draußen ist nicht dein Problem, du machst es dir in deiner Captains-Cahüte entspannt. Freier Tag an Board 😎!\n\n Mach dir einen leckerern Drink (Drink = min. 7 Zutaten)",
+        "title" : "Auf Hoher See"
+      },
+      {
+        "code" : "by7n9",
+        "nr" : 13,
+        "points" : 5,
+        "task" : "Du landest auf einer unbewohnten Insel voller Vögel!\n\nDeine Mission ist auch ein Dienst im Auftrag der Forschung!\nMache daher heute ein Bild (Handy oder Kamera) von einem Vogel",
+        "title" : "Die Insel der Vögel"
+      },
+      {
+        "code" : "7au4e",
+        "nr" : 14,
+        "points" : 5,
+        "task" : "Du bist immer noch auf der Insel der Vögel!\n\nNach dem du gestern ein Bild gemacht hast, must du heute einen Vogel anhand seines Gesangs erkennen",
+        "title" : "Die Insel der Vögel 2"
+      },
+      {
+        "code" : "zt89d",
+        "nr" : 15,
+        "points" : 5,
+        "task" : "Du bist immer noch auf der Insel der Vögel!\nDa stimmt doch was nicht? Warum sind wir noch nicht weiter gefahren?\n\nDeine Crew meint, dass es einen GEIST auf dem Schiff gibt!\nDu musst ihn vertreiben Captain!\n\nFühre dafür einen Geister-Enttreibungs-Tanz auf!",
+        "title" : "Die Insel der Vögel 3"
+      },
+      {
+        "code" : "s394y",
+        "isMajor" : true,
+        "nr" : 16,
+        "points" : 5,
+        "task" : "die See ist ruhig! \n\nZum Danlk für deine Profissionale Geistervertreibung hat die Crew ein Geschenk für dich…",
+        "title" : "Auf Hoher See"
+      },
+      {
+        "code" : "f35fa",
+        "nr" : 17,
+        "points" : 5,
+        "task" : "die See ist ruhig! \nHeute steht Sport auf der Agenda; mache einen Handstand (gerne mit Hilfe und Hände)",
+        "title" : "Auf Hoher See"
+      }
+    ],
+    "subtitle" : "Sechs Wochen. Eine Reise. Viele Freunde. Und am meisten Liebe.",
+    "title" : "Summer of Pain"
+  },
+  "seasonStartDate" : "2026-03-06",
+  "yearlyRanks" : [
+    {
+      "minPoints" : 1400
+    },
+    {
+      "minPoints" : 800
+    },
+    {
+      "minPoints" : 606
+    },
+    {
+      "minPoints" : 450
+    },
+    {
+      "minPoints" : 0
+    }
   ]
 }
