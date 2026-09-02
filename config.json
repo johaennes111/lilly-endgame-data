@@ -7,39 +7,39 @@
     "stations" : [
       {
         "code" : "4tdkt",
-        "emoji" : "‚öìÔ∏è",
+        "emoji" : "⚓️",
         "nr" : 1,
         "points" : 5,
-        "task" : "Jede gute Reise beginnt in einenm Hafen! \nDeine Aufgabe f√ºr heute: \nFinde herraus, was der gr√∂√üte Hafen der Welt ist (und ez√§hle es Johannes!)",
+        "task" : "Jede gute Reise beginnt in einenm Hafen! \nDeine Aufgabe für heute: \nFinde herraus, was der größte Hafen der Welt ist (und ezähle es Johannes!)",
         "title" : "Der Hafen"
       },
       {
         "code" : "kzd6c",
-        "emoji" : "‚öìÔ∏è",
+        "emoji" : "⚓️",
         "nr" : 2,
         "points" : 5,
-        "task" : "Was w√ºrdest du mitbringen auf eine Reise um die Welt?\n5 Dinge!",
+        "task" : "Was würdest du mitbringen auf eine Reise um die Welt?\n5 Dinge!",
         "title" : "Die Vorbereitung"
       },
       {
         "code" : "s8u5y",
-        "emoji" : "üëí",
+        "emoji" : "👒",
         "nr" : 3,
         "points" : 5,
-        "task" : "Du wirst auf dieser Reise der Captain auf dem Schiff sein.\nUnd was braucht jeder gute Captain?\nRichtig ‚Üí einen Captain Hut!\n\nBetimmte daher keinen Captain Hut",
+        "task" : "Du wirst auf dieser Reise der Captain auf dem Schiff sein.\nUnd was braucht jeder gute Captain?\nRichtig → einen Captain Hut!\n\nBetimmte daher keinen Captain Hut",
         "title" : "Die Captain"
       },
       {
         "code" : "gfun4",
-        "emoji" : "‚õ¥Ô∏è",
+        "emoji" : "⛴️",
         "nr" : 4,
         "points" : 5,
-        "task" : "Baue eine Papierschiff aus min. 2 DIN4 Bl√§ttern",
+        "task" : "Baue eine Papierschiff aus min. 2 DIN4 Blättern",
         "title" : "Das Schiff"
       },
       {
         "code" : "s432n",
-        "emoji" : "‚õ¥Ô∏è",
+        "emoji" : "⛴️",
         "nr" : 5,
         "points" : 5,
         "task" : "Benne dein Schiff und schreibe den Namen drauf",
@@ -47,7 +47,7 @@
       },
       {
         "code" : "pttb2",
-        "emoji" : "üè¥‚Äç‚ò†Ô∏è",
+        "emoji" : "🏴‍☠️",
         "nr" : 6,
         "points" : 5,
         "task" : "Bastel\/Male\/Designe dir eine passende Pirat*_InnEn Flagge und baue sie an dein Schiff",
@@ -55,7 +55,7 @@
       },
       {
         "code" : "gauwu",
-        "emoji" : "‚õ¥Ô∏è",
+        "emoji" : "⛴️",
         "nr" : 7,
         "points" : 5,
         "task" : "Finde 2 Crew Mitglieder!",
@@ -63,7 +63,7 @@
       },
       {
         "code" : "ndpj7",
-        "emoji" : "ü™é",
+        "emoji" : "🪎",
         "isMajor" : true,
         "nr" : 8,
         "points" : 5,
@@ -72,31 +72,31 @@
       },
       {
         "code" : "z3cyu",
-        "emoji" : "üå≥",
+        "emoji" : "🌳",
         "nr" : 9,
         "points" : 5,
-        "task" : "Du landest auf einer bewohnten Insel voller B√§ume-Liebhaber!\n\nUm ihre Sympathienen zu gewinnen, musst du einen Baum umarmen!",
-        "title" : "Die Insel der B√§ume!"
+        "task" : "Du landest auf einer bewohnten Insel voller Bäume-Liebhaber!\n\nUm ihre Sympathienen zu gewinnen, musst du einen Baum umarmen!",
+        "title" : "Die Insel der Bäume!"
       },
       {
         "code" : "4xdfu",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 10,
         "points" : 5,
-        "task" : "die See ist ruhig! \nDamit du trozdem in Form bleibst, mache 5 Liegest√ºtzen!",
+        "task" : "die See ist ruhig! \nDamit du trozdem in Form bleibst, mache 5 Liegestützen!",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "e87t4",
-        "emoji" : "‚öîÔ∏è",
+        "emoji" : "⚔️",
         "nr" : 11,
         "points" : 5,
-        "task" : "Captain: Look!\n\nA ship!!! \n\nK√§mpfe einen Kampf mit den Franzosen‚Ä¶ (Franzosen ist das Stichwort zu Johannes)",
+        "task" : "Captain: Look!\n\nA ship!!! \n\nKämpfe einen Kampf mit den Franzosen… (Franzosen ist das Stichwort zu Johannes)",
         "title" : "EIN KAMPF"
       },
       {
         "code" : "85z9b",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 12,
         "points" : 5,
         "task" : "die See ist ruhig! \nHeute steht Deckschruben auf der Agenda; putze das Mac-Display von dir und Johanes",
@@ -104,7 +104,7 @@
       },
       {
         "code" : "txyvh",
-        "emoji" : "ü•¶",
+        "emoji" : "🥦",
         "nr" : 13,
         "points" : 5,
         "task" : "Du landest auf einer bewohnten Insel voller Veganer!\n\nUm ihre Sympathienen zu gewinnen, musst du morgen ganz Vegan leben (00:00 - 24:00) !",
@@ -112,80 +112,80 @@
       },
       {
         "code" : "t7u6h",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 14,
         "points" : 5,
-        "task" : "die See ist unruhig! \nAber du bist der Captain, dass Problem drau√üen ist nicht dein Problem, du machst es dir in deiner Captains-Cah√ºte entspannt. Freier Tag an Board üòé!\n\n Mach dir einen leckerern Drink (Drink = min. 7 Zutaten)",
+        "task" : "die See ist unruhig! \nAber du bist der Captain, dass Problem draußen ist nicht dein Problem, du machst es dir in deiner Captains-Cahüte entspannt. Freier Tag an Board 😎!\n\n Mach dir einen leckerern Drink (Drink = min. 7 Zutaten)",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "by7n9",
-        "emoji" : "ü¶Ö",
+        "emoji" : "🦅",
         "nr" : 15,
         "points" : 5,
-        "task" : "Du landest auf einer unbewohnten Insel voller V√∂gel!\n\nDeine Mission ist auch ein Dienst im Auftrag der Forschung!\nMache daher heute ein Bild (Handy oder Kamera) von einem Vogel",
-        "title" : "Die Insel der V√∂gel"
+        "task" : "Du landest auf einer unbewohnten Insel voller Vögel!\n\nDeine Mission ist auch ein Dienst im Auftrag der Forschung!\nMache daher heute ein Bild (Handy oder Kamera) von einem Vogel",
+        "title" : "Die Insel der Vögel"
       },
       {
         "code" : "7au4e",
-        "emoji" : "ü¶Ö",
+        "emoji" : "🦅",
         "nr" : 16,
         "points" : 5,
-        "task" : "Du bist immer noch auf der Insel der V√∂gel!\n\nNach dem du gestern ein Bild gemacht hast, must du heute einen Vogel anhand seines Gesangs erkennen",
-        "title" : "Die Insel der V√∂gel 2"
+        "task" : "Du bist immer noch auf der Insel der Vögel!\n\nNach dem du gestern ein Bild gemacht hast, must du heute einen Vogel anhand seines Gesangs erkennen",
+        "title" : "Die Insel der Vögel 2"
       },
       {
         "code" : "zt89d",
-        "emoji" : "ü¶Ö",
+        "emoji" : "🦅",
         "nr" : 17,
         "points" : 5,
-        "task" : "Du bist immer noch auf der Insel der V√∂gel!\nDa stimmt doch was nicht? Warum sind wir noch nicht weiter gefahren?\n\nDeine Crew meint, dass es einen GEIST auf dem Schiff gibt!\nDu musst ihn vertreiben Captain!\n\nF√ºhre daf√ºr einen Geister-Enttreibungs-Tanz auf!",
-        "title" : "Die Insel der V√∂gel 3"
+        "task" : "Du bist immer noch auf der Insel der Vögel!\nDa stimmt doch was nicht? Warum sind wir noch nicht weiter gefahren?\n\nDeine Crew meint, dass es einen GEIST auf dem Schiff gibt!\nDu musst ihn vertreiben Captain!\n\nFühre dafür einen Geister-Enttreibungs-Tanz auf!",
+        "title" : "Die Insel der Vögel 3"
       },
       {
         "code" : "s394y",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "isMajor" : true,
         "nr" : 18,
         "points" : 5,
-        "task" : "die See ist ruhig! \n\nZum Danlk f√ºr deine Profissionale Geistervertreibung hat die Crew ein Geschenk f√ºr dich‚Ä¶",
+        "task" : "die See ist ruhig! \n\nZum Danlk für deine Profissionale Geistervertreibung hat die Crew ein Geschenk für dich…",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "f35fa",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 19,
         "points" : 5,
-        "task" : "die See ist ruhig! \nHeute steht Sport auf der Agenda; mache einen Handstand (gerne mit Hilfe und H√§nde)",
+        "task" : "die See ist ruhig! \nHeute steht Sport auf der Agenda; mache einen Handstand (gerne mit Hilfe und Hände)",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "5auft",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 20,
         "points" : 5,
-        "task" : "die See ist ruhig! \nHeute steht L√§cheln auf der Agenda; L√§chel einfach Johannes an ",
+        "task" : "die See ist ruhig! \nHeute steht Lächeln auf der Agenda; Lächel einfach Johannes an ",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "xw8k2",
-        "emoji" : "‚öîÔ∏è",
+        "emoji" : "⚔️",
         "nr" : 21,
         "points" : 5,
-        "task" : "Captain: Look!\n\nA ship!!! \n\nK√§mpfe einen Kampf mit den Spanierern‚Ä¶ (Spanien ist das Stichwort zu Johannes)",
+        "task" : "Captain: Look!\n\nA ship!!! \n\nKämpfe einen Kampf mit den Spanierern… (Spanien ist das Stichwort zu Johannes)",
         "title" : "EIN KAMPF"
       },
       {
         "code" : "vnpmc",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 22,
         "points" : 5,
-        "task" : "die See ist ruhig! \nAber unsere Ressourcen werden knapp.. der Kampf gestern hat unsere ALLE Metall-Gegenst√§nde als Munition gekostet.\n\nDaher ist deine heutige Aufgabe ‚Ä¶ 24h (ab jetzt) ohne Besteck essen :) (alles au√üer Teller ist nicht erlaubt)",
+        "task" : "die See ist ruhig! \nAber unsere Ressourcen werden knapp.. der Kampf gestern hat unsere ALLE Metall-Gegenstände als Munition gekostet.\n\nDaher ist deine heutige Aufgabe … 24h (ab jetzt) ohne Besteck essen :) (alles außer Teller ist nicht erlaubt)",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "z3ceh",
-        "emoji" : "üå¥",
+        "emoji" : "🌴",
         "nr" : 23,
         "points" : 5,
         "task" : "Du landest auf einer unbewohnten Insel voller Palmen!\n\nSuche eine Palma und mach ein Selfi",
@@ -193,24 +193,24 @@
       },
       {
         "code" : "g5tmy",
-        "emoji" : "üå¥",
+        "emoji" : "🌴",
         "isMajor" : true,
         "nr" : 24,
         "points" : 5,
-        "task" : "Dir ist im Laufe des Tages gestern eingefallen, dass gestern bei der Palma etwas nicht gestimmt war.. iregendwas ist dir aufgefallen‚Ä¶ das Gef√ºhl von GOLD!\n\nSchau am besten nochmal zu der Palma von gestern",
+        "task" : "Dir ist im Laufe des Tages gestern eingefallen, dass gestern bei der Palma etwas nicht gestimmt war.. iregendwas ist dir aufgefallen… das Gefühl von GOLD!\n\nSchau am besten nochmal zu der Palma von gestern",
         "title" : "Die Insel der Palmen!"
       },
       {
         "code" : "9azwn",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 25,
         "points" : 5,
-        "task" : "die See ist ruhig! \nAls Captain bist du auch f√ºr deine Crew zust√§ndig, mach heute daher 5 Selfi mit Menschen, die du magst",
+        "task" : "die See ist ruhig! \nAls Captain bist du auch für deine Crew zuständig, mach heute daher 5 Selfi mit Menschen, die du magst",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "sb9ap",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 26,
         "points" : 5,
         "task" : "die See ist ruhig! \nDa du so ein cooler Captain bist, kam deine Aktion gestern super an! \nJedoch sind die Crew-Mitglieder, mit denen du gestern keine Bilder gemachst hast, super traurig - mach daher heute 5 mit anderen Menschen gemeinsame Selfis !",
@@ -218,23 +218,23 @@
       },
       {
         "code" : "vvwgq",
-        "emoji" : "üßë‚Äçü§ù‚Äçüßë",
+        "emoji" : "🧑‍🤝‍🧑",
         "nr" : 27,
         "points" : 5,
-        "task" : "Du landest auf einer bewohnten Insel - deiner Gro√üeltern!\n\nFeier mit ihnen ihre goldene Hochzeit und sage liebe Gr√º√üe",
+        "task" : "Du landest auf einer bewohnten Insel - deiner Großeltern!\n\nFeier mit ihnen ihre goldene Hochzeit und sage liebe Grüße",
         "title" : "Die Insel der Feier"
       },
       {
         "code" : "7jfkx",
-        "emoji" : "üö∞",
+        "emoji" : "🚰",
         "nr" : 28,
         "points" : 5,
-        "task" : "Du landest auf einer unbewohnten Insel mit einer wundersch√∂nen Quelle!\n\nTrinke ein sch√∂n gek√ºhltes Wasserklasse!",
+        "task" : "Du landest auf einer unbewohnten Insel mit einer wunderschönen Quelle!\n\nTrinke ein schön gekühltes Wasserklasse!",
         "title" : "Die Insel der Quellen!"
       },
       {
         "code" : "wcxmq",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 29,
         "points" : 5,
         "task" : "die See ist ruhig! \n\nAber was ist das im Wasser? Ein Eisberg!\n\nIss heute ein Eis!",
@@ -242,48 +242,48 @@
       },
       {
         "code" : "s7vcz",
-        "emoji" : "üå∏",
+        "emoji" : "🌸",
         "nr" : 30,
         "points" : 5,
-        "task" : "Du landest auf einer unbewohnten Insel voller Blumen!\n\nFl√ºck dir einen kleinen Blumenstrau√ü und schenke ihn jemanden",
+        "task" : "Du landest auf einer unbewohnten Insel voller Blumen!\n\nFlück dir einen kleinen Blumenstrauß und schenke ihn jemanden",
         "title" : "Die Insel der Blumen!"
       },
       {
         "code" : "7hbrm",
-        "emoji" : "‚öîÔ∏è",
+        "emoji" : "⚔️",
         "isMajor" : true,
         "nr" : 31,
         "points" : 5,
-        "task" : "Captain: Look!\n\nA ship!!! \n\nK√§mpfe einen Kampf mit den Schweizern‚Ä¶ (Schweiz ist das Stichwort zu Johannes)\n(die ber√ºhmte Schweizer Flotte)",
+        "task" : "Captain: Look!\n\nA ship!!! \n\nKämpfe einen Kampf mit den Schweizern… (Schweiz ist das Stichwort zu Johannes)\n(die berühmte Schweizer Flotte)",
         "title" : "EIN KAMPF"
       },
       {
         "code" : "t3968",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 32,
         "points" : 5,
-        "task" : "die See ist ruhig! \n\nDu als Captain erz√§hlst deiner Crew einen Witz!",
+        "task" : "die See ist ruhig! \n\nDu als Captain erzählst deiner Crew einen Witz!",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "ybfcn",
-        "emoji" : "üå≠",
+        "emoji" : "🌭",
         "nr" : 33,
         "points" : 5,
-        "task" : "Du landest auf einer bewohnten Insel voller Salamie-Essern!\n\nDa zwar dein Ehemann total dagegen ist, dass du Salmis ist und du ihn so lieb hast und deswegen keine Salamis mehr isst, aber die Salamie-Esser-Indianer dir mit dem Tod drohen, musst du ihnen versprechen, dass du von deinem Ehmann einen Salami-Gutschein organisierst‚Ä¶ auch wenn das das super schwer wird‚Ä¶",
+        "task" : "Du landest auf einer bewohnten Insel voller Salamie-Essern!\n\nDa zwar dein Ehemann total dagegen ist, dass du Salmis ist und du ihn so lieb hast und deswegen keine Salamis mehr isst, aber die Salamie-Esser-Indianer dir mit dem Tod drohen, musst du ihnen versprechen, dass du von deinem Ehmann einen Salami-Gutschein organisierst… auch wenn das das super schwer wird…",
         "title" : "Die Insel der Salamianer!"
       },
       {
         "code" : "rv7sv",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 34,
         "points" : 5,
-        "task" : "die See ist ruhig! \n\nGesundern√§hrung auf Hoher See ist super wichtig - als Captain gehst du mit gutem Vorbild voran und ist eine Frucht",
+        "task" : "die See ist ruhig! \n\nGesundernährung auf Hoher See ist super wichtig - als Captain gehst du mit gutem Vorbild voran und ist eine Frucht",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "eksq6",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 35,
         "points" : 5,
         "task" : "die See ist ruhig! \n\nGenug trinken auf Hoher See ist auch super wichtig - als Captain gehst du auch hier mit gutem Vorbild voran und trinkst heute min. 3,5 Liter! \n\nWow, wie oft musst Du heute wohl aufs Klo?",
@@ -291,23 +291,23 @@
       },
       {
         "code" : "fgusj",
-        "emoji" : "üéÖüèª",
+        "emoji" : "🎅🏻",
         "nr" : 36,
         "points" : 5,
-        "task" : "Du landest auf einer bewohnten Insel - Naja was hei√üt bewohnt, es gibt einen Bewohner:\n\nDen Nikolaus!\n\nLeider is aber sein Haus geschmolzen (leider ist es ja aus Eis), daher braucht er schnell ein neues Haus.\nMale ihm also schnell sein Haus!",
+        "task" : "Du landest auf einer bewohnten Insel - Naja was heißt bewohnt, es gibt einen Bewohner:\n\nDen Nikolaus!\n\nLeider is aber sein Haus geschmolzen (leider ist es ja aus Eis), daher braucht er schnell ein neues Haus.\nMale ihm also schnell sein Haus!",
         "title" : "Die Insel des Nikolaus"
       },
       {
         "code" : "dxsr9",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 37,
         "points" : 5,
-        "task" : "die See ist unruhig! \n\nDaher rufst du heute jemanden an, mit dem du schon l√§nger mal wieder quatschen wolltest",
+        "task" : "die See ist unruhig! \n\nDaher rufst du heute jemanden an, mit dem du schon länger mal wieder quatschen wolltest",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "jmags",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 38,
         "points" : 5,
         "task" : "die See ist ruhig! \n\nGehe zu Johannes und gebe ihm ein Bussi",
@@ -315,24 +315,24 @@
       },
       {
         "code" : "en3be",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 39,
         "points" : 5,
-        "task" : "die See ist ruhig! \n\naber es hat sich ein Schiff angek√ºnidgt; bereite dich auf einen Kampf vor!",
+        "task" : "die See ist ruhig! \n\naber es hat sich ein Schiff angekünidgt; bereite dich auf einen Kampf vor!",
         "title" : "Auf Hoher See"
       },
       {
         "code" : "afax2",
-        "emoji" : "‚öîÔ∏è",
+        "emoji" : "⚔️",
         "isMajor" : true,
         "nr" : 40,
         "points" : 5,
-        "task" : "Captain: Look!\n\nA ship!!! \n\nK√§mpfe einen Kampf mit den R√ñMERN!!!!!!!!!!",
+        "task" : "Captain: Look!\n\nA ship!!! \n\nKämpfe einen Kampf mit den RÖMERN!!!!!!!!!!",
         "title" : "EIN KAMPF"
       },
       {
         "code" : "5k8va",
-        "emoji" : "üåä",
+        "emoji" : "🌊",
         "nr" : 41,
         "points" : 5,
         "task" : "ohne Worte; ruhe dich aus von dem Kampf gestern!",
@@ -340,22 +340,22 @@
       },
       {
         "code" : "jkdk6",
-        "emoji" : "‚öìÔ∏è",
+        "emoji" : "⚓️",
         "nr" : 42,
         "points" : 5,
-        "task" : "Du landest auf einer bewohnten Insel - mit einem Hafen!\n\nDas kommt dir gelegen, schlie√ülich ist deine Schatz fast fertig - und was du bis jetzt erkennen kannst, wird das eine echte Herausfoderung, welche gute Planung und viel Material braucht.\n\nOrganisere f√ºr jedes Crew Mitglied (alle die am Dienstag mitkommen) ein (e)bike",
+        "task" : "Du landest auf einer bewohnten Insel - mit einem Hafen!\n\nDas kommt dir gelegen, schließlich ist deine Schatz fast fertig - und was du bis jetzt erkennen kannst, wird das eine echte Herausfoderung, welche gute Planung und viel Material braucht.\n\nOrganisere für jedes Crew Mitglied (alle die am Dienstag mitkommen) ein (e)bike",
         "title" : "Ein HAFEN"
       },
       {
         "code" : "kq4xv",
-        "emoji" : "‚öìÔ∏è",
+        "emoji" : "⚓️",
         "nr" : 43,
         "points" : 5,
         "title" : "Ein HAFEN"
       },
       {
         "code" : "ur72q",
-        "emoji" : "üèùÔ∏è",
+        "emoji" : "🏝️",
         "isMajor" : true,
         "nr" : 44,
         "points" : 5,
@@ -392,9 +392,9 @@
   "end": "2026-12-31",
   "pointsPerDoor": 5,
   "doors": [
-    { "nr": 1, "title": "Erster Test", "text": "Klappt das?", "emoji": "üéÑ" },
-    { "nr": 2, "title": "Zweiter",     "text": "Mit Text.",  "emoji": "‚≠êÔ∏è" },
-    { "nr": 3, "title": "Dritter",     "text": "Und Bild.",  "emoji": "üç™",
+    { "nr": 1, "title": "Erster Test", "text": "Klappt das?", "emoji": "🎄" },
+    { "nr": 2, "title": "Zweiter",     "text": "Mit Text.",  "emoji": "⭐️" },
+    { "nr": 3, "title": "Dritter",     "text": "Und Bild.",  "emoji": "🍪",
       "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/irgendein-bild.jpg" }
   ]
 }
