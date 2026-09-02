@@ -1,4 +1,109 @@
 {
+  "advent" : {
+    "doors" : [
+      {
+        "emoji" : "🎄",
+        "nr" : 1
+      },
+      {
+        "emoji" : "⭐️",
+        "nr" : 2
+      },
+      {
+        "emoji" : "🕯",
+        "nr" : 3
+      },
+      {
+        "emoji" : "🍪",
+        "nr" : 4
+      },
+      {
+        "emoji" : "🎁",
+        "nr" : 5
+      },
+      {
+        "emoji" : "❄️",
+        "nr" : 6
+      },
+      {
+        "emoji" : "🦌",
+        "nr" : 7
+      },
+      {
+        "emoji" : "🔔",
+        "nr" : 8
+      },
+      {
+        "emoji" : "🧦",
+        "nr" : 9
+      },
+      {
+        "emoji" : "🍊",
+        "nr" : 10
+      },
+      {
+        "emoji" : "🥮",
+        "nr" : 11
+      },
+      {
+        "emoji" : "🛷",
+        "nr" : 12
+      },
+      {
+        "emoji" : "☃️",
+        "nr" : 13
+      },
+      {
+        "emoji" : "🎿",
+        "nr" : 14
+      },
+      {
+        "emoji" : "🧣",
+        "nr" : 15
+      },
+      {
+        "emoji" : "🍫",
+        "nr" : 16
+      },
+      {
+        "emoji" : "🕊",
+        "nr" : 17
+      },
+      {
+        "emoji" : "🌟",
+        "nr" : 18
+      },
+      {
+        "emoji" : "🧸",
+        "nr" : 19
+      },
+      {
+        "emoji" : "🍬",
+        "nr" : 20
+      },
+      {
+        "emoji" : "🎶",
+        "nr" : 21
+      },
+      {
+        "emoji" : "🏔",
+        "nr" : 22
+      },
+      {
+        "emoji" : "🤶",
+        "nr" : 23
+      },
+      {
+        "emoji" : "🎅",
+        "nr" : 24
+      }
+    ],
+    "end" : "2026-12-31",
+    "id" : "advent-2026",
+    "pointsPerDoor" : 5,
+    "start" : "2026-12-01",
+    "title" : "Adventskalender"
+  },
   "event" : {
     "end" : "2026-09-15",
     "finaleText" : "gut gemacht Engel!",
@@ -366,6 +471,15 @@
     "subtitle" : "Sechs Wochen. Eine Reise. Viele Freunde. Und am meisten Liebe.",
     "title" : "Summer of Pain"
   },
+  "quickChallenges" : [
+    {
+      "activateAt" : "2026-09-04T19:31",
+      "emoji" : "🎶",
+      "id" : "qc-2026-09-03-1",
+      "title" : "Song Sharing",
+      "windowMinutes" : 15
+    }
+  ],
   "seasonStartDate" : "2026-03-06",
   "yearlyRanks" : [
     {
@@ -383,110 +497,5 @@
     {
       "minPoints" : 0
     }
-  ],
-  "advent" : {
-    "doors" : [
-    {
-      "emoji" : "🎄",
-      "nr" : 1
-    },
-    {
-      "emoji" : "⭐️",
-      "nr" : 2
-    },
-    {
-      "emoji" : "🕯",
-      "nr" : 3
-    },
-    {
-      "emoji" : "🍪",
-      "nr" : 4
-    },
-    {
-      "emoji" : "🎁",
-      "nr" : 5
-    },
-    {
-      "emoji" : "❄️",
-      "nr" : 6
-    },
-    {
-      "emoji" : "🦌",
-      "nr" : 7
-    },
-    {
-      "emoji" : "🔔",
-      "nr" : 8
-    },
-    {
-      "emoji" : "🧦",
-      "nr" : 9
-    },
-    {
-      "emoji" : "🍊",
-      "nr" : 10
-    },
-    {
-      "emoji" : "🥮",
-      "nr" : 11
-    },
-    {
-      "emoji" : "🛷",
-      "nr" : 12
-    },
-    {
-      "emoji" : "☃️",
-      "nr" : 13
-    },
-    {
-      "emoji" : "🎿",
-      "nr" : 14
-    },
-    {
-      "emoji" : "🧣",
-      "nr" : 15
-    },
-    {
-      "emoji" : "🍫",
-      "nr" : 16
-    },
-    {
-      "emoji" : "🕊",
-      "nr" : 17
-    },
-    {
-      "emoji" : "🌟",
-      "nr" : 18
-    },
-    {
-      "emoji" : "🧸",
-      "nr" : 19
-    },
-    {
-      "emoji" : "🍬",
-      "nr" : 20
-    },
-    {
-      "emoji" : "🎶",
-      "nr" : 21
-    },
-    {
-      "emoji" : "🏔",
-      "nr" : 22
-    },
-    {
-      "emoji" : "🤶",
-      "nr" : 23
-    },
-    {
-      "emoji" : "🎅",
-      "nr" : 24
-    }
-    ],
-    "end" : "2026-12-31",
-    "id" : "advent-2026",
-    "pointsPerDoor" : 5,
-    "start" : "2026-12-01",
-    "title" : "Adventskalender"
-  }
+  ]
 }
