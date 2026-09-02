@@ -397,5 +397,20 @@
     { "nr": 3, "title": "Dritter",     "text": "Und Bild.",  "emoji": "🍪",
       "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/irgendein-bild.jpg" }
   ]
-}
+},
+  "quickChallenges" : [
+    {
+      "activateAt" : "2026-09-02T13:53",
+      "emoji" : "🤸",
+      "id" : "qc-test-lang",
+      "title" : "Steh auf und streck dich einmal durch",
+      "windowMinutes" : 30
+    },
+    {
+      "activateAt" : "2026-09-02T14:04",
+      "emoji" : "📸",
+      "id" : "qc-test-kurz",
+      "title" : "Schick Johannes ein Foto von dem, was du gerade siehst"
+    }
+  ]
 }
