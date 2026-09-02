@@ -385,3 +385,17 @@
     }
   ]
 }
+
+"advent": {
+  "id": "advent-test",
+  "title": "Testkalender",
+  "start": "2026-08-28",
+  "end": "2026-12-31",
+  "pointsPerDoor": 5,
+  "doors": [
+    { "nr": 1, "title": "Erster Test", "text": "Klappt das?", "emoji": "🎄" },
+    { "nr": 2, "title": "Zweiter",     "text": "Mit Text.",  "emoji": "⭐️" },
+    { "nr": 3, "title": "Dritter",     "text": "Und Bild.",  "emoji": "🍪",
+      "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/irgendein-bild.jpg" }
+  ]
+}
