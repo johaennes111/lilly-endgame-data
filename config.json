@@ -384,33 +384,109 @@
       "minPoints" : 0
     }
   ],
-
-"advent": {
-  "id": "advent-test",
-  "title": "Testkalender",
-  "start": "2026-08-28",
-  "end": "2026-12-31",
-  "pointsPerDoor": 5,
-  "doors": [
-    { "nr": 1, "title": "Erster Test", "text": "Klappt das?", "emoji": "🎄" },
-    { "nr": 2, "title": "Zweiter",     "text": "Mit Text.",  "emoji": "⭐️" },
-    { "nr": 3, "title": "Dritter",     "text": "Und Bild.",  "emoji": "🍪",
-      "imageUrl": "https://raw.githubusercontent.com/johaennes111/lilly-endgame-data/main/irgendein-bild.jpg" }
-  ]
-},
-  "quickChallenges" : [
+  "advent" : {
+    "doors" : [
     {
-      "activateAt" : "2026-09-02T13:53",
-      "emoji" : "🤸",
-      "id" : "qc-test-lang",
-      "title" : "Steh auf und streck dich einmal durch",
-      "windowMinutes" : 30
+      "emoji" : "🎄",
+      "nr" : 1
     },
     {
-      "activateAt" : "2026-09-02T14:04",
-      "emoji" : "📸",
-      "id" : "qc-test-kurz",
-      "title" : "Schick Johannes ein Foto von dem, was du gerade siehst"
+      "emoji" : "⭐️",
+      "nr" : 2
+    },
+    {
+      "emoji" : "🕯",
+      "nr" : 3
+    },
+    {
+      "emoji" : "🍪",
+      "nr" : 4
+    },
+    {
+      "emoji" : "🎁",
+      "nr" : 5
+    },
+    {
+      "emoji" : "❄️",
+      "nr" : 6
+    },
+    {
+      "emoji" : "🦌",
+      "nr" : 7
+    },
+    {
+      "emoji" : "🔔",
+      "nr" : 8
+    },
+    {
+      "emoji" : "🧦",
+      "nr" : 9
+    },
+    {
+      "emoji" : "🍊",
+      "nr" : 10
+    },
+    {
+      "emoji" : "🥮",
+      "nr" : 11
+    },
+    {
+      "emoji" : "🛷",
+      "nr" : 12
+    },
+    {
+      "emoji" : "☃️",
+      "nr" : 13
+    },
+    {
+      "emoji" : "🎿",
+      "nr" : 14
+    },
+    {
+      "emoji" : "🧣",
+      "nr" : 15
+    },
+    {
+      "emoji" : "🍫",
+      "nr" : 16
+    },
+    {
+      "emoji" : "🕊",
+      "nr" : 17
+    },
+    {
+      "emoji" : "🌟",
+      "nr" : 18
+    },
+    {
+      "emoji" : "🧸",
+      "nr" : 19
+    },
+    {
+      "emoji" : "🍬",
+      "nr" : 20
+    },
+    {
+      "emoji" : "🎶",
+      "nr" : 21
+    },
+    {
+      "emoji" : "🏔",
+      "nr" : 22
+    },
+    {
+      "emoji" : "🤶",
+      "nr" : 23
+    },
+    {
+      "emoji" : "🎅",
+      "nr" : 24
     }
-  ]
+    ],
+    "end" : "2026-12-31",
+    "id" : "advent-2026",
+    "pointsPerDoor" : 5,
+    "start" : "2026-12-01",
+    "title" : "Adventskalender"
+  }
 }
