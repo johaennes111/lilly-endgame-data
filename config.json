@@ -480,10 +480,11 @@
       "windowMinutes" : 15
     },
     {
-      "activateAt" : "2026-09-03T08:45",
-      "emoji" : "⚡️",
+      "activateAt" : "2026-09-06T11:45",
+      "emoji" : "🫪",
       "id" : "qc-2026-09-04-2",
-      "title" : "Test"
+      "title" : "Da hell they doin over der",
+      "windowMinutes" : 46
     }
   ],
   "seasonStartDate" : "2026-03-06",
