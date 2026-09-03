@@ -478,6 +478,12 @@
       "id" : "qc-2026-09-03-1",
       "title" : "Song Sharing",
       "windowMinutes" : 15
+    },
+    {
+      "activateAt" : "2026-09-03T08:34",
+      "emoji" : "⚡️",
+      "id" : "qc-2026-09-04-2",
+      "title" : "Test"
     }
   ],
   "seasonStartDate" : "2026-03-06",
