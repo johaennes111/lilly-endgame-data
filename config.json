@@ -483,8 +483,14 @@
       "activateAt" : "2026-09-06T11:45",
       "emoji" : "🫪",
       "id" : "qc-2026-09-04-2",
-      "title" : "Da hell they doin over der",
+      "title" : "Räumst du auf?",
       "windowMinutes" : 46
+    },
+    {
+      "activateAt" : "2026-09-07T09:00",
+      "emoji" : "⚡️",
+      "id" : "qc-2026-09-07-3",
+      "title" : "Selfi schicken! (Bitteeee)"
     }
   ],
   "seasonStartDate" : "2026-03-06",
