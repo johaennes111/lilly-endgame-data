@@ -491,9 +491,52 @@
       "emoji" : "⚡️",
       "id" : "qc-2026-09-07-3",
       "title" : "Selfi schicken! (Bitteeee)"
+    },
+    {
+      "activateAt" : "2026-09-15T21:27",
+      "emoji" : "🃏",
+      "id" : "qc-2026-09-15-4",
+      "title" : "Romme! 3 Liegestützen ",
+      "wheelTicket" : true
     }
   ],
   "seasonStartDate" : "2026-03-06",
+  "wheel" : {
+    "gift" : {
+      "codes" : [
+        "Q4J"
+      ],
+      "count" : 3,
+      "weight" : 10
+    },
+    "segments" : [
+      {
+        "label" : "1 Punkt",
+        "points" : 1,
+        "weight" : 40
+      },
+      {
+        "label" : "3 Punkte",
+        "points" : 3,
+        "weight" : 30
+      },
+      {
+        "label" : "5 Punkte",
+        "points" : 5,
+        "weight" : 20
+      },
+      {
+        "label" : "10!",
+        "points" : 10,
+        "weight" : 8
+      },
+      {
+        "label" : "JACKPOT",
+        "points" : 25,
+        "weight" : 2
+      }
+    ]
+  },
   "yearlyRanks" : [
     {
       "minPoints" : 1400
