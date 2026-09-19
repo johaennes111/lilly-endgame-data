@@ -2355,14 +2355,16 @@
     {
       "code" : "ruub539",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "Trinke 6 Wochen nur Wasser oder Tee",
+      "emoji" : "🚰",
       "isLocked" : null,
       "isProduced" : false,
       "points" : 10,
       "rewardItem" : null,
-      "style" : "standard",
-      "title" : "3",
+      "streakType" : "daily",
+      "style" : "progress",
+      "title" : "H20",
+      "totalSteps" : 42,
       "unboxItem" : null
     },
     {
