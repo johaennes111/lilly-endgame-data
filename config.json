@@ -473,31 +473,38 @@
   },
   "quickChallenges" : [
     {
-      "activateAt" : "2026-09-04T19:31",
+      "activateAt" : "2026-10-05T19:31",
       "emoji" : "🎶",
       "id" : "qc-2026-09-03-1",
       "title" : "Song Sharing",
       "windowMinutes" : 15
     },
     {
-      "activateAt" : "2026-09-06T11:45",
+      "activateAt" : "2026-10-08T11:45",
       "emoji" : "🫪",
       "id" : "qc-2026-09-04-2",
-      "title" : "Räumst du auf?",
+      "title" : "Räumst du auf? jetzt mal wirlcih",
+      "wheelTicket" : true,
       "windowMinutes" : 46
     },
     {
-      "activateAt" : "2026-09-07T11:56",
+      "activateAt" : "2026-10-07T11:56",
       "emoji" : "⚡️",
       "id" : "qc-2026-09-07-3",
       "title" : "Selfi schicken! (Bitteeee)"
     },
     {
-      "activateAt" : "2026-09-15T20:30",
+      "activateAt" : "2026-10-15T20:30",
       "emoji" : "🃏",
       "id" : "qc-2026-09-15-4",
       "title" : "Sport! 3 Liegestützen ",
       "wheelTicket" : true
+    },
+    {
+      "activateAt" : "2026-10-10T16:00",
+      "emoji" : "⚡️",
+      "id" : "qc-2026-10-04-5",
+      "title" : "Umarme deine Mama"
     }
   ],
   "seasonStartDate" : "2026-03-06",
