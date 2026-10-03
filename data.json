@@ -2602,6 +2602,33 @@
       "unlockAnimation" : "vaultReveal"
     }
   ],
+  "resetCodes" : [
+    {
+      "code" : "r74mrnn",
+      "count" : 5,
+      "scope" : "any"
+    },
+    {
+      "code" : "nukvqu3",
+      "count" : 1,
+      "scope" : "any"
+    },
+    {
+      "code" : "pdsbn9w",
+      "count" : 1,
+      "scope" : "any"
+    },
+    {
+      "code" : "cr87cvf",
+      "count" : 1,
+      "scope" : "any"
+    },
+    {
+      "code" : "c2gy4fk",
+      "count" : 1,
+      "scope" : "any"
+    }
+  ],
   "shopItems" : [
     {
       "category" : "Leckereien",
