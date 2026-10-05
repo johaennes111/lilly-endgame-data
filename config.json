@@ -505,6 +505,13 @@
       "emoji" : "⚡️",
       "id" : "qc-2026-10-04-5",
       "title" : "Umarme deine Mama"
+    },
+    {
+      "activateAt" : "2026-10-11T11:00",
+      "emoji" : "💸",
+      "id" : "qc-2026-10-06-6",
+      "title" : "Simpel: Schau doch mal in den Endgame-Shop vorbei ❤️‍🔥",
+      "windowMinutes" : 120
     }
   ],
   "seasonStartDate" : "2026-03-06",
