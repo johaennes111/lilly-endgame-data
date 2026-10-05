@@ -2715,16 +2715,16 @@
     },
     {
       "category" : "Vielfältiges",
-      "cost" : 50,
-      "description" : "",
+      "cost" : 30,
+      "description" : "eine Überraschungs-Date für meine Maus 🫐❤️",
       "emoji" : "🎭",
       "id" : "coming_soon_1",
-      "isComingSoon" : true,
+      "isComingSoon" : null,
       "isRecommended" : null,
       "isWeeklyDeal" : null,
       "maxRedemptions" : 1,
       "name" : "Überraschungs-Date 🎭",
-      "revealText" : "Etwas ganz Besonderes kommt bald..."
+      "revealText" : "Ein Überrachungsdate!\nAm besten gibst Du Johannes Bescheid!\n"
     },
     {
       "category" : "Mysteriöses",
@@ -2776,7 +2776,7 @@
       "revealText" : null
     },
     {
-      "category" : "Mysteriöses",
+      "category" : "Vielfältiges",
       "cost" : 10,
       "description" : "Ein nützliches Ding für die Küche!",
       "emoji" : "🛠️",
@@ -2822,6 +2822,19 @@
         "FPU38"
       ],
       "revealText" : null
+    },
+    {
+      "category" : "Vielfältiges",
+      "cost" : 20,
+      "description" : "Johannes sucht und plant einen Burg-Ausflug für uns beide ❤️\nWir müssen nur schauen, wann wir das machen können.\nAm besten schon ein bisschen früher vor der Einlösung ansprechen, dann kann ich ein bisschen planen.",
+      "emoji" : "🏰",
+      "id" : "shop-014",
+      "isComingSoon" : null,
+      "isRecommended" : null,
+      "isWeeklyDeal" : null,
+      "maxRedemptions" : 1,
+      "name" : "Burg Ausflug ",
+      "revealText" : "Lets Go !"
     }
   ]
 }
