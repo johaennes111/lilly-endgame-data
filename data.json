@@ -2660,20 +2660,6 @@
     },
     {
       "category" : "Vielfältiges",
-      "cost" : 5,
-      "description" : "",
-      "emoji" : "🎁",
-      "id" : "shop-999",
-      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/osiander.png",
-      "isComingSoon" : null,
-      "isRecommended" : null,
-      "isWeeklyDeal" : null,
-      "maxRedemptions" : 1,
-      "name" : "Willkommen in deinem Endgame!",
-      "revealText" : "Osiandergutschein für dich:\nKartennummer: 63940215078654675\nPIN: PIN 0806 \nItem: 13"
-    },
-    {
-      "category" : "Vielfältiges",
       "cost" : 60,
       "description" : "Du darfst dir 10€ von deinem Geld für Quatsch ausgeben",
       "emoji" : "💸",
@@ -2791,7 +2777,7 @@
     },
     {
       "category" : "Mysteriöses",
-      "cost" : 15,
+      "cost" : 10,
       "description" : "Ein nützliches Ding für die Küche!",
       "emoji" : "🛠️",
       "id" : "shop-012",
@@ -2802,6 +2788,38 @@
       "name" : "Nützliches Ding",
       "revealCodes" : [
         "N34OJ"
+      ],
+      "revealText" : null
+    },
+    {
+      "category" : "Mysteriöses",
+      "cost" : 5,
+      "description" : "2 Mystery Dosen - eine für dich eine für mich!",
+      "emoji" : "🍾",
+      "id" : "shop-012",
+      "isComingSoon" : null,
+      "isRecommended" : null,
+      "isWeeklyDeal" : null,
+      "maxRedemptions" : 1,
+      "name" : "Mystery Getränk",
+      "revealCodes" : [
+        "RW3S5"
+      ],
+      "revealText" : null
+    },
+    {
+      "category" : "Mysteriöses",
+      "cost" : 10,
+      "description" : "Ein Mysteriöses Geschmacks Erlebnis für Sport",
+      "emoji" : "🎁",
+      "id" : "shop-013",
+      "isComingSoon" : null,
+      "isRecommended" : true,
+      "isWeeklyDeal" : null,
+      "maxRedemptions" : 1,
+      "name" : "Fitness-Mystery-Yummy",
+      "revealCodes" : [
+        "FPU38"
       ],
       "revealText" : null
     }
