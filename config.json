@@ -517,9 +517,6 @@
   "seasonStartDate" : "2026-03-06",
   "wheel" : {
     "gift" : {
-      "codes" : [
-        "Q4J"
-      ],
       "count" : 3,
       "weight" : 10
     },
