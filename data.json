@@ -2788,6 +2788,22 @@
         "M8C"
       ],
       "revealText" : null
+    },
+    {
+      "category" : "Mysteriöses",
+      "cost" : 15,
+      "description" : "Ein nützliches Ding für die Küche!",
+      "emoji" : "🛠️",
+      "id" : "shop-012",
+      "isComingSoon" : null,
+      "isRecommended" : null,
+      "isWeeklyDeal" : true,
+      "maxRedemptions" : 1,
+      "name" : "Nützliches Ding",
+      "revealCodes" : [
+        "N34OJ"
+      ],
+      "revealText" : null
     }
   ]
 }
