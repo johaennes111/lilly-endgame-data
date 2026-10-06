@@ -2,107 +2,232 @@
   "advent" : {
     "doors" : [
       {
-        "emoji" : "🎄",
-        "nr" : 1
+        "emoji" : "🍜",
+        "exercise" : "10 Kniebeugen",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-kniebeuge.png",
+        "exercisePoints" : 1,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-01.jpg",
+        "nr" : 1,
+        "title" : "Maggi Magic Asia – Chicken"
       },
       {
-        "emoji" : "⭐️",
-        "nr" : 2
+        "emoji" : "🍜",
+        "exercise" : "10 Crunches",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-crunch.png",
+        "exercisePoints" : 1,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-02.jpg",
+        "nr" : 2,
+        "title" : "Nissin Soba – Classic"
       },
       {
-        "emoji" : "🕯",
-        "nr" : 3
+        "emoji" : "🍜",
+        "exercise" : "3 Liegestütze",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-liegestuetz.png",
+        "exercisePoints" : 2,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-03.jpg",
+        "nr" : 3,
+        "title" : "K-Classic Asia – Phở Gà"
       },
       {
-        "emoji" : "🍪",
-        "nr" : 4
+        "emoji" : "🍜",
+        "exercise" : "10 Ausfallschritte (abwechselnd)",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-ausfallschritt.png",
+        "exercisePoints" : 1,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-04.jpg",
+        "nr" : 4,
+        "title" : "Nissin Soba – Teriyaki"
       },
       {
-        "emoji" : "🎁",
-        "nr" : 5
+        "emoji" : "🍜",
+        "exercise" : "Plank 20 s",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-plank.png",
+        "exercisePoints" : 2,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-05.jpg",
+        "nr" : 5,
+        "title" : "Maggi Magic Asia – Curry"
       },
       {
-        "emoji" : "❄️",
-        "nr" : 6
+        "emoji" : "🍜",
+        "exercise" : "5 Reverse Dips",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-reverse-dip.png",
+        "exercisePoints" : 2,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-06.jpg",
+        "nr" : 6,
+        "title" : "Meishi – Chicken"
       },
       {
-        "emoji" : "🦌",
-        "nr" : 7
+        "emoji" : "🍜",
+        "exercise" : "15 Kniebeugen",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-kniebeuge.png",
+        "exercisePoints" : 2,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-07.jpg",
+        "nr" : 7,
+        "title" : "Nissin Soba – Pad Thai"
       },
       {
-        "emoji" : "🔔",
-        "nr" : 8
+        "emoji" : "🍜",
+        "exercise" : "15 Crunches",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-crunch.png",
+        "exercisePoints" : 2,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-08.jpg",
+        "nr" : 8,
+        "title" : "K-Classic Asia – Phở Bò"
       },
       {
-        "emoji" : "🧦",
-        "nr" : 9
+        "emoji" : "🍜",
+        "exercise" : "5 Liegestütze",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-liegestuetz.png",
+        "exercisePoints" : 3,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-09.jpg",
+        "nr" : 9,
+        "title" : "Nissin Soba – Sweet & Sour"
       },
       {
-        "emoji" : "🍊",
-        "nr" : 10
+        "emoji" : "🍜",
+        "exercise" : "16 Ausfallschritte (abwechselnd)",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-ausfallschritt.png",
+        "exercisePoints" : 2,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-10.jpg",
+        "nr" : 10,
+        "title" : "Maggi Magic Asia – Beef"
       },
       {
-        "emoji" : "🥮",
-        "nr" : 11
+        "emoji" : "🍜",
+        "exercise" : "Plank 30 s",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-plank.png",
+        "exercisePoints" : 3,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-11.jpg",
+        "nr" : 11,
+        "title" : "Nissin Soba – Yakitori Chicken"
       },
       {
-        "emoji" : "🛷",
-        "nr" : 12
+        "emoji" : "🍜",
+        "exercise" : "8 Reverse Dips",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-reverse-dip.png",
+        "exercisePoints" : 3,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-12.jpg",
+        "nr" : 12,
+        "title" : "Nongshim – Tempura Udon"
       },
       {
-        "emoji" : "☃️",
-        "nr" : 13
+        "emoji" : "🍜",
+        "exercise" : "20 Kniebeugen",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-kniebeuge.png",
+        "exercisePoints" : 3,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-13.jpg",
+        "nr" : 13,
+        "title" : "Nissin Soba Protein – Classic"
       },
       {
-        "emoji" : "🎿",
-        "nr" : 14
+        "emoji" : "🍜",
+        "exercise" : "20 Crunches",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-crunch.png",
+        "exercisePoints" : 3,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-14.jpg",
+        "nr" : 14,
+        "title" : "Maggi Magic Asia – Duck"
       },
       {
-        "emoji" : "🧣",
-        "nr" : 15
+        "emoji" : "🍜",
+        "exercise" : "8 Liegestütze",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-liegestuetz.png",
+        "exercisePoints" : 4,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-15.jpg",
+        "nr" : 15,
+        "title" : "K-Classic Asia – Phở Chay"
       },
       {
-        "emoji" : "🍫",
-        "nr" : 16
+        "emoji" : "🍜",
+        "exercise" : "20 Ausfallschritte (abwechselnd)",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-ausfallschritt.png",
+        "exercisePoints" : 3,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-16.jpg",
+        "nr" : 16,
+        "title" : "Nissin Soba – Sukiyaki Beef"
       },
       {
-        "emoji" : "🕊",
-        "nr" : 17
+        "emoji" : "🍜",
+        "exercise" : "Plank 45 s",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-plank.png",
+        "exercisePoints" : 4,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-17.jpg",
+        "nr" : 17,
+        "title" : "Nissin Soba Protein – Yakitori Chicken"
       },
       {
-        "emoji" : "🌟",
-        "nr" : 18
+        "emoji" : "🍜",
+        "exercise" : "10 Reverse Dips",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-reverse-dip.png",
+        "exercisePoints" : 4,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-18.jpg",
+        "nr" : 18,
+        "title" : "Mr. Min – Korean Ramen XL"
       },
       {
-        "emoji" : "🧸",
-        "nr" : 19
+        "emoji" : "🍜",
+        "exercise" : "30 Kniebeugen",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-kniebeuge.png",
+        "exercisePoints" : 4,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-19.jpg",
+        "nr" : 19,
+        "title" : "Nissin Soba – Chili"
       },
       {
-        "emoji" : "🍬",
-        "nr" : 20
+        "emoji" : "🍜",
+        "exercise" : "30 Crunches",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-crunch.png",
+        "exercisePoints" : 4,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-20.jpg",
+        "nr" : 20,
+        "title" : "Choi's – Bibimmyeon Carbonara"
       },
       {
-        "emoji" : "🎶",
-        "nr" : 21
+        "emoji" : "🍜",
+        "exercise" : "10 Liegestütze",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-liegestuetz.png",
+        "exercisePoints" : 5,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-21.jpg",
+        "nr" : 21,
+        "title" : "Nissin Soba Protein – Chili"
       },
       {
-        "emoji" : "🏔",
-        "nr" : 22
+        "emoji" : "🍜",
+        "exercise" : "30 Ausfallschritte (abwechselnd)",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-ausfallschritt.png",
+        "exercisePoints" : 4,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-22.jpg",
+        "nr" : 22,
+        "title" : "Maggi – Fiery Gochujang Beef"
       },
       {
-        "emoji" : "🤶",
-        "nr" : 23
+        "emoji" : "🍜",
+        "exercise" : "Plank 60 s",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-plank.png",
+        "exercisePoints" : 5,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-23.jpg",
+        "nr" : 23,
+        "title" : "Nongshim – Shin Ramyun"
       },
       {
-        "emoji" : "🎅",
-        "nr" : 24
+        "emoji" : "🍜",
+        "exercise" : "15 Reverse Dips",
+        "exerciseImageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/sport-reverse-dip.png",
+        "exercisePoints" : 5,
+        "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-24.jpg",
+        "nr" : 24,
+        "title" : "Samyang – Buldak Cheese"
       }
     ],
     "end" : "2026-12-31",
     "id" : "advent-2026",
-    "pointsPerDoor" : 5,
+    "pointsPerDoor" : 0,
+    "ratingCategories" : [
+      "Geschmack",
+      "Nachgeschmack",
+      "Gesamt"
+    ],
     "start" : "2026-12-01",
-    "title" : "Adventskalender"
+    "title" : "Noodle-Adventskalender"
   },
   "event" : {
     "end" : "2026-09-15",
