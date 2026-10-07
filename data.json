@@ -2836,6 +2836,34 @@
       "maxRedemptions" : 1,
       "name" : "Burg Ausflug ",
       "revealText" : "Lets Go !"
+    },
+    {
+      "category" : "Leckereien",
+      "cost" : 5,
+      "description" : "sicher keine Laktritze!",
+      "emoji" : "🎁",
+      "id" : "shop-015",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/HitschieSpezial.tiff",
+      "isComingSoon" : null,
+      "isRecommended" : true,
+      "isWeeklyDeal" : null,
+      "maxRedemptions" : 1,
+      "name" : "Hitschie Spezial",
+      "revealText" : null
+    },
+    {
+      "category" : "Leckereien",
+      "cost" : 10,
+      "description" : "sehr ungesund!",
+      "emoji" : "🎁",
+      "id" : "shop-016",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Riesenkaramell.png",
+      "isComingSoon" : null,
+      "isRecommended" : null,
+      "isWeeklyDeal" : null,
+      "maxRedemptions" : 4,
+      "name" : "Ein Karamelle für dich!",
+      "revealText" : null
     }
   ]
 }
