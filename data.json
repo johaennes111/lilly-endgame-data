@@ -2864,6 +2864,19 @@
       "maxRedemptions" : 4,
       "name" : "Ein Karamelle für dich!",
       "revealText" : null
+    },
+    {
+      "category" : "Vielfältiges",
+      "cost" : 5,
+      "description" : "Was kleines feines für dich ",
+      "emoji" : "🍬",
+      "id" : "shop-017",
+      "isComingSoon" : null,
+      "isRecommended" : null,
+      "isWeeklyDeal" : true,
+      "maxRedemptions" : 1,
+      "name" : "Sweeeeety",
+      "revealText" : "sweet"
     }
   ]
 }
