@@ -2877,6 +2877,25 @@
       "maxRedemptions" : 1,
       "name" : "Sweeeeety",
       "revealText" : "sweet"
+    },
+    {
+      "category" : "Mysteriöses",
+      "cost" : 10,
+      "description" : "🤫",
+      "emoji" : "🌚",
+      "id" : "shop-018",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/adventn-pic2.png",
+      "isComingSoon" : true,
+      "isRecommended" : null,
+      "isWeeklyDeal" : null,
+      "maxRedemptions" : 3,
+      "name" : "Advents-Special",
+      "revealCodes" : [
+        "Advent1",
+        "Advent2",
+        "Advent3"
+      ],
+      "revealText" : null
     }
   ]
 }
