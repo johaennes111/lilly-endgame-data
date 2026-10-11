@@ -2305,7 +2305,7 @@
       "description" : "triff einen neuen Mensch (unter 1 Jahr alt)",
       "emoji" : "🍼",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : "S9X",
       "style" : "standard",
@@ -2358,7 +2358,7 @@
       "description" : "Trinke 6 Wochen nur Wasser oder Tee",
       "emoji" : "🚰",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "streakType" : "daily",
@@ -2370,47 +2370,84 @@
     {
       "code" : "ghlnj8p",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "Tone oder keramike (?) einen schönen oder noch besser sinnvollen Gegenstand!",
+      "emoji" : "🗿",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
-      "style" : "standard",
-      "title" : "4",
+      "style" : "creative",
+      "title" : "Kunst? Kunst!",
       "unboxItem" : null
     },
     {
+      "activeDays" : 450,
       "code" : "7tqna3j",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "Schau mit Johannes Star Wars Episode 1, 2 und 3.\n\nBonus gibts wenn man Top 5 Star wars the CloneWars-Folgen zwischen Episode 2 und 3 schaut",
+      "emoji" : "",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Starwars1.png",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
-      "style" : "standard",
-      "title" : "5",
+      "style" : "progress",
+      "subTasks" : [
+        {
+          "points" : 5,
+          "title" : "Episode 1"
+        },
+        {
+          "points" : 5,
+          "title" : "Episode 2"
+        },
+        {
+          "points" : 5,
+          "title" : "Clone Wars 1"
+        },
+        {
+          "points" : 5,
+          "title" : "Clone Wars 2"
+        },
+        {
+          "points" : 5,
+          "title" : "Clone Wars 3"
+        },
+        {
+          "points" : 5,
+          "title" : "Clone Wars 4"
+        },
+        {
+          "points" : 5,
+          "title" : "Clone Wars 5"
+        },
+        {
+          "points" : 5,
+          "title" : "Episode 2"
+        }
+      ],
+      "title" : "Hello there",
+      "totalSteps" : 3,
       "unboxItem" : null
     },
     {
       "code" : "5mepkfz",
       "condition" : null,
-      "description" : "",
-      "emoji" : "🎯",
+      "description" : "gib Johannes eine dicke umarmung",
+      "emoji" : "🫂",
       "isLocked" : null,
-      "isProduced" : false,
+      "isProduced" : null,
       "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
-      "title" : "6",
+      "title" : "hug time",
       "unboxItem" : null
     },
     {
       "activeDays" : 60,
       "code" : "74o4zzc",
       "condition" : null,
-      "description" : "Wir gehen irgendwo eine echte Runde Dartspielen!",
+      "description" : "Wir gehen irgendwo eine echte Runde Dartspielen!\n\nÜbrigens, das Bild der Karte wird dein Gesicht sein nach dem ich dich zerstört habe!",
       "emoji" : "🎯",
       "isLocked" : null,
       "isProduced" : null,
