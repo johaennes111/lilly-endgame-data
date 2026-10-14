@@ -618,6 +618,12 @@
       "id" : "qc-2026-09-15-4",
       "title" : "Sport! 3 Liegestützen ",
       "wheelTicket" : true
+    },
+    {
+      "activateAt" : "2026-10-14T21:48",
+      "emoji" : "😘",
+      "id" : "qc-2026-10-15-4",
+      "title" : "Küsschen für Joe"
     }
   ],
   "seasonStartDate" : "2026-03-06",
