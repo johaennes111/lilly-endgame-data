@@ -12,12 +12,14 @@
         "emoji" : "🍜",
         "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-02.jpg",
         "nr" : 2,
+        "text" : "wir arbeiten uns von wenig scharf bis bisschen scharf durch!",
         "title" : "Nissin Soba – Classic"
       },
       {
         "emoji" : "🍜",
         "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-03.jpg",
         "nr" : 3,
+        "text" : "Leisnudeln magst du doch so gerne",
         "title" : "K-Classic Asia – Phở Gà"
       },
       {
@@ -78,6 +80,7 @@
         "emoji" : "🍜",
         "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/advent\/nudeln-13.jpg",
         "nr" : 13,
+        "text" : "für die GAINS!",
         "title" : "Nissin Soba Protein – Classic"
       },
       {
