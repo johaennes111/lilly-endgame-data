@@ -2905,14 +2905,14 @@
     {
       "category" : "Vielfältiges",
       "cost" : 20,
-      "description" : "Du kannst dir ein Skin-Parket in iMessages für Darts aussuchen 🎯",
+      "description" : "Du kannst dir ein Skin-Parket in iMessages für Darts aussuchen !",
       "emoji" : "🎯",
       "id" : "shop-019",
       "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Pfeile.png",
       "isComingSoon" : null,
       "isRecommended" : null,
       "isWeeklyDeal" : null,
-      "maxRedemptions" : 1,
+      "maxRedemptions" : 2,
       "name" : "Pfeil Skin",
       "revealText" : null
     }
