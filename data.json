@@ -21,7 +21,8 @@
         }
       ],
       "title" : "show me",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "unlockAnimation" : "vaultReveal"
     },
     {
       "code" : "w8njaft",
@@ -205,20 +206,14 @@
     {
       "code" : "1eczkd2",
       "condition" : "Hat Joe gerade wenig Stress?",
-      "description" : "Ich koche dein Lieblingsessen!\n(oder was anders was du dir wünscht)",
-      "emoji" : "👨🏻‍🍳",
+      "description" : "Ich habe mich letztes gefragt, wie fühlt sich ein Affe im Urwald wenn es nachts regent?\n\nFinden wir (Du) es herraus:\nDafür musst du folgnes machen:\n\nNachts Duschen, Licht aus, eine ganze Banane essen, keine Musik sondern DUschgeln geräsuche anhören",
+      "emoji" : "🍌",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 5,
       "rewardItem" : null,
       "style" : "cozy",
-      "subTasks" : [
-        {
-          "points" : 5,
-          "title" : "Ein kochbares Essen wünschen..."
-        }
-      ],
-      "title" : "Chef Joe",
+      "title" : "sad monkey",
       "unboxItem" : null
     },
     {
@@ -2557,7 +2552,7 @@
       "style" : "hiddenquest",
       "title" : "#1",
       "unboxItem" : null,
-      "unlockAnimation" : "vaultReveal"
+      "unlockAnimation" : "card"
     },
     {
       "code" : "uoah7or",
@@ -2637,33 +2632,6 @@
       "title" : "#6",
       "unboxItem" : null,
       "unlockAnimation" : "vaultReveal"
-    }
-  ],
-  "resetCodes" : [
-    {
-      "code" : "r74mrnn",
-      "count" : 5,
-      "scope" : "any"
-    },
-    {
-      "code" : "nukvqu3",
-      "count" : 1,
-      "scope" : "any"
-    },
-    {
-      "code" : "pdsbn9w",
-      "count" : 1,
-      "scope" : "any"
-    },
-    {
-      "code" : "cr87cvf",
-      "count" : 1,
-      "scope" : "any"
-    },
-    {
-      "code" : "c2gy4fk",
-      "count" : 1,
-      "scope" : "any"
     }
   ],
   "shopItems" : [
@@ -2932,6 +2900,20 @@
         "Advent2",
         "Advent3"
       ],
+      "revealText" : null
+    },
+    {
+      "category" : "Vielfältiges",
+      "cost" : 20,
+      "description" : "Du kannst dir ein Skin-Parket in iMessages für Darts aussuchen 🎯",
+      "emoji" : "🎯",
+      "id" : "shop-019",
+      "imageUrl" : "https:\/\/raw.githubusercontent.com\/johaennes111\/lilly-endgame-data\/main\/Pfeile.png",
+      "isComingSoon" : null,
+      "isRecommended" : null,
+      "isWeeklyDeal" : null,
+      "maxRedemptions" : 1,
+      "name" : "Pfeil Skin",
       "revealText" : null
     }
   ]
