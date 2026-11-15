@@ -522,31 +522,45 @@
   },
   "quickChallenges" : [
     {
-      "activateAt" : "2026-10-14T19:31",
+      "activateAt" : "2026-12-14T19:31",
       "emoji" : "🎶",
       "id" : "qc-2026-09-03-1",
       "title" : "Song Sharing",
       "windowMinutes" : 30
     },
     {
-      "activateAt" : "2026-10-17T11:56",
+      "activateAt" : "2026-11-22T11:56",
       "emoji" : "⚡️",
       "id" : "qc-2026-09-07-3",
       "title" : "Selfi schicken! (Bitteeee)",
       "windowMinutes" : 16
     },
     {
-      "activateAt" : "2026-10-15T20:30",
+      "activateAt" : "2026-11-29T20:30",
       "emoji" : "🃏",
       "id" : "qc-2026-09-15-4",
       "title" : "Sport! 3 Liegestützen ",
       "wheelTicket" : true
     },
     {
-      "activateAt" : "2026-10-14T21:48",
+      "activateAt" : "2026-12-14T21:48",
       "emoji" : "😘",
       "id" : "qc-2026-10-15-4",
       "title" : "Küsschen für Joe"
+    },
+    {
+      "activateAt" : "2026-11-16T13:00",
+      "emoji" : "⚡️",
+      "id" : "qc-2026-11-16-5",
+      "points" : 3,
+      "title" : "Übersetzen und Schicken: Ego piscis sum",
+      "windowMinutes" : 35
+    },
+    {
+      "activateAt" : "2026-11-20T11:00",
+      "emoji" : "🐻‍❄️",
+      "id" : "qc-2026-11-16-6",
+      "title" : "Was ist dein Lieblingstier?"
     }
   ],
   "seasonStartDate" : "2026-03-06",
