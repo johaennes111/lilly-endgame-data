@@ -2658,32 +2658,18 @@
       "emoji" : "💧",
       "isLocked" : null,
       "isProduced" : null,
-      "points" : 15,
+      "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Jeden Tag 2 Liter Wasser",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "withJoe" : true
     },
     {
-      "activeDays" : 14,
-      "code" : "srqh9nh",
-      "condition" : null,
-      "description" : "2 Wochen lang nichts liefern lassen – alles selbst gekocht.",
-      "dietQuest" : true,
-      "emoji" : "🍲",
-      "isLocked" : null,
-      "isProduced" : null,
-      "points" : 25,
-      "rewardItem" : null,
-      "style" : "standard",
-      "title" : "Selbst gekocht statt bestellt",
-      "unboxItem" : null
-    },
-    {
-      "activeDays" : 14,
+      "activeDays" : 30,
       "code" : "pzi33zq",
       "condition" : null,
-      "description" : "2 Wochen keine Cola, Limo oder Eistee – Wasser, Tee und Kaffee ohne Zucker sind erlaubt.",
+      "description" : "1 Monat keine Cola, Limo oder Eistee – Wasser, Tee und Kaffee ohne Zucker sind erlaubt.",
       "dietQuest" : true,
       "emoji" : "🥤",
       "isLocked" : null,
@@ -2692,7 +2678,8 @@
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Keine Softdrinks",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "withJoe" : true
     },
     {
       "activeDays" : 7,
@@ -2718,7 +2705,7 @@
       "emoji" : "🌙",
       "isLocked" : null,
       "isProduced" : null,
-      "points" : 20,
+      "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Nach 20 Uhr Küche zu",
@@ -2733,41 +2720,29 @@
       "emoji" : "🍞",
       "isLocked" : null,
       "isProduced" : null,
-      "points" : 20,
+      "points" : 10,
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Weißmehl-Pause",
       "unboxItem" : null
     },
     {
-      "activeDays" : 7,
-      "code" : "acqtu8z",
-      "condition" : null,
-      "description" : "7 Tage lang jeden Morgen ein richtiges Frühstück – nicht nur Kaffee.",
-      "dietQuest" : true,
-      "emoji" : "🥣",
-      "isLocked" : null,
-      "isProduced" : null,
-      "points" : 10,
-      "rewardItem" : null,
-      "style" : "standard",
-      "title" : "Frühstück wie eine Königin",
-      "unboxItem" : null
-    },
-    {
-      "activeDays" : 7,
+      "activeDays" : 21,
       "code" : "61x1t60",
       "condition" : null,
-      "description" : "7 Tage nichts zwischen den Mahlzeiten – nur Wasser, Tee oder schwarzer Kaffee.",
+      "description" : "20 Tage nichts zwischen den Mahlzeiten – nur Wasser, Tee oder schwarzer Kaffee.",
       "dietQuest" : true,
       "emoji" : "🍿",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 20,
       "rewardItem" : null,
+      "streakType" : "daily",
       "style" : "standard",
       "title" : "Snack-Fasten",
-      "unboxItem" : null
+      "totalSteps" : 20,
+      "unboxItem" : null,
+      "withJoe" : true
     },
     {
       "activeDays" : 7,
@@ -2783,14 +2758,15 @@
       "style" : "progress",
       "title" : "Veggie-Woche",
       "totalSteps" : 7,
-      "unboxItem" : null
+      "unboxItem" : null,
+      "withJoe" : true
     },
     {
       "code" : "2hnc9la",
       "condition" : null,
       "description" : "30 Tage komplett ohne Fleisch und Fisch.",
       "dietQuest" : true,
-      "emoji" : "🥦🥦",
+      "emoji" : "🥬",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 30,
@@ -2801,19 +2777,80 @@
       "withJoe" : true
     },
     {
+      "activeDays" : 366,
       "code" : "4y1dsg1",
       "condition" : null,
       "description" : "1 Jahr (365 Tage) komplett ohne Fleisch und Fisch.",
       "dietQuest" : true,
-      "emoji" : "🥦🥦🥦",
+      "emoji" : "🥒",
       "isLocked" : null,
       "isProduced" : null,
       "points" : 120,
       "rewardItem" : null,
       "style" : "standard",
-      "title" : "Veggie-Jahr",
+      "title" : "Veggie-Jahr✨",
       "unboxItem" : null,
       "wheelTicket" : true,
+      "withJoe" : true
+    },
+    {
+      "activeDays" : 7,
+      "code" : "p46wahp",
+      "condition" : null,
+      "description" : "simpel: kein Alkohol",
+      "dietQuest" : true,
+      "emoji" : "🍺",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 5,
+      "rewardItem" : null,
+      "style" : "standard",
+      "title" : "Woche ohne Alkohol",
+      "unboxItem" : null,
+      "withJoe" : true
+    },
+    {
+      "code" : "rlkaddk",
+      "condition" : null,
+      "description" : "",
+      "dietQuest" : true,
+      "emoji" : "🍷",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 15,
+      "rewardItem" : null,
+      "style" : "standard",
+      "title" : "Monat ohne Alkohol",
+      "unboxItem" : null,
+      "withJoe" : true
+    },
+    {
+      "code" : "592syob",
+      "condition" : null,
+      "description" : "Es gibt 3 Ausnahme-Gutscheine, am besten zusammen machen",
+      "dietQuest" : true,
+      "emoji" : "🍸",
+      "isLocked" : null,
+      "isProduced" : null,
+      "points" : 100,
+      "rewardItem" : null,
+      "style" : "standard",
+      "subTasks" : [
+        {
+          "points" : 10,
+          "title" : "Gutschein zusammen nutzen"
+        },
+        {
+          "points" : 10,
+          "title" : "Gutschein zusammen nutzen"
+        },
+        {
+          "points" : 10,
+          "title" : "Gutschein zusammen nutzen"
+        }
+      ],
+      "title" : "Halbes Jahr ohne Alkohol",
+      "unboxItem" : null,
       "withJoe" : true
     }
   ],
