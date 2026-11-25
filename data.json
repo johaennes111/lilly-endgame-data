@@ -2642,11 +2642,12 @@
       "emoji" : "🍫",
       "isLocked" : null,
       "isProduced" : null,
-      "points" : 20,
+      "points" : 5,
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Eine Woche ohne Süßes",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "withJoe" : true
     },
     {
       "activeDays" : 10,
@@ -2661,21 +2662,6 @@
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Jeden Tag 2 Liter Wasser",
-      "unboxItem" : null
-    },
-    {
-      "activeDays" : 30,
-      "code" : "6j3vpsw",
-      "condition" : null,
-      "description" : "Einen Monat lang keinen Tropfen.",
-      "dietQuest" : true,
-      "emoji" : "🍷",
-      "isLocked" : null,
-      "isProduced" : null,
-      "points" : 40,
-      "rewardItem" : null,
-      "style" : "standard",
-      "title" : "30 Tage ohne Alkohol",
       "unboxItem" : null
     },
     {
@@ -2792,7 +2778,7 @@
       "emoji" : "🥦",
       "isLocked" : null,
       "isProduced" : null,
-      "points" : 15,
+      "points" : 10,
       "rewardItem" : null,
       "style" : "progress",
       "title" : "Veggie-Woche",
@@ -2802,28 +2788,33 @@
     {
       "code" : "2hnc9la",
       "condition" : null,
-      "description" : "7 Tage komplett ohne Fleisch und Fisch.",
-      "emoji" : "🥦",
+      "description" : "30 Tage komplett ohne Fleisch und Fisch.",
+      "dietQuest" : true,
+      "emoji" : "🥦🥦",
       "isLocked" : null,
       "isProduced" : null,
-      "points" : 10,
+      "points" : 30,
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Veggie-Monat",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "withJoe" : true
     },
     {
       "code" : "4y1dsg1",
       "condition" : null,
       "description" : "1 Jahr (365 Tage) komplett ohne Fleisch und Fisch.",
-      "emoji" : "🥦",
+      "dietQuest" : true,
+      "emoji" : "🥦🥦🥦",
       "isLocked" : null,
       "isProduced" : null,
-      "points" : 10,
+      "points" : 120,
       "rewardItem" : null,
       "style" : "standard",
       "title" : "Veggie-Jahr",
-      "unboxItem" : null
+      "unboxItem" : null,
+      "wheelTicket" : true,
+      "withJoe" : true
     }
   ],
   "shopItems" : [
